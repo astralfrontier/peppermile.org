@@ -1,0 +1,13 @@
+if pagination.pages.length > 1
+  div.row
+    nav
+      ul.pagination
+        if pagination.previous
+          li
+            a(href=pagination.previous.path) &laquo;
+        for page, index in pagination.pages
+          li(class=(page.pagination.num == pagination.num ? "active" : ""))
+            a(href=page.path)= page.pagination.num
+        if pagination.next
+          li
+            a(href=pagination.next.path) &raquo;

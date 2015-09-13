@@ -47,21 +47,19 @@ collection_data = {
   blog:
     sortBy: 'date'
     reverse: true
-  masque:
-    sortBy: 'title'
-  reviews:
-    sortBy: 'title'
-  songofeden:
-    sortBy: 'title'
-  vessels:
-    sortBy: 'title'
 }
 
 pagination_data = {
+  'collections.blog':
+    perPage: 10
+    layout: 'bloglist.jade'
+    first: 'index.html'
+    path: 'blog/:num.html'
 }
 
 metalsmith(__dirname)
   .use(metadata({
+    'menu': 'menu.yaml'
     'site': 'site.yaml'
   }))
   .use(drafts())
@@ -99,7 +97,7 @@ metalsmith(__dirname)
     engine: 'jade'
     directory: 'layouts'
     partials: 'partials'
-    default: 'fullpage-title.jade'
+    default: 'master.jade'
   }))
   .use(jquery(($) ->
     # All external links should open in new windows

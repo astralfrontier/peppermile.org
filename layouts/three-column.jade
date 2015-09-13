@@ -1,0 +1,16 @@
+extends ./master.jade
+
+block contents
+  div.container
+    div.row
+      div.col-sm-12
+        div.page-header
+          h1= title || "Peppermile"
+    div.row
+      div.col-sm-2
+        block left
+          include ./menu.jade
+      div.col-sm-8
+        block main
+      div.col-sm-2
+        block right
