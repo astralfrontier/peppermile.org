@@ -4,4 +4,13 @@ collection: blog
 template: blogpost.jade
 ---
 
-Coming soon.
+Welcome to *Peppermile Publishing*!
+
+Peppermile is a one-man operation (for right now) committed to creating:
+
+* Pay-what-you-want games with Creative Commons licenses
+* Interesting hacks of other Creative Commons games
+* Fictional stories and worlds to support gaming
+
+The first game to be published under the Peppermile name will be
+[Inept Sorcerers](/inept-sorcerers.html), with others to follow.
