@@ -12,7 +12,7 @@ You might be a barely adequate apprentice struggling to win your master's respec
 You might be a senile old coot who's forgotten most of his spells.
 You could even be an ordinary high school student, balancing your homework,
 your home life, and the study of an old grimoire you found with your friends.
-You're no master of magic.
+You're not exactly a master of magic.
 
 But you're still a sorcerer.
 You've seen the wondrous, unpredictable results of spellcasting.
