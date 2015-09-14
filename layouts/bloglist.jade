@@ -1,12 +1,10 @@
 extends ./three-column.jade
 
 block main 
-  div.container
-    for post in pagination.files
-      div.row
-        div.col-sm-12
-          h4
-            a(href="/"+post.path)= post.title
-            small &nbsp;- #{post.date.toDateString()}
-          != post.less
-    include ./pagination.jade
+  for post in pagination.files
+    div
+      h4
+        a(href="/"+post.path)= post.title
+        small &nbsp;- #{post.date.toDateString()}
+      != post.less
+  include ./pagination.jade

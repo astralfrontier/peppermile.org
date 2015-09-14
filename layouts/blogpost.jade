@@ -1,14 +1,11 @@
 extends ./three-column.jade
 
 block main
-  div.container
-    div.row
-      div.col-sm-12
-        p
-          small Posted on #{date.toDateString()}
-          if tagged
-            = " -- "
-            for tag in (tagged || [])
-              a(href="/tag/" + tag + ".html")= tag
-              = " "
-        != contents
+  p
+    small Posted on #{date.toDateString()}
+    if tagged
+      = " -- "
+      for tag in (tagged || [])
+        a(href="/tag/" + tag + ".html")= tag
+        = " "
+  != contents

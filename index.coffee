@@ -97,7 +97,7 @@ metalsmith(__dirname)
     engine: 'jade'
     directory: 'layouts'
     partials: 'partials'
-    default: 'master.jade'
+    default: 'article.jade'
   }))
   .use(jquery(($) ->
     # All external links should open in new windows
