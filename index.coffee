@@ -59,6 +59,7 @@ pagination_data = {
 
 metalsmith(__dirname)
   .use(metadata({
+    'links': 'links.yaml'
     'menu': 'menu.yaml'
     'site': 'site.yaml'
   }))
