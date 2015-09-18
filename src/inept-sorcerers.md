@@ -1,5 +1,8 @@
 ---
 title: Inept Sorcerers
+images:
+  - name: Books and Magic Lamp
+    url: /assets/booksandmagiclamp.svg
 ---
 
 The Power is what sorcerers call the energy that makes magic happen.
