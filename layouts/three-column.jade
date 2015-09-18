@@ -2,15 +2,15 @@ extends ./master.jade
 
 block contents
   div.container
-    div.row
+    div.row.hidden-print
       div.col-sm-12
         div.page-header
           h1= title || "Peppermile"
     div.row
-      div.col-sm-3.peppermile-left-column
+      div.col-sm-3.peppermile-left-column.hidden-print
         block left
           include ./menu.jade
       div.col-sm-6.peppermile-main-column
         block main
-      div.col-sm-3.peppermile-right-column
+      div.col-sm-3.peppermile-right-column.hidden-print
         block right
