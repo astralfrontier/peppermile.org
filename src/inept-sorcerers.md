@@ -28,7 +28,7 @@ You can download the PDF here:
 <i class="fa fa-file-pdf-o"></i>
 
 If you want to hack on the game yourself, you can download
-the [Scribus](http://www.scribus.net/) 1.4.5 source file here:
+the [Scribus](http://www.scribus.net/) 1.5.0 source file here:
 [IneptSorcerers.sla](/assets/IneptSorcerers.sla)
 <i class="fa fa-file-o"></i>
 
