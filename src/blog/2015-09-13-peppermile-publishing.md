@@ -2,9 +2,6 @@
 title: Peppermile Publishing
 collection: blog
 template: blogpost.jade
-images:
-  - name: Peppermile Publishing
-    url: /assets/peppermile-publishing.svg
 ---
 
 Welcome to *Peppermile Publishing*!
