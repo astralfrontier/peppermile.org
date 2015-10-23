@@ -23,7 +23,11 @@ but usually what you need.
 
 ### Downloads
 
-You can download the PDF here:
+You can buy the game as a Pay-What-You-Want PDF from
+DriveThruRPG here:
+[http://www.drivethrurpg.com/product/162859/Inept-Sorcerers](http://www.drivethrurpg.com/product/162859/Inept-Sorcerers)
+
+Or, download the PDF directly here:
 [IneptSorcerers.pdf](/assets/IneptSorcerers.pdf)
 <i class="fa fa-file-pdf-o"></i>
 
