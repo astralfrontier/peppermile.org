@@ -1,0 +1,76 @@
+---
+title: Grand Adventure Discoveries
+---
+
+div(ng-app="discovery")
+  div(ng-controller="DiscoveryController")
+    p(ng-hide="phase > 0") Loading...
+
+    div(ng-show="phase == 1")
+      h1 Types
+      p Pick a type of discovery:
+      ul
+        li(ng-repeat="type in discoveries.types track by $index")
+          span(ng-bind="type" ng-click="set_discovery_type(type)")
+    div(ng-show="phase == 2")
+      h3 Discovery!
+      p You've found a...
+      p(ng-repeat="card in cards track by $index")
+        strong(ng-bind="card.name")
+      button(ng-click="refresh_cards()") Refresh
+
+script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular.min.js")
+script(src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js")
+script
+  :coffee-script
+    app = angular.module 'discovery', []
+    app.controller 'DiscoveryController', ($scope, $http, $log) ->
+      $scope.discoveries = {}
+      $scope.cards = []
+      $scope.exclusion_rules = []
+
+      $scope.set_discovery_type = (type) ->
+        $scope.phase = 2
+        $scope.discovery_type = type
+        $scope.refresh_cards()
+
+      $scope.add_card_from_list = (list) ->
+        candidates = _.filter list, (card) ->
+          excluded = false
+          _.each $scope.exclusion_rules, (rule) ->
+            if(card.name == rule)
+              excluded = true
+            if(card.type? && card.type == rule)
+              excluded = true
+          if excluded
+            return false
+          true
+        mycard = _.sample(candidates, 1)[0]
+        $scope.exclusion_rules.push(mycard.name)
+        $scope.exclusion_rules.push(mycard.type) if mycard.type?
+        $scope.exclusion_rules.concat(mycard.excludes) if mycard.excludes?
+        $scope.cards.push mycard
+
+      $scope.refresh_cards = () ->
+        $scope.cards = []
+        $scope.exclusion_rules = []
+        $scope.add_card_from_list($scope.discoveries.modifiers)
+        $scope.add_card_from_list($scope.discoveries.modifiers)
+        # Add a card of the appropriate type
+        list = null
+        if($scope.discovery_type == 'Place')
+          list = $scope.discoveries.places
+        if($scope.discovery_type == 'Thing')
+          list = $scope.discoveries.things
+        if($scope.discovery_type == 'Creature')
+          list = $scope.discoveries.creatures
+        $scope.add_card_from_list(list)
+
+      $log.debug 'Retrieving discovery data...'
+      $http.get('/assets/discovery.json').then (response) ->
+        $log.debug 'Loaded discovery data'
+        $scope.discoveries = response.data
+        # $scope.phase = 1
+        $scope.set_discovery_type('Place')
+      , (response) ->
+        $log.debug JSON.stringify(response)

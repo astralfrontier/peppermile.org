@@ -6,6 +6,7 @@ dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
 inPlace         = require 'metalsmith-in-place'
+jade            = require 'metalsmith-jade'
 jquery          = require 'metalsmith-jquery'
 layouts         = require 'metalsmith-layouts'
 less            = require 'metalsmith-less'
@@ -67,6 +68,9 @@ metalsmith(__dirname)
   .use(dateInFilename(true))
   .use(collections(collection_data))
   .use(pagination(pagination_data))
+  .use(jade({
+    pretty: true
+  }))
   .use(markdown({
     smartypants: true
     gfm: true

@@ -1,0 +1,141 @@
+{
+  "types": [
+    "Place",
+    "Thing",
+    "Creature"
+  ],
+  "places": [
+    {
+      "name": "Village"
+    },
+    {
+      "name": "City"
+    },
+    {
+      "name": "Island"
+    },
+    {
+      "name": "Cave"
+    },
+    {
+      "name": "Labyrinth"
+    },
+    {
+      "name": "Valley"
+    },
+    {
+      "name": "Continent"
+    },
+    {
+      "name": "Mountain"
+    },
+    {
+      "name": "Forest"
+    },
+    {
+      "name": "Castle"
+    },
+    {
+      "name": "Tower"
+    }
+  ],
+  "things": [
+    {
+      "name": "Weapon"
+    },
+    {
+      "name": "Tool"
+    }
+  ],
+  "creatures": [
+    {
+      "name": "TODO"
+    }
+  ],
+  "modifiers": [
+    {
+      "name": "Hidden"
+    },
+    {
+      "name": "Bustling",
+      "type": "activity-level"
+    },
+    {
+      "name": "Quiet",
+      "type": "activity-level"
+    },
+    {
+      "name": "Underwater",
+      "type": "elevation",
+      "excludes": ["Valley", "Continent", "Forest"]
+    },
+    {
+      "name": "Mysterious"
+    },
+    {
+      "name": "Floating",
+      "type": "elevation",
+      "excludes": ["Forest", "Cave", "Valley"]
+    },
+    {
+      "name": "Lost"
+    },
+    {
+      "name": "Primordial"
+    },
+    {
+      "name": "Frontiersy"
+    },
+    {
+      "name": "Monster-Ridden"
+    },
+    {
+      "name": "Magical",
+      "type": "power-source"
+    },
+    {
+      "name": "Sacred",
+      "type": "power-source"
+    },
+    {
+      "name": "Magitek",
+      "type": "power-source"
+    },
+    {
+      "name": "Northern",
+      "type": "direction"
+    },
+    {
+      "name": "Southern",
+      "type": "direction"
+    },
+    {
+      "name": "Eastern",
+      "type": "direction"
+    },
+    {
+      "name": "Western",
+      "type": "direction"
+    },
+    {
+      "name": "Earthy",
+      "type": "elemental"
+    },
+    {
+      "name": "Windy",
+      "type": "elemental"
+    },
+    {
+      "name": "Fiery",
+      "type": "elemental"
+    },
+    {
+      "name": "Watery",
+      "type": "elemental"
+    },
+    {
+      "name": "Icy",
+      "type": "elemental"
+    }
+  ]
+}
