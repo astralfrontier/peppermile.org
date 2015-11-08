@@ -17,7 +17,27 @@ div(ng-app="discovery")
       p You've found a...
       p(ng-repeat="card in cards track by $index")
         strong(ng-bind="card.name")
+      ul
+        li
+          em= "Mystery: "
+          span(ng-bind="mystery")
+        li
+          em= "Danger: "
+          span(ng-bind="danger")
+        li
+          em= "Weirdness: "
+          span(ng-bind="weirdness")
+        li
+          em= "Typical Challenge ratings: "
+          span(ng-bind="mystery + danger + weirdness")
       button(ng-click="refresh_cards()") Refresh
+      hr
+      p Each Discovery has three numbers, Mystery, Danger, and Weirdness.
+      p The numbers are not on some absolute scale. There is no maximum value. The higher the value, the greater the presence of the quality in question.
+      p Mystery means a puzzle to be solved, or a question to be answered. High-Mystery Discoveries revolve around learning about something.
+      p Danger means a threat to health, well-being, or sanity. High-Danger Discoveries revolve around surviving or defeating something.
+      p Weirdness means magic, divine power, high technology, or some other context-changing power source. This doesn't imply a type of challenge, but it flavors the challenges you will face.
+      p To determine the typical rating of a Challenge associated with this Discovery, sum the three numbers.
 
 script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular.min.js")
 script(src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js")
@@ -28,6 +48,7 @@ script
       $scope.discoveries = {}
       $scope.cards = []
       $scope.exclusion_rules = []
+      $scope.mystery = $scope.danger = $scope.weirdness = 0
 
       $scope.set_discovery_type = (type) ->
         $scope.phase = 2
@@ -50,10 +71,17 @@ script
         $scope.exclusion_rules.push(mycard.type) if mycard.type?
         $scope.exclusion_rules.concat(mycard.excludes) if mycard.excludes?
         $scope.cards.push mycard
+        if mycard.mystery?
+          $scope.mystery = $scope.mystery + mycard.mystery
+        if mycard.danger?
+          $scope.danger = $scope.danger + mycard.danger
+        if mycard.weirdness?
+          $scope.weirdness = $scope.weirdness + mycard.weirdness
 
       $scope.refresh_cards = () ->
         $scope.cards = []
         $scope.exclusion_rules = []
+        $scope.mystery = $scope.danger = $scope.weirdness = 0
         $scope.add_card_from_list($scope.discoveries.modifiers)
         $scope.add_card_from_list($scope.discoveries.modifiers)
         # Add a card of the appropriate type

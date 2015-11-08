@@ -6,37 +6,70 @@
   ],
   "places": [
     {
-      "name": "Village"
+      "name": "Village",
+      "mystery": 0,
+      "danger": 0,
+      "weirdness": 0
     },
     {
-      "name": "City"
+      "name": "City",
+      "mystery": 1,
+      "danger": 1,
+      "weirdness": 1
     },
     {
-      "name": "Island"
+      "name": "Island",
+      "mystery": 2,
+      "danger": 2,
+      "weirdness": 1
     },
     {
-      "name": "Cave"
+      "name": "Cave",
+      "mystery": 3,
+      "danger": 2,
+      "weirdness": 0
     },
     {
-      "name": "Labyrinth"
+      "name": "Labyrinth",
+      "mystery": 4,
+      "danger": 3,
+      "weirdness": 1
     },
     {
-      "name": "Valley"
+      "name": "Valley",
+      "mystery": 2,
+      "danger": 1,
+      "weirdness": 1
     },
     {
-      "name": "Continent"
+      "name": "Continent",
+      "mystery": 5,
+      "danger": 4,
+      "weirdness": 3
     },
     {
-      "name": "Mountain"
+      "name": "Mountain",
+      "mystery": 1,
+      "danger": 3,
+      "weirdness": 1
     },
     {
-      "name": "Forest"
+      "name": "Forest",
+      "mystery": 3,
+      "danger": 1,
+      "weirdness": 1
     },
     {
-      "name": "Castle"
+      "name": "Castle",
+      "mystery": 2,
+      "danger": 2,
+      "weirdness": 2
     },
     {
-      "name": "Tower"
+      "name": "Tower",
+      "mystery": 1,
+      "danger": 1,
+      "weirdness": 1
     }
   ],
   "things": [
@@ -54,52 +87,93 @@
   ],
   "modifiers": [
     {
-      "name": "Hidden"
+      "name": "Hidden",
+      "excludes": ["Lost"],
+      "mystery": 2,
+      "danger": 2,
+      "weirdness": 1
     },
     {
       "name": "Bustling",
-      "type": "activity-level"
+      "type": "activity-level",
+      "mystery": 0,
+      "danger": 3,
+      "weirdness": 1
     },
     {
       "name": "Quiet",
-      "type": "activity-level"
+      "type": "activity-level",
+      "mystery": 0,
+      "danger": 0,
+      "weirdness": 0
     },
     {
       "name": "Underwater",
       "type": "elevation",
-      "excludes": ["Valley", "Continent", "Forest"]
+      "excludes": ["Valley", "Continent", "Forest"],
+      "mystery": 2,
+      "danger": 2,
+      "weirdness": 3
     },
     {
-      "name": "Mysterious"
+      "name": "Mysterious",
+      "mystery": 5,
+      "danger": 0,
+      "weirdness": 0
     },
     {
       "name": "Floating",
       "type": "elevation",
-      "excludes": ["Forest", "Cave", "Valley"]
+      "excludes": ["Forest", "Cave", "Valley"],
+      "mystery": 1,
+      "danger": 1,
+      "weirdness": 5
     },
     {
-      "name": "Lost"
+      "name": "Lost",
+      "excludes": ["Hidden"],
+      "mystery": 4,
+      "danger": 2,
+      "weirdness": 1
     },
     {
-      "name": "Primordial"
+      "name": "Primordial",
+      "mystery": 4,
+      "danger": 2,
+      "weirdness": 4
     },
     {
-      "name": "Frontiersy"
+      "name": "Frontiersy",
+      "mystery": 0,
+      "danger": 3,
+      "weirdness": 0
     },
     {
-      "name": "Monster-Ridden"
+      "name": "Monster-Ridden",
+      "mystery": 1,
+      "danger": 5,
+      "weirdness": 1
     },
     {
       "name": "Magical",
-      "type": "power-source"
+      "type": "power-source",
+      "mystery": 1,
+      "danger": 2,
+      "weirdness": 4
     },
     {
       "name": "Sacred",
-      "type": "power-source"
+      "type": "power-source",
+      "mystery": 2,
+      "danger": 1,
+      "weirdness": 4
     },
     {
       "name": "Magitek",
-      "type": "power-source"
+      "type": "power-source",
+      "mystery": 2,
+      "danger": 2,
+      "weirdness": 5
     },
     {
       "name": "Northern",
@@ -119,23 +193,38 @@
     },
     {
       "name": "Earthy",
-      "type": "elemental"
+      "type": "elemental",
+      "mystery": 0,
+      "danger": 1,
+      "weirdness": 0
     },
     {
       "name": "Windy",
-      "type": "elemental"
+      "type": "elemental",
+      "mystery": 1,
+      "danger": 0,
+      "weirdness": 0
     },
     {
       "name": "Fiery",
-      "type": "elemental"
+      "type": "elemental",
+      "mystery": 0,
+      "danger": 1,
+      "weirdness": 0
     },
     {
       "name": "Watery",
-      "type": "elemental"
+      "type": "elemental",
+      "mystery": 1,
+      "danger": 0,
+      "weirdness": 0
     },
     {
       "name": "Icy",
-      "type": "elemental"
+      "type": "elemental",
+      "mystery": 0,
+      "danger": 1,
+      "weirdness": 0
     }
   ]
 }
