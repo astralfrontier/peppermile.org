@@ -4,101 +4,47 @@ title: Grand Adventure Discoveries
 
 div(ng-app="discovery")
   div(ng-controller="DiscoveryController")
-    p(ng-hide="phase > 0") Loading...
+    p What kind of story can you tell about this discovery?
+    hr
+    div
+      button.btn.btn-default.pull-right(ng-click="discover('d4')")
+        span.glyphicon.glyphicon-refresh
+      strong(ng-bind="discovery_message")
 
-    div(ng-show="phase == 1")
-      h1 Types
-      p Pick a type of discovery:
-      ul
-        li(ng-repeat="type in discoveries.types track by $index")
-          span(ng-bind="type" ng-click="set_discovery_type(type)")
-    div(ng-show="phase == 2")
-      h3 Discovery!
-      p You've found a...
-      p(ng-repeat="card in cards track by $index")
-        strong(ng-bind="card.name")
-      ul
-        li
-          em= "Mystery: "
-          span(ng-bind="mystery")
-        li
-          em= "Danger: "
-          span(ng-bind="danger")
-        li
-          em= "Weirdness: "
-          span(ng-bind="weirdness")
-        li
-          em= "Typical Challenge ratings: "
-          span(ng-bind="mystery + danger + weirdness")
-      button(ng-click="refresh_cards()") Refresh
-      hr
-      p Each Discovery has three numbers, Mystery, Danger, and Weirdness.
-      p The numbers are not on some absolute scale. There is no maximum value. The higher the value, the greater the presence of the quality in question.
-      p Mystery means a puzzle to be solved, or a question to be answered. High-Mystery Discoveries revolve around learning about something.
-      p Danger means a threat to health, well-being, or sanity. High-Danger Discoveries revolve around surviving or defeating something.
-      p Weirdness means magic, divine power, high technology, or some other context-changing power source. This doesn't imply a type of challenge, but it flavors the challenges you will face.
-      p To determine the typical rating of a Challenge associated with this Discovery, sum the three numbers.
-
-script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular.min.js")
+script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular.min.js")
 script(src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js")
 script
   :coffee-script
     app = angular.module 'discovery', []
     app.controller 'DiscoveryController', ($scope, $http, $log) ->
-      $scope.discoveries = {}
-      $scope.cards = []
-      $scope.exclusion_rules = []
-      $scope.mystery = $scope.danger = $scope.weirdness = 0
+      $log.debug 'Initializing discovery data...'
+      $scope.discovery_data = {}
+      $scope.discovery_values = {}
+      $scope.discovery_queue = []
+      $scope.discovery_message = "Loading..."
 
-      $scope.set_discovery_type = (type) ->
-        $scope.phase = 2
-        $scope.discovery_type = type
-        $scope.refresh_cards()
-
-      $scope.add_card_from_list = (list) ->
-        candidates = _.filter list, (card) ->
-          excluded = false
-          _.each $scope.exclusion_rules, (rule) ->
-            if(card.name == rule)
-              excluded = true
-            if(card.type? && card.type == rule)
-              excluded = true
-          if excluded
-            return false
-          true
-        mycard = _.sample(candidates, 1)[0]
-        $scope.exclusion_rules.push(mycard.name)
-        $scope.exclusion_rules.push(mycard.type) if mycard.type?
-        $scope.exclusion_rules.concat(mycard.excludes) if mycard.excludes?
-        $scope.cards.push mycard
-        if mycard.mystery?
-          $scope.mystery = $scope.mystery + mycard.mystery
-        if mycard.danger?
-          $scope.danger = $scope.danger + mycard.danger
-        if mycard.weirdness?
-          $scope.weirdness = $scope.weirdness + mycard.weirdness
-
-      $scope.refresh_cards = () ->
-        $scope.cards = []
-        $scope.exclusion_rules = []
-        $scope.mystery = $scope.danger = $scope.weirdness = 0
-        $scope.add_card_from_list($scope.discoveries.modifiers)
-        $scope.add_card_from_list($scope.discoveries.modifiers)
-        # Add a card of the appropriate type
-        list = null
-        if($scope.discovery_type == 'Place')
-          list = $scope.discoveries.places
-        if($scope.discovery_type == 'Thing')
-          list = $scope.discoveries.things
-        if($scope.discovery_type == 'Creature')
-          list = $scope.discoveries.creatures
-        $scope.add_card_from_list(list)
+      $scope.discover = (start) ->
+        $log.debug "Starting discovery at #{start}..."
+        $scope.discovery_queue.push start
+        message = ""
+        while($scope.discovery_queue.length > 0)
+          key = $scope.discovery_queue.pop()
+          $log.debug "Looking up data for #{key}..."
+          value = $scope.discovery_values[key] = _.sample($scope.discovery_data[key])
+          $log.debug JSON.stringify(value)
+          if value.template?
+            message = value.template
+          if value.next?
+            $scope.discovery_queue.push value.next
+          message = message.replace("%#{key}", value.name)
+          $log.debug "Updated message to: #{message}"
+        $scope.discovery_message = message
 
       $log.debug 'Retrieving discovery data...'
       $http.get('/assets/discovery.json').then (response) ->
         $log.debug 'Loaded discovery data'
-        $scope.discoveries = response.data
-        # $scope.phase = 1
-        $scope.set_discovery_type('Place')
+        $scope.discovery_data = response.data
+        $scope.discover("d4")
       , (response) ->
+        $scope.discovery_message = "There was an error loading discovery data, try again later"
         $log.debug JSON.stringify(response)

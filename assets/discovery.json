@@ -1,230 +1,180 @@
 {
-  "types": [
-    "Place",
-    "Thing",
-    "Creature"
+  "d4": [
+    {"name": "Place", "next": "d6.place", "template": "We want to %d6.place the %d12.place %d10.place %d8.place"},
+    {"name": "Creature", "next": "d6.creature", "template": "We want to %d6.creature the %d12.creature %d10.creature %d8.creature"},
+    {"name": "Object", "next": "d6.object", "template": "We want to %d6.object the %d12.object %d10.object %d8.object"}
   ],
-  "places": [
-    {
-      "name": "Village",
-      "mystery": 0,
-      "danger": 0,
-      "weirdness": 0
-    },
-    {
-      "name": "City",
-      "mystery": 1,
-      "danger": 1,
-      "weirdness": 1
-    },
-    {
-      "name": "Island",
-      "mystery": 2,
-      "danger": 2,
-      "weirdness": 1
-    },
-    {
-      "name": "Cave",
-      "mystery": 3,
-      "danger": 2,
-      "weirdness": 0
-    },
-    {
-      "name": "Labyrinth",
-      "mystery": 4,
-      "danger": 3,
-      "weirdness": 1
-    },
-    {
-      "name": "Valley",
-      "mystery": 2,
-      "danger": 1,
-      "weirdness": 1
-    },
-    {
-      "name": "Continent",
-      "mystery": 5,
-      "danger": 4,
-      "weirdness": 3
-    },
-    {
-      "name": "Mountain",
-      "mystery": 1,
-      "danger": 3,
-      "weirdness": 1
-    },
-    {
-      "name": "Forest",
-      "mystery": 3,
-      "danger": 1,
-      "weirdness": 1
-    },
-    {
-      "name": "Castle",
-      "mystery": 2,
-      "danger": 2,
-      "weirdness": 2
-    },
-    {
-      "name": "Tower",
-      "mystery": 1,
-      "danger": 1,
-      "weirdness": 1
-    }
+  "d4.element": [{"name": "Airy"}, {"name": "Earthy"}, {"name": "Fiery"}, {"name": "Watery"}],
+  "d4.direction": [{"name": "North"}, {"name": "South"}, {"name": "East"}, {"name": "West"}],
+  "d6.place": [
+    {"next": "d8.place", "name": "get into"},
+    {"next": "d8.place", "name": "get out of"},
+    {"next": "d8.place", "name": "protect"},
+    {"next": "d8.place", "name": "damage or destroy"},
+    {"next": "d8.place", "name": "locate or retrieve someone or something in"},
+    {"next": "d8.place", "name": "drop something or someone off in"}
   ],
-  "things": [
-    {
-      "name": "Weapon"
-    },
-    {
-      "name": "Tool"
-    }
+  "d8.place": [
+    {"next": "d10.place", "name": "Settlement", "help": "A village, city, etc."},
+    {"next": "d10.place", "name": "Fortification", "help": "A tower, castle, etc."},
+    {"next": "d10.place", "name": "Maze", "help": "A labyrinth, cave system, etc."},
+    {"next": "d10.place", "name": "Wilderness", "help": ""},
+    {"next": "d10.place", "name": "Mountain", "help": ""},
+    {"next": "d10.place", "name": "Valley", "help": ""},
+    {"next": "d10.place", "name": "Dungeon", "help": ""},
+    {"next": "d10.place", "name": "Vehicle", "help": "A ship, airship, etc."}
   ],
-  "creatures": [
-    {
-      "name": "TODO"
-    }
+  "d10.place": [
+    {"next": "d12.place", "name": "Hidden", "help": ""},
+    {"next": "d12.place", "name": "Lively", "help": ""},
+    {"next": "d12.place", "name": "Lost", "help": ""},
+    {"next": "d12.place", "name": "Quiet", "help": ""},
+    {"next": "d12.place", "name": "Abandoned", "help": ""},
+    {"next": "d12.place", "name": "Primordial", "help": ""},
+    {"next": "d12.place", "name": "Monster-ridden", "help": ""},
+    {"next": "d12.place", "name": "Magitek", "help": ""},
+    {"next": "d12.place", "name": "Arcane", "help": ""},
+    {"next": "d12.place", "name": "Sacred", "help": ""}
   ],
-  "modifiers": [
-    {
-      "name": "Hidden",
-      "excludes": ["Lost"],
-      "mystery": 2,
-      "danger": 2,
-      "weirdness": 1
-    },
-    {
-      "name": "Bustling",
-      "type": "activity-level",
-      "mystery": 0,
-      "danger": 3,
-      "weirdness": 1
-    },
-    {
-      "name": "Quiet",
-      "type": "activity-level",
-      "mystery": 0,
-      "danger": 0,
-      "weirdness": 0
-    },
-    {
-      "name": "Underwater",
-      "type": "elevation",
-      "excludes": ["Valley", "Continent", "Forest"],
-      "mystery": 2,
-      "danger": 2,
-      "weirdness": 3
-    },
-    {
-      "name": "Mysterious",
-      "mystery": 5,
-      "danger": 0,
-      "weirdness": 0
-    },
-    {
-      "name": "Floating",
-      "type": "elevation",
-      "excludes": ["Forest", "Cave", "Valley"],
-      "mystery": 1,
-      "danger": 1,
-      "weirdness": 5
-    },
-    {
-      "name": "Lost",
-      "excludes": ["Hidden"],
-      "mystery": 4,
-      "danger": 2,
-      "weirdness": 1
-    },
-    {
-      "name": "Primordial",
-      "mystery": 4,
-      "danger": 2,
-      "weirdness": 4
-    },
-    {
-      "name": "Frontiersy",
-      "mystery": 0,
-      "danger": 3,
-      "weirdness": 0
-    },
-    {
-      "name": "Monster-Ridden",
-      "mystery": 1,
-      "danger": 5,
-      "weirdness": 1
-    },
-    {
-      "name": "Magical",
-      "type": "power-source",
-      "mystery": 1,
-      "danger": 2,
-      "weirdness": 4
-    },
-    {
-      "name": "Sacred",
-      "type": "power-source",
-      "mystery": 2,
-      "danger": 1,
-      "weirdness": 4
-    },
-    {
-      "name": "Magitek",
-      "type": "power-source",
-      "mystery": 2,
-      "danger": 2,
-      "weirdness": 5
-    },
-    {
-      "name": "Northern",
-      "type": "direction"
-    },
-    {
-      "name": "Southern",
-      "type": "direction"
-    },
-    {
-      "name": "Eastern",
-      "type": "direction"
-    },
-    {
-      "name": "Western",
-      "type": "direction"
-    },
-    {
-      "name": "Earthy",
-      "type": "elemental",
-      "mystery": 0,
-      "danger": 1,
-      "weirdness": 0
-    },
-    {
-      "name": "Windy",
-      "type": "elemental",
-      "mystery": 1,
-      "danger": 0,
-      "weirdness": 0
-    },
-    {
-      "name": "Fiery",
-      "type": "elemental",
-      "mystery": 0,
-      "danger": 1,
-      "weirdness": 0
-    },
-    {
-      "name": "Watery",
-      "type": "elemental",
-      "mystery": 1,
-      "danger": 0,
-      "weirdness": 0
-    },
-    {
-      "name": "Icy",
-      "type": "elemental",
-      "mystery": 0,
-      "danger": 1,
-      "weirdness": 0
-    }
+  "d12.place": [
+    {"name": "%d4.element", "next": "d4.element"},
+    {"name": "%d4.direction", "next": "d4.direction"},
+    {"name": "Towering"},
+    {"name": "Shadowy"},
+    {"name": "Cursed"},
+    {"name": "Wrecked"},
+    {"name": "Frontier"},
+    {"name": "Snowy/Frozen"},
+    {"name": "Underground"},
+    {"name": "Underwater"},
+    {"name": "Floating"},
+    {"name": "Flying"}
+  ],
+  "d6.creature": [
+    {"next": "d8.creature", "name": "befriend"},
+    {"next": "d8.creature", "name": "pursue"},
+    {"next": "d8.creature", "name": "escape from"},
+    {"next": "d8.creature", "name": "figure out"},
+    {"next": "d8.creature", "name": "capture"},
+    {"next": "d8.creature", "name": "defeat"}
+  ],
+  "d8.creature": [
+    {"next": "d10.creature", "name": "Civilian"},
+    {"next": "d10.creature", "name": "Fighter"},
+    {"next": "d10.creature", "name": "Animal"},
+    {"next": "d10.creature", "name": "Beast"},
+    {"next": "d10.creature", "name": "Monster"},
+    {"next": "d10.creature", "name": "Construct"},
+    {"next": "d10.creature", "name": "Faerie"},
+    {"next": "d10.creature", "name": "Enigma"}
+  ],
+  "d10.creature": [
+    {"next": "d12.creature", "name": "Angry"},
+    {"next": "d12.creature", "name": "Cunning"},
+    {"next": "d12.creature", "name": "Rampaging"},
+    {"next": "d12.creature", "name": "Sneaky"},
+    {"next": "d12.creature", "name": "Valuable"},
+    {"next": "d12.creature", "name": "Hunted"},
+    {"next": "d12.creature", "name": "Lost"},
+    {"next": "d12.creature", "name": "Magitek"},
+    {"next": "d12.creature", "name": "Arcane"},
+    {"next": "d12.creature", "name": "Sacred"}
+  ],
+  "d12.creature": [
+    {"name": "%d4.element", "next": "d4.element"},
+    {"name": "Exceptional"},
+    {"name": "Big"},
+    {"name": "Altered"},
+    {"name": "Cursed"},
+    {"name": "Wounded"},
+    {"name": "Underground"},
+    {"name": "Underwater"},
+    {"name": "Floating"},
+    {"name": "Flying"}
+  ],
+  "d6.object": [
+    {"next": "d8.object", "name": "find"},
+    {"next": "d8.object", "name": "steal"},
+    {"next": "d8.object", "name": "retrieve"},
+    {"next": "d8.object", "name": "fix"},
+    {"next": "d8.object", "name": "figure out"},
+    {"next": "d8.object", "name": "dispose of"}
+  ],
+  "d8.object": [
+    {"next": "d10.object", "name": "Weapon"},
+    {"next": "d10.object", "name": "Armor"},
+    {"next": "d10.object", "name": "Book"},
+    {"next": "d10.object", "name": "Treasure"},
+    {"next": "d10.object", "name": "Tool"},
+    {"next": "d10.object", "name": "Gadget"},
+    {"next": "d10.object", "name": "Key"},
+    {"next": "d10.object", "name": "Vehicle"}
+  ],
+  "d10.object": [
+    {"next": "d12.object", "name": "Racial"},
+    {"next": "d12.object", "name": "Rare"},
+    {"next": "d12.object", "name": "Unique"},
+    {"next": "d12.object", "name": "Heirloom"},
+    {"next": "d12.object", "name": "Relic"},
+    {"next": "d12.object", "name": "Magitek"},
+    {"next": "d12.object", "name": "Arcane"},
+    {"next": "d12.object", "name": "Sacred"}
+  ],
+  "d12.object": [
+    {"name": "%d4.element", "next": "d4.element"},
+    {"name": "Superior"},
+    {"name": "Inferior"},
+    {"name": "Sealed"},
+    {"name": "Cursed"},
+    {"name": "Damaged"},
+    {"name": "Weird"},
+    {"name": "Illegal"},
+    {"name": "Dangerous"},
+    {"name": "Valuable"},
+    {"name": "Fake"},
+    {"name": "Disguised"}
+  ],
+  "d6.event": [
+    {"next": "d8.event", "name": "get to"},
+    {"next": "d8.event", "name": "escape from"},
+    {"next": "d8.event", "name": "survive"},
+    {"next": "d8.event", "name": "assist"},
+    {"next": "d8.event", "name": "figure out"},
+    {"next": "d8.event", "name": "stop"}
+  ],
+  "d8.event": [
+    {"next": "d10.event", "name": "Ceremony"},
+    {"next": "d10.event", "name": "Celebration"},
+    {"next": "d10.event", "name": "Infiltration"},
+    {"next": "d10.event", "name": "Jailbreak"},
+    {"next": "d10.event", "name": "Competition"},
+    {"next": "d10.event", "name": "Assault"},
+    {"next": "d10.event", "name": "Calamity"},
+    {"next": "d10.event", "name": "Mystery"}
+  ],
+  "d10.event": [
+    {"next": "d12.event", "name": "Natural"},
+    {"next": "d12.event", "name": "Political"},
+    {"next": "d12.event", "name": "Social"},
+    {"next": "d12.event", "name": "Economic"},
+    {"next": "d12.event", "name": "Military"},
+    {"next": "d12.event", "name": "Monstrous"},
+    {"next": "d12.event", "name": "Magitek"},
+    {"next": "d12.event", "name": "Arcane"},
+    {"next": "d12.event", "name": "Sacred"}
+  ],
+  "d12.event": [
+    {"name": "Common"},
+    {"name": "Rare"},
+    {"name": "Surprising"},
+    {"name": "Traveling"},
+    {"name": "Chaotic"},
+    {"name": "Expensive"},
+    {"name": "Unpopular"},
+    {"name": "Illegal"},
+    {"name": "Dangerous"},
+    {"name": "Fake"},
+    {"name": "Well-Known"},
+    {"name": "Secret"}
   ]
 }
