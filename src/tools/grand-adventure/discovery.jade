@@ -7,9 +7,13 @@ div(ng-app="discovery")
     p What kind of story can you tell about this discovery?
     hr
     div
-      button.btn.btn-default.pull-right(ng-click="discover('d4')")
+      button.btn.btn-default.pull-right(ng-click="refresh()")
         span.glyphicon.glyphicon-refresh
       strong(ng-bind="discovery_message")
+    hr
+    ol
+      li(ng-repeat="discovery_item in discovery_history")
+        strong(ng-bind="discovery_item")
 
 script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular.min.js")
 script(src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js")
@@ -21,7 +25,12 @@ script
       $scope.discovery_data = {}
       $scope.discovery_values = {}
       $scope.discovery_queue = []
+      $scope.discovery_history = []
       $scope.discovery_message = "Loading..."
+
+      $scope.refresh = () ->
+        $scope.discovery_history = [$scope.discovery_message].concat($scope.discovery_history).slice(0, 10)
+        $scope.discover('d4')
 
       $scope.discover = (start) ->
         $log.debug "Starting discovery at #{start}..."
