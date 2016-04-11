@@ -1,0 +1,1669 @@
+{
+  "books": [
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V1: The East Coast",
+      "url": "http://www.sjgames.com/gurps/books/AADATheEastCoast/"
+    },
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V2: The West Coast",
+      "url": "http://www.sjgames.com/gurps/books/AADATheWestCoast/"
+    },
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V3: The South",
+      "url": "http://www.sjgames.com/gurps/books/AADATheSouth/"
+    },
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V4: Australia",
+      "url": "http://www.sjgames.com/gurps/books/AADAAustralia/"
+    },
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V5: The Midwest",
+      "url": "http://www.sjgames.com/gurps/books/AADATheMidwest/"
+    },
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V6: The Free Oil States",
+      "url": "http://www.sjgames.com/gurps/books/AADATheFreeOilStates/"
+    },
+    {
+      "skip": true,
+      "name": "AADA Road Atlas V7: Mountain West",
+      "url": "http://www.sjgames.com/gurps/books/AADAMountainWest/"
+    },
+    {
+      "name": "Action 1: Heroes",
+      "url": "http://www.sjgames.com/gurps/books/action/action1/"
+    },
+    {
+      "skip": true,
+      "name": "Action 2: Exploits",
+      "url": "http://www.sjgames.com/gurps/books/action/action2/"
+    },
+    {
+      "skip": true,
+      "name": "Action 3: Furious Fists",
+      "url": "http://www.sjgames.com/gurps/books/action/action3/"
+    },
+    {
+      "skip": true,
+      "name": "Action 4: Specialists",
+      "url": "http://www.sjgames.com/gurps/books/action/action4/"
+    },
+    {
+      "name": "After the End 1: Wastelanders",
+      "url": "http://www.sjgames.com/gurps/books/aftertheend/aftertheend1/"
+    },
+    {
+      "skip": true,
+      "name": "After the End 2: The New World",
+      "url": "http://www.sjgames.com/gurps/books/aftertheend/aftertheend2/"
+    },
+    {
+      "name": "Age of Napoleon",
+      "url": "http://www.sjgames.com/gurps/books/ageofnapoleon/"
+    },
+    {
+      "name": "Aliens",
+      "url": "http://www.sjgames.com/gurps/books/aliens/"
+    },
+    {
+      "name": "Aliens: Sparrials",
+      "url": "http://www.sjgames.com/gurps/books/sparrials/"
+    },
+    {
+      "skip": true,
+      "name": "All-Star Jam 2004",
+      "url": "http://www.sjgames.com/gurps/books/allstarjam2004/"
+    },
+    {
+      "name": "Alpha Centauri",
+      "url": "http://www.sjgames.com/gurps/books/alphacentauri/"
+    },
+    {
+      "skip": true,
+      "name": "Alphabet Arcane",
+      "url": "http://www.sjgames.com/gurps/books/alphabetarcane/"
+    },
+    {
+      "name": "Alternate Earths",
+      "url": "http://www.sjgames.com/gurps/books/AltEarths/"
+    },
+    {
+      "skip": true,
+      "name": "Alternate Earths 2",
+      "url": "http://www.sjgames.com/gurps/books/altearths2/"
+    },
+    {
+      "name": "Arabian Nights",
+      "url": "http://www.sjgames.com/gurps/books/ArabianNights/"
+    },
+    {
+      "name": "Atlantis",
+      "url": "http://www.sjgames.com/gurps/books/atlantis/"
+    },
+    {
+      "name": "Atomic Horror",
+      "url": "http://www.sjgames.com/gurps/books/AtomicHorror/"
+    },
+    {
+      "name": "Autoduel",
+      "url": "http://www.sjgames.com/gurps/books/Autoduel/"
+    },
+    {
+      "skip": true,
+      "name": "Autoduel: Car Warriors",
+      "url": "http://www.sjgames.com/gurps/books/CarWarriors/"
+    },
+    {
+      "name": "Aztecs",
+      "url": "http://www.sjgames.com/gurps/books/aztecs/"
+    },
+    {
+      "name": "Banestorm",
+      "url": "http://www.sjgames.com/gurps/books/banestorm/"
+    },
+    {
+      "name": "Banestorm: Abydos",
+      "url": "http://www.sjgames.com/gurps/books/abydos/"
+    },
+    {
+      "skip": true,
+      "name": "Bestiary",
+      "url": "http://www.sjgames.com/gurps/books/Bestiary/"
+    },
+    {
+      "name": "Big Lizzie",
+      "url": "http://www.sjgames.com/gurps/books/biglizzie/"
+    },
+    {
+      "skip": true,
+      "name": "Bili the Axe: Up Harzburk!",
+      "url": "http://www.sjgames.com/gurps/books/BiliTheAxe/"
+    },
+    {
+      "name": "Bio-Tech",
+      "url": "http://www.sjgames.com/gurps/books/Bio-Tech/"
+    },
+    {
+      "name": "Black Ops",
+      "url": "http://www.sjgames.com/gurps/books/BlackOps/"
+    },
+    {
+      "skip": true,
+      "name": "Black Ops: A Minor Emergency",
+      "url": "http://www.sjgames.com/gurps/books/minoremergency/"
+    },
+    {
+      "skip": true,
+      "name": "Blood Types",
+      "url": "http://www.sjgames.com/gurps/books/Bloodtypes/"
+    },
+    {
+      "name": "Blue Planet",
+      "url": "http://www.sjgames.com/gurps/books/blueplanet/"
+    },
+    {
+      "name": "Boardroom and Curia",
+      "url": "http://www.sjgames.com/gurps/books/boardroomandcuria/"
+    },
+    {
+      "name": "Bunnies & Burrows",
+      "url": "http://www.sjgames.com/gurps/books/bunnies/"
+    },
+    {
+      "name": "Cabal",
+      "url": "http://www.sjgames.com/gurps/books/cabal/"
+    },
+    {
+      "name": "Callahan's Crosstime Saloon",
+      "url": "http://www.sjgames.com/gurps/books/callahan/"
+    },
+    {
+      "name": "Camelot",
+      "url": "http://www.sjgames.com/gurps/books/camelot/"
+    },
+    {
+      "name": "Casey & Andy",
+      "url": "http://www.sjgames.com/gurps/books/caseyandandy/"
+    },
+    {
+      "name": "Castle Falkenstein",
+      "url": "http://www.sjgames.com/gurps/books/castlefalkenstein/"
+    },
+    {
+      "skip": true,
+      "name": "Castle Falkenstein: The Ottoman Empire",
+      "url": "http://www.sjgames.com/gurps/books/ottoman/"
+    },
+    {
+      "name": "Celtic Myth",
+      "url": "http://www.sjgames.com/gurps/books/Celtic/"
+    },
+    {
+      "skip": true,
+      "name": "Chaos in Kansas",
+      "url": "http://www.sjgames.com/gurps/books/ChaosKansas/"
+    },
+    {
+      "name": "China",
+      "url": "http://www.sjgames.com/gurps/books/china/"
+    },
+    {
+      "skip": true,
+      "name": "City Stats",
+      "url": "http://www.sjgames.com/gurps/books/citystats/"
+    },
+    {
+      "name": "Cliffhangers",
+      "url": "http://www.sjgames.com/gurps/books/Cliffhangers/"
+    },
+    {
+      "name": "Conan",
+      "url": "http://www.sjgames.com/gurps/books/conan/"
+    },
+    {
+      "skip": true,
+      "name": "Conan and the Queen of the Black Coast",
+      "url": "http://www.sjgames.com/gurps/books/ConanQueenBlackCoast/"
+    },
+    {
+      "skip": true,
+      "name": "Conan Beyond Thunder River",
+      "url": "http://www.sjgames.com/gurps/books/ConanBeyondThunderRiver/"
+    },
+    {
+      "skip": true,
+      "name": "Conan the Wyrmslayer",
+      "url": "http://www.sjgames.com/gurps/books/ConanWyrmslayer/"
+    },
+    {
+      "skip": true,
+      "name": "Conan: Moon of Blood",
+      "url": "http://www.sjgames.com/gurps/books/ConanMoonBlood/"
+    },
+    {
+      "name": "Conspiracy X",
+      "url": "http://www.sjgames.com/gurps/books/conspiracyx/"
+    },
+    {
+      "name": "Cops",
+      "url": "http://www.sjgames.com/gurps/books/cops/"
+    },
+    {
+      "name": "Covert Ops",
+      "url": "http://www.sjgames.com/gurps/books/covertops/"
+    },
+    {
+      "name": "Creatures of the Night",
+      "url": "http://www.sjgames.com/gurps/books/CreaturesNight/"
+    },
+    {
+      "skip": true,
+      "name": "Creatures of the Night, Volume 1",
+      "url": "http://www.sjgames.com/gurps/books/creaturesofthenight/creaturesofthenight1/"
+    },
+    {
+      "skip": true,
+      "name": "Creatures of the Night, Volume 2",
+      "url": "http://www.sjgames.com/gurps/books/creaturesofthenight/creaturesofthenight2/"
+    },
+    {
+      "skip": true,
+      "name": "Creatures of the Night, Volume 3",
+      "url": "http://www.sjgames.com/gurps/books/creaturesofthenight/creaturesofthenight3/"
+    },
+    {
+      "skip": true,
+      "name": "Creatures of the Night, Volume 4",
+      "url": "http://www.sjgames.com/gurps/books/creaturesofthenight/creaturesofthenight4/"
+    },
+    {
+      "skip": true,
+      "name": "Creatures of the Night, Volume 5",
+      "url": "http://www.sjgames.com/gurps/books/creaturesofthenight/creaturesofthenight5/"
+    },
+    {
+      "name": "Crusades",
+      "url": "http://www.sjgames.com/gurps/books/crusades/"
+    },
+    {
+      "name": "CthulhuPunk",
+      "url": "http://www.sjgames.com/gurps/books/CthulhuPunk/"
+    },
+    {
+      "name": "Cyberpunk",
+      "url": "http://www.sjgames.com/gurps/books/cyberpunk/"
+    },
+    {
+      "skip": true,
+      "name": "Cyberpunk Adventures",
+      "url": "http://www.sjgames.com/gurps/books/CyberpunkAdventures/"
+    },
+    {
+      "name": "Cyberworld",
+      "url": "http://www.sjgames.com/gurps/books/cyberworld/"
+    },
+    {
+      "skip": true,
+      "name": "Deadlands Dime Novel 1 – Aces and Eights",
+      "url": "http://www.sjgames.com/gurps/deadlands/dn1/"
+    },
+    {
+      "skip": true,
+      "name": "Deadlands Dime Novel 2 – Wanted: Undead or Alive",
+      "url": "http://www.sjgames.com/gurps/deadlands/dn2/"
+    },
+    {
+      "skip": true,
+      "name": "Deadlands: Hexes",
+      "url": "http://www.sjgames.com/gurps/books/hexes/"
+    },
+    {
+      "skip": true,
+      "name": "Deadlands: Varmints",
+      "url": "http://www.sjgames.com/gurps/deadlands/varmints/"
+    },
+    {
+      "name": "Deadlands: Weird West",
+      "url": "http://www.sjgames.com/gurps/deadlands/weirdwest/"
+    },
+    {
+      "skip": true,
+      "name": "Deathwish",
+      "url": "http://www.sjgames.com/gurps/books/Deathwish/"
+    },
+    {
+      "name": "Dinosaurs",
+      "url": "http://www.sjgames.com/gurps/books/Dinosaurs/"
+    },
+    {
+      "name": "Discworld",
+      "url": "http://www.sjgames.com/gurps/books/Discworld/"
+    },
+    {
+      "skip": true,
+      "name": "Discworld Also",
+      "url": "http://www.sjgames.com/gurps/books/discworldalso/"
+    },
+    {
+      "name": "Dragons",
+      "url": "http://www.sjgames.com/gurps/books/dragons/"
+    },
+    {
+      "name": "Dungeon Fantasy 1: Adventurers",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy1/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 2: Dungeons",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy2/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 3: The Next Level",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy3/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 4: Sages",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/sages/ "
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 5: Allies",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy5/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 6: 40 Artifacts",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy6/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 7: Clerics",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy7/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 8: Treasure Tables",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy8/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 9: Summoners",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy9/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 10: Taverns",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy10/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 11: Power-Ups",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy11/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 12: Ninja",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy12/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 13: Loadouts",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy13/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 14: Psi",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy14/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 15: Henchmen",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy15/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 16: Wilderness Adventures",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy16/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 17: Guilds",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy17/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy 18: Power Items",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/dungeonfantasy18/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy Adventure 1: Mirror of the Fire Demon",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasyadventure1/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy Denizens: Barbarians",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasy/barbarians/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy Monsters 1",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasymonsters1/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy Monsters 2: Icky Goo",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasymonsters2/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy Treasures 1: Glittering Prizes",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasytreasures1/"
+    },
+    {
+      "skip": true,
+      "name": "Dungeon Fantasy Treasures 2: Epic Treasures",
+      "url": "http://www.sjgames.com/gurps/books/dungeonfantasytreasures2/"
+    },
+    {
+      "name": "Egypt",
+      "url": "http://www.sjgames.com/gurps/books/egypt/"
+    },
+    {
+      "name": "Espionage",
+      "url": "http://www.sjgames.com/gurps/books/espionage/"
+    },
+    {
+      "name": "Faerie",
+      "url": "http://www.sjgames.com/gurps/books/faerie/"
+    },
+    {
+      "name": "Fantasy",
+      "url": "http://www.sjgames.com/gurps/books/fantasy/"
+    },
+    {
+      "skip": true,
+      "name": "Fantasy Adventures",
+      "url": "http://www.sjgames.com/gurps/books/FantasyAdventures/"
+    },
+    {
+      "skip": true,
+      "name": "Fantasy Bestiary",
+      "url": "http://www.sjgames.com/gurps/books/FantasyBestiary/"
+    },
+    {
+      "name": "Fantasy Folk",
+      "url": "http://www.sjgames.com/gurps/books/FantasyFolk/"
+    },
+    {
+      "name": "Fantasy II: The Mad Lands",
+      "url": "http://www.sjgames.com/gurps/books/madlands/"
+    },
+    {
+      "name": "Fantasy-Tech 1: The Edge of Reality",
+      "url": "http://www.sjgames.com/gurps/books/fantasy-tech/fantasy-tech1/"
+    },
+    {
+      "name": "Fantasy: Harkwood",
+      "url": "http://www.sjgames.com/gurps/books/Harkwood/"
+    },
+    {
+      "name": "Fantasy: Tredroy",
+      "url": "http://www.sjgames.com/gurps/books/Tredroy/"
+    },
+    {
+      "name": "Flight 13",
+      "url": "http://www.sjgames.com/gurps/books/Flight13/"
+    },
+    {
+      "name": "Goblins",
+      "url": "http://www.sjgames.com/gurps/books/Goblins/"
+    },
+    {
+      "name": "Greece",
+      "url": "http://www.sjgames.com/gurps/books/greece/"
+    },
+    {
+      "name": "Grimoire",
+      "url": "http://www.sjgames.com/gurps/books/Grimoire/"
+    },
+    {
+      "name": "Gun Fu",
+      "url": "http://www.sjgames.com/gurps/books/gunfu/"
+    },
+    {
+      "name": "High-Tech",
+      "url": "http://www.sjgames.com/gurps/books/high-tech/"
+    },
+    {
+      "skip": true,
+      "name": "High-Tech: Adventure Guns",
+      "url": "http://www.sjgames.com/gurps/books/adventureguns/"
+    },
+    {
+      "skip": true,
+      "name": "High-Tech: Pulp Guns 1",
+      "url": "http://www.sjgames.com/gurps/books/pulpguns/pulpguns1/"
+    },
+    {
+      "skip": true,
+      "name": "High-Tech: Pulp Guns 2",
+      "url": "http://www.sjgames.com/gurps/books/pulpguns/pulpguns2/"
+    },
+    {
+      "skip": true,
+      "name": "High-Tech: Weapon Tables",
+      "url": "http://www.sjgames.com/gurps/books/weapontables/"
+    },
+    {
+      "name": "Horror",
+      "url": "http://www.sjgames.com/gurps/books/horror/"
+    },
+    {
+      "name": "Horror: The Madness Dossier",
+      "url": "http://www.sjgames.com/gurps/books/madnessdossier/"
+    },
+    {
+      "name": "Horseclans",
+      "url": "http://www.sjgames.com/gurps/books/horseclans/"
+    },
+    {
+      "name": "Hot Spots: Constantinople, 527-1204 A.D.",
+      "url": "http://www.sjgames.com/gurps/books/hotspots/constantinople/"
+    },
+    {
+      "name": "Hot Spots: Renaissance Florence",
+      "url": "http://www.sjgames.com/gurps/books/hotspots/renaissanceflorence/"
+    },
+    {
+      "name": "Humanx",
+      "url": "http://www.sjgames.com/gurps/books/humanx/"
+    },
+    {
+      "name": "Humanx: For Love of Mother-Not",
+      "url": "http://www.sjgames.com/gurps/books/ForLoveOfMother-Not/"
+    },
+    {
+      "name": "Ice Age",
+      "url": "http://www.sjgames.com/gurps/books/iceage/"
+    },
+    {
+      "name": "Illuminati",
+      "url": "http://www.sjgames.com/gurps/books/Illuminati/"
+    },
+    {
+      "name": "Imperial Rome",
+      "url": "http://www.sjgames.com/gurps/books/ImperialRome/"
+    },
+    {
+      "name": "In Nomine",
+      "url": "http://www.sjgames.com/gurps/books/in-nomine/"
+    },
+    {
+      "name": "Infinite Worlds",
+      "url": "http://www.sjgames.com/gurps/books/infiniteworlds/"
+    },
+    {
+      "skip": true,
+      "name": "Infinite Worlds: Britannica-6",
+      "url": "http://www.sjgames.com/gurps/books/britannica-6/"
+    },
+    {
+      "skip": true,
+      "name": "Infinite Worlds: Collegio Januari",
+      "url": "http://www.sjgames.com/gurps/books/collegiojanuari/"
+    },
+    {
+      "skip": true,
+      "name": "Infinite Worlds: Lost Worlds",
+      "url": "http://www.sjgames.com/gurps/books/lostworlds/"
+    },
+    {
+      "skip": true,
+      "name": "Infinite Worlds: Worlds of Horror",
+      "url": "http://www.sjgames.com/gurps/books/worldsofhorror/"
+    },
+    {
+      "name": "IOU",
+      "url": "http://www.sjgames.com/gurps/books/IOU/"
+    },
+    {
+      "skip": true,
+      "name": "IOU: It's Not Just a Game",
+      "url": "http://www.sjgames.com/gurps/books/itsnotjustagame/"
+    },
+    {
+      "skip": true,
+      "name": "IST Kingston",
+      "url": "http://www.sjgames.com/gurps/books/istkingston/"
+    },
+    {
+      "name": "Japan",
+      "url": "http://www.sjgames.com/gurps/books/Japan/"
+    },
+    {
+      "skip": true,
+      "name": "Lair of the Fat Man",
+      "url": "http://www.sjgames.com/gurps/books/lairofthefatman/"
+    },
+    {
+      "name": "Lands Out of Time",
+      "url": "http://www.sjgames.com/gurps/books/landsoutoftime/"
+    },
+    {
+      "name": "Lensman",
+      "url": "http://www.sjgames.com/gurps/books/Lensman/"
+    },
+    {
+      "skip": true,
+      "name": "Loadouts: Low-Tech Armor",
+      "url": "http://www.sjgames.com/gurps/books/loadouts/lowtecharmor/"
+    },
+    {
+      "skip": true,
+      "name": "Loadouts: Monster Hunters",
+      "url": "http://www.sjgames.com/gurps/books/loadouts/monsterhunters/"
+    },
+    {
+      "name": "Locations: Hellsgate",
+      "url": "http://www.sjgames.com/gurps/books/locations/hellsgate/"
+    },
+    {
+      "name": "Locations: Metro of Madness",
+      "url": "http://www.sjgames.com/gurps/books/locations/metroofmadness/"
+    },
+    {
+      "name": "Locations: St. George's Cathedral",
+      "url": "http://www.sjgames.com/gurps/books/locations/stgeorgescathedral/"
+    },
+    {
+      "name": "Locations: Tower of Octavius",
+      "url": "http://www.sjgames.com/gurps/books/locations/towerofoctavius/"
+    },
+    {
+      "name": "Locations: Worminghall",
+      "url": "http://www.sjgames.com/gurps/books/locations/worminghall/"
+    },
+    {
+      "name": "Low-Tech",
+      "url": "http://www.sjgames.com/gurps/books/low-tech/"
+    },
+    {
+      "skip": true,
+      "name": "Low-Tech Companion 1: Philosophers and Kings",
+      "url": "http://www.sjgames.com/gurps/books/Low-Tech/companion1/"
+    },
+    {
+      "skip": true,
+      "name": "Low-Tech Companion 2: Weapons and Warriors",
+      "url": "http://www.sjgames.com/gurps/books/Low-Tech/companion2/"
+    },
+    {
+      "skip": true,
+      "name": "Low-Tech Companion 3: Daily Life and Economics",
+      "url": "http://www.sjgames.com/gurps/books/Low-Tech/companion3/"
+    },
+    {
+      "skip": true,
+      "name": "Low-Tech: Instant Armor",
+      "url": "http://www.sjgames.com/gurps/books/instantarmor/"
+    },
+    {
+      "skip": true,
+      "name": "MacGuffin Alphabet",
+      "url": "http://www.sjgames.com/gurps/books/macguffinalphabet/"
+    },
+    {
+      "name": "Mage: The Ascension",
+      "url": "http://www.sjgames.com/gurps/books/MageTheAscension/"
+    },
+    {
+      "name": "Magic",
+      "url": "http://www.sjgames.com/gurps/books/magic/"
+    },
+    {
+      "name": "Magic Items 1",
+      "url": "http://www.sjgames.com/gurps/books/MagicItems/"
+    },
+    {
+      "skip": true,
+      "name": "Magic Items 2",
+      "url": "http://www.sjgames.com/gurps/books/magicitems2/"
+    },
+    {
+      "skip": true,
+      "name": "Magic Items 3",
+      "url": "http://www.sjgames.com/gurps/books/magicitems3/"
+    },
+    {
+      "skip": true,
+      "name": "Magic: Death Spells",
+      "url": "http://www.sjgames.com/gurps/books/Magic/deathspells/"
+    },
+    {
+      "skip": true,
+      "name": "Magic: Plant Spells",
+      "url": "http://www.sjgames.com/gurps/books/Magic/plantspells/"
+    },
+    {
+      "skip": true,
+      "name": "Magical Styles: Dungeon Magic",
+      "url": "http://www.sjgames.com/gurps/books/dungeonmagic/"
+    },
+    {
+      "name": "Man to Man",
+      "url": "http://www.sjgames.com/gurps/books/man-to-man/"
+    },
+    {
+      "name": "Mars",
+      "url": "http://www.sjgames.com/gurps/books/mars/"
+    },
+    {
+      "name": "Mars: Grendel",
+      "url": "http://www.sjgames.com/gurps/books/grendel/"
+    },
+    {
+      "name": "Mars: Rescue Mission",
+      "url": "http://www.sjgames.com/gurps/books/rescuemission/"
+    },
+    {
+      "name": "Martial Arts",
+      "url": "http://www.sjgames.com/gurps/books/martialarts/"
+    },
+    {
+      "skip": true,
+      "name": "Martial Arts Adventures",
+      "url": "http://www.sjgames.com/gurps/books/MartialArtsAdventures/"
+    },
+    {
+      "skip": true,
+      "name": "Martial Arts: Fairbairn Close Combat Systems",
+      "url": "http://www.sjgames.com/gurps/books/fairbairn/"
+    },
+    {
+      "skip": true,
+      "name": "Martial Arts: Gladiators",
+      "url": "http://www.sjgames.com/gurps/books/martialarts/gladiators/"
+    },
+    {
+      "skip": true,
+      "name": "Martial Arts: Technical Grappling",
+      "url": "http://www.sjgames.com/gurps/books/MartialArts/technicalgrappling/"
+    },
+    {
+      "skip": true,
+      "name": "Martial Arts: Yrth Fighting Styles",
+      "url": "http://www.sjgames.com/gurps/books/MartialArts/yrthfightingstyles/"
+    },
+    {
+      "name": "Mass Combat",
+      "url": "http://www.sjgames.com/gurps/books/masscombat/"
+    },
+    {
+      "name": "Mecha",
+      "url": "http://www.sjgames.com/gurps/books/Mecha/"
+    },
+    {
+      "name": "Middle Ages 1",
+      "url": "http://www.sjgames.com/gurps/books/MiddleAges1/"
+    },
+    {
+      "name": "Modern Firepower",
+      "url": "http://www.sjgames.com/gurps/books/modernfirepower/"
+    },
+    {
+      "skip": true,
+      "name": "Monster Hunters 1: Champions",
+      "url": "http://www.sjgames.com/gurps/books/monsterhunters/monsterhunters1/"
+    },
+    {
+      "skip": true,
+      "name": "Monster Hunters 2: The Mission",
+      "url": "http://www.sjgames.com/gurps/books/monsterhunters/monsterhunters2/"
+    },
+    {
+      "skip": true,
+      "name": "Monster Hunters 3: The Enemy",
+      "url": "http://www.sjgames.com/gurps/books/monsterhunters/monsterhunters3/"
+    },
+    {
+      "skip": true,
+      "name": "Monster Hunters 4: Sidekicks",
+      "url": "http://www.sjgames.com/gurps/books/monsterhunters/monsterhunters4/"
+    },
+    {
+      "skip": true,
+      "name": "Monster Hunters 5: Applied Xenology",
+      "url": "http://www.sjgames.com/gurps/books/monsterhunters/monsterhunters5/"
+    },
+    {
+      "name": "Monsters",
+      "url": "http://www.sjgames.com/gurps/books/monsters/"
+    },
+    {
+      "name": "Mysteries",
+      "url": "http://www.sjgames.com/gurps/books/mysteries/"
+    },
+    {
+      "name": "Myth",
+      "url": "http://www.sjgames.com/gurps/books/myth/"
+    },
+    {
+      "name": "New Sun",
+      "url": "http://www.sjgames.com/gurps/books/newsun/"
+    },
+    {
+      "name": "Ogre",
+      "url": "http://www.sjgames.com/gurps/books/ogre/"
+    },
+    {
+      "name": "Old Stone Fort",
+      "url": "http://www.sjgames.com/gurps/books/OldStoneFort/"
+    },
+    {
+      "name": "Old West",
+      "url": "http://www.sjgames.com/gurps/books/OldWest/"
+    },
+    {
+      "name": "Operation Endgame",
+      "url": "http://www.sjgames.com/gurps/books/OperationEndgame/"
+    },
+    {
+      "name": "Orcslayer",
+      "url": "http://www.sjgames.com/gurps/books/orcslayer/"
+    },
+    {
+      "name": "Places of Mystery",
+      "url": "http://www.sjgames.com/gurps/books/PlacesMystery/"
+    },
+    {
+      "name": "Planet Krishna",
+      "url": "http://www.sjgames.com/gurps/books/Krishna/"
+    },
+    {
+      "name": "Planet of Adventure",
+      "url": "http://www.sjgames.com/gurps/books/planetofadventure/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 1: Imbuements",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups1/ "
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 2: Perks",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups2/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 3: Talents",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups3/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 4: Enhancements",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups4/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 5: Impulse Buys",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups5/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 6: Quirks",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups6/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 7: Wildcard Skills",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups7/"
+    },
+    {
+      "skip": true,
+      "name": "Power-Ups 8: Limitations",
+      "url": "http://www.sjgames.com/gurps/books/power-ups/power-ups8/"
+    },
+    {
+      "name": "Powers",
+      "url": "http://www.sjgames.com/gurps/books/powers/"
+    },
+    {
+      "skip": true,
+      "name": "Powers: Divine Favor",
+      "url": "http://www.sjgames.com/gurps/books/divinefavor/"
+    },
+    {
+      "skip": true,
+      "name": "Powers: Enhanced Senses",
+      "url": "http://www.sjgames.com/gurps/books/enhancedsenses/"
+    },
+    {
+      "skip": true,
+      "name": "Powers: The Weird",
+      "url": "http://www.sjgames.com/gurps/books/theweird/"
+    },
+    {
+      "name": "Prime Directive",
+      "url": "http://www.sjgames.com/gurps/books/primedirective/"
+    },
+    {
+      "name": "Prisoner",
+      "url": "http://www.sjgames.com/gurps/books/prisoner/"
+    },
+    {
+      "name": "Psi-Tech",
+      "url": "http://www.sjgames.com/gurps/books/psi-tech/"
+    },
+    {
+      "skip": true,
+      "name": "Psionic Campaigns",
+      "url": "http://www.sjgames.com/gurps/books/psioniccampaigns/"
+    },
+    {
+      "skip": true,
+      "name": "Psionic Powers",
+      "url": "http://www.sjgames.com/gurps/books/psionicpowers/"
+    },
+    {
+      "name": "Psionics",
+      "url": "http://www.sjgames.com/gurps/books/Psionics/"
+    },
+    {
+      "skip": true,
+      "name": "Psis",
+      "url": "http://www.sjgames.com/gurps/books/psis/"
+    },
+    {
+      "name": "Reign of Steel",
+      "url": "http://www.sjgames.com/gurps/books/reignsteel/"
+    },
+    {
+      "skip": true,
+      "name": "Reign of Steel: Will to Live",
+      "url": "http://www.sjgames.com/gurps/books/willtolive/"
+    },
+    {
+      "name": "Religion",
+      "url": "http://www.sjgames.com/gurps/books/Religion/"
+    },
+    {
+      "name": "Riverworld",
+      "url": "http://www.sjgames.com/gurps/books/riverworld/"
+    },
+    {
+      "name": "Robin Hood",
+      "url": "http://www.sjgames.com/gurps/books/robinhood/"
+    },
+    {
+      "name": "Robots",
+      "url": "http://www.sjgames.com/gurps/books/Robots/"
+    },
+    {
+      "name": "Rogues",
+      "url": "http://www.sjgames.com/gurps/books/rogues/"
+    },
+    {
+      "name": "Russia",
+      "url": "http://www.sjgames.com/gurps/books/russia/"
+    },
+    {
+      "name": "Scarlet Pimpernel",
+      "url": "http://www.sjgames.com/gurps/books/scarletpimpernel/"
+    },
+    {
+      "name": "Screampunk",
+      "url": "http://www.sjgames.com/gurps/books/screampunk/"
+    },
+    {
+      "name": "SEALs in Vietnam",
+      "url": "http://www.sjgames.com/gurps/books/sealsinvietnam/"
+    },
+    {
+      "name": "Shapeshifters",
+      "url": "http://www.sjgames.com/gurps/books/shapeshifters/"
+    },
+    {
+      "name": "Social Engineering",
+      "url": "http://www.sjgames.com/gurps/books/socialengineering/"
+    },
+    {
+      "skip": true,
+      "name": "Social Engineering: Back to School",
+      "url": "http://www.sjgames.com/gurps/books/backtoschool/"
+    },
+    {
+      "skip": true,
+      "name": "Social Engineering: Pulling Rank",
+      "url": "http://www.sjgames.com/gurps/books/pullingrank/"
+    },
+    {
+      "name": "Space",
+      "url": "http://www.sjgames.com/gurps/books/Space/"
+    },
+    {
+      "skip": true,
+      "name": "Space Adventures",
+      "url": "http://www.sjgames.com/gurps/books/SpaceAdventures/"
+    },
+    {
+      "skip": true,
+      "name": "Space Atlas",
+      "url": "http://www.sjgames.com/gurps/books/SpaceAtlas/"
+    },
+    {
+      "skip": true,
+      "name": "Space Atlas 2",
+      "url": "http://www.sjgames.com/gurps/books/SpaceAtlas2/"
+    },
+    {
+      "skip": true,
+      "name": "Space Atlas 3",
+      "url": "http://www.sjgames.com/gurps/books/SpaceAtlas3/"
+    },
+    {
+      "skip": true,
+      "name": "Space Atlas 4",
+      "url": "http://www.sjgames.com/gurps/books/SpaceAtlas4/"
+    },
+    {
+      "skip": true,
+      "name": "Space Bestiary",
+      "url": "http://www.sjgames.com/gurps/books/SpaceBestiary/"
+    },
+    {
+      "skip": true,
+      "name": "Space: Stardemon",
+      "url": "http://www.sjgames.com/gurps/books/Stardemon/"
+    },
+    {
+      "skip": true,
+      "name": "Space: Terradyne",
+      "url": "http://www.sjgames.com/gurps/books/terradyne/"
+    },
+    {
+      "skip": true,
+      "name": "Space: Unnight",
+      "url": "http://www.sjgames.com/gurps/books/Unnight/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships1/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 2: Traders, Liners, and Transports",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships2/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 3: Warships and Space Pirates",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships3/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 4: Fighters, Carriers, and Mecha",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships4/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 5: Exploration and Colony Spacecraft",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships5/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 6: Mining and Industrial Spacecraft",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships6/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 7: Divergent and Paranormal Tech",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships7/"
+    },
+    {
+      "skip": true,
+      "name": "Spaceships 8: Transhuman Spacecraft",
+      "url": "http://www.sjgames.com/gurps/books/spaceships/spaceships8/"
+    },
+    {
+      "name": "Special Ops",
+      "url": "http://www.sjgames.com/gurps/books/SpecialOps/"
+    },
+    {
+      "name": "Spirits",
+      "url": "http://www.sjgames.com/gurps/books/spirits/"
+    },
+    {
+      "name": "Steam-Tech",
+      "url": "http://www.sjgames.com/gurps/books/steamtech/"
+    },
+    {
+      "name": "Steampunk",
+      "url": "http://www.sjgames.com/gurps/books/steampunk/"
+    },
+    {
+      "skip": true,
+      "name": "Super Scum",
+      "url": "http://www.sjgames.com/gurps/books/SuperScum/"
+    },
+    {
+      "name": "Supers",
+      "url": "http://www.sjgames.com/gurps/books/supers/"
+    },
+    {
+      "skip": true,
+      "name": "Supers Adventures",
+      "url": "http://www.sjgames.com/gurps/books/SupersAdventures/"
+    },
+    {
+      "skip": true,
+      "name": "Supers: International Super Teams",
+      "url": "http://www.sjgames.com/gurps/books/InternationalSuperTeams/"
+    },
+    {
+      "skip": true,
+      "name": "Supers: Mixed Doubles",
+      "url": "http://www.sjgames.com/gurps/books/MixedDoubles/"
+    },
+    {
+      "skip": true,
+      "name": "Supers: School of Hard Knocks",
+      "url": "http://www.sjgames.com/gurps/books/SchoolHardKnocks/"
+    },
+    {
+      "name": "Supertemps",
+      "url": "http://www.sjgames.com/gurps/books/Supertemps/"
+    },
+    {
+      "skip": true,
+      "name": "Supporting Cast",
+      "url": "http://www.sjgames.com/gurps/books/SupportingCast/"
+    },
+    {
+      "skip": true,
+      "name": "Supporting Cast: Age of Sail Pirate Crew",
+      "url": "http://www.sjgames.com/gurps/books/ageofsailpiratecrew/"
+    },
+    {
+      "name": "Swashbucklers",
+      "url": "http://www.sjgames.com/gurps/books/Swashbucklers/"
+    },
+    {
+      "name": "SWAT",
+      "url": "http://www.sjgames.com/gurps/books/swat/"
+    },
+    {
+      "skip": true,
+      "name": "Tactical Shooting",
+      "url": "http://www.sjgames.com/gurps/books/tacticalshooting/"
+    },
+    {
+      "skip": true,
+      "name": "Tales of the Solar Patrol",
+      "url": "http://www.sjgames.com/gurps/books/talesofthesolarpatrol/"
+    },
+    {
+      "name": "Technomancer",
+      "url": "http://www.sjgames.com/gurps/books/technomancer/"
+    },
+    {
+      "skip": true,
+      "name": "Technomancer: Funny New Guys",
+      "url": "http://www.sjgames.com/gurps/books/funnynewguys/"
+    },
+    {
+      "skip": true,
+      "name": "Template Toolkit 1: Characters",
+      "url": "http://www.sjgames.com/gurps/books/templatetoolkit1/"
+    },
+    {
+      "name": "Temple of the Lost Gods",
+      "url": "http://www.sjgames.com/gurps/books/templeofthelostgods/"
+    },
+    {
+      "name": "Thaumatology",
+      "url": "http://www.sjgames.com/gurps/books/thaumatology/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Age of Gold",
+      "url": "http://www.sjgames.com/gurps/books/ageofgold/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Alchemical Baroque",
+      "url": "http://www.sjgames.com/gurps/books/alchemicalbaroque/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Chinese Elemental Powers",
+      "url": "http://www.sjgames.com/gurps/books/chineseelementalpowers/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Magical Styles",
+      "url": "http://www.sjgames.com/gurps/books/magicalstyles/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Ritual Path Magic",
+      "url": "http://www.sjgames.com/gurps/books/ritualpathmagic/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Sorcery",
+      "url": "http://www.sjgames.com/gurps/books/sorcery/"
+    },
+    {
+      "skip": true,
+      "name": "Thaumatology: Urban Magics",
+      "url": "http://www.sjgames.com/gurps/books/urbanmagics/"
+    },
+    {
+      "name": "Time Travel",
+      "url": "http://www.sjgames.com/gurps/books/TimeTravel/"
+    },
+    {
+      "skip": true,
+      "name": "Time Travel Adventures",
+      "url": "http://www.sjgames.com/gurps/books/TimeTravelAdventures/"
+    },
+    {
+      "skip": true,
+      "name": "Timeline",
+      "url": "http://www.sjgames.com/gurps/books/Timeline/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: Broken Dreams",
+      "url": "http://www.sjgames.com/gurps/transhuman/brokendreams/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: Changing Times",
+      "url": "http://www.sjgames.com/gurps/transhuman/changingtimes/"
+    },
+    {
+      "name": "Transhuman Space: Fifth Wave",
+      "url": "http://www.sjgames.com/gurps/transhuman/fifthwave/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: In The Well",
+      "url": "http://www.sjgames.com/gurps/transhumanspace/inthewell/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: Martial Arts 2100",
+      "url": "http://www.sjgames.com/gurps/transhuman/martialarts2100/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: Orbital Decay",
+      "url": "http://www.sjgames.com/gurps/transhuman/orbitaldecay/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: Spacecraft of the Solar System",
+      "url": "http://www.sjgames.com/gurps/transhuman/spacecraft/"
+    },
+    {
+      "skip": true,
+      "name": "Transhuman Space: Transhuman Mysteries",
+      "url": "http://www.sjgames.com/gurps/transhuman/transhumanmysteries/"
+    },
+    {
+      "name": "Traveller",
+      "url": "http://www.sjgames.com/gurps/traveller/core/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller Deck Plan 1 – Beowulf-Class Far Trader",
+      "url": "http://www.sjgames.com/gurps/traveller/deckplan1/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller Deck Plan 2 – Modular Cutter",
+      "url": "http://www.sjgames.com/gurps/traveller/deckplan2/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller Deck Plan 3 – Empress Marava-Class Far Trader",
+      "url": "http://www.sjgames.com/gurps/traveller/DP3/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller Deck Plan 5 – Sulieman-Class Scout/Courier",
+      "url": "http://www.sjgames.com/gurps/traveller/DP5/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller Deck Plan 6 – Dragon-Class System Defense Boat",
+      "url": "http://www.sjgames.com/gurps/traveller/DP6/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Alien Races 1",
+      "url": "http://www.sjgames.com/gurps/traveller/AlienRaces/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Alien Races 2",
+      "url": "http://www.sjgames.com/gurps/traveller/alienraces2/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Alien Races 3",
+      "url": "http://www.sjgames.com/gurps/traveller/alienraces3/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Alien Races 4",
+      "url": "http://www.sjgames.com/gurps/traveller/alienraces4/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Behind The Claw",
+      "url": "http://www.sjgames.com/gurps/traveller/spinward/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Droyne Coyn Set",
+      "url": "http://www.sjgames.com/gurps/traveller/alienraces3/index.html#coyns"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Far Trader",
+      "url": "http://www.sjgames.com/gurps/traveller/fartrader/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: First In",
+      "url": "http://www.sjgames.com/gurps/traveller/firstin/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Ground Forces",
+      "url": "http://www.sjgames.com/gurps/traveller/groundforces/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Heroes 1 – Bounty Hunters",
+      "url": "http://www.sjgames.com/gurps/traveller/heroes1/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Humaniti",
+      "url": "http://www.sjgames.com/gurps/traveller/humaniti/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Interstellar Wars",
+      "url": "http://www.sjgames.com/gurps/traveller/interstellarwars/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Modular Cutter",
+      "url": "http://www.sjgames.com/gurps/traveller/modularcutter/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Nobles",
+      "url": "http://www.sjgames.com/gurps/traveller/nobles/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Planetary Survey 1 – Kamsii",
+      "url": "http://www.sjgames.com/gurps/traveller/planetarysurvey1/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Planetary Survey 2 – Denuli",
+      "url": "http://www.sjgames.com/gurps/traveller/PS2/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Planetary Survey 3 – Granicus",
+      "url": "http://www.sjgames.com/gurps/traveller/ps3/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Planetary Survey 4 – Glisten",
+      "url": "http://www.sjgames.com/gurps/traveller/ps4/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Planetary Survey 5 – Tobibak",
+      "url": "http://www.sjgames.com/gurps/traveller/ps5/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Planetary Survey 6 – Darkmoon",
+      "url": "http://www.sjgames.com/gurps/traveller/ps6/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Rim of Fire",
+      "url": "http://www.sjgames.com/gurps/traveller/solomanirim/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Star Mercs",
+      "url": "http://www.sjgames.com/gurps/traveller/Mercs/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Starports",
+      "url": "http://www.sjgames.com/gurps/traveller/starports/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Starships",
+      "url": "http://www.sjgames.com/gurps/traveller/starships/"
+    },
+    {
+      "skip": true,
+      "name": "Traveller: Sword Worlds",
+      "url": "http://www.sjgames.com/gurps/traveller/swordworlds/"
+    },
+    {
+      "name": "Ultra-Tech",
+      "url": "http://www.sjgames.com/gurps/books/ultra-tech/"
+    },
+    {
+      "skip": true,
+      "name": "Ultra-Tech 2",
+      "url": "http://www.sjgames.com/gurps/books/Ultra-Tech-2/"
+    },
+    {
+      "skip": true,
+      "name": "Ultra-Tech: Weapon Tables",
+      "url": "http://www.sjgames.com/gurps/books/Ultra-Tech/weapontables/"
+    },
+    {
+      "name": "Undead",
+      "url": "http://www.sjgames.com/gurps/books/Undead/"
+    },
+    {
+      "skip": true,
+      "name": "Underground Adventures",
+      "url": "http://www.sjgames.com/gurps/books/undergroundadventures/"
+    },
+    {
+      "name": "Uplift",
+      "url": "http://www.sjgames.com/gurps/books/Uplift/"
+    },
+    {
+      "skip": true,
+      "name": "Vampire Companion",
+      "url": "http://www.sjgames.com/gurps/books/VampireCompanion/"
+    },
+    {
+      "name": "Vampire: The Masquerade",
+      "url": "http://www.sjgames.com/gurps/books/VampireTheMasquerade/"
+    },
+    {
+      "name": "Vikings",
+      "url": "http://www.sjgames.com/gurps/books/Vikings/"
+    },
+    {
+      "name": "Villains",
+      "url": "http://www.sjgames.com/gurps/books/villains/"
+    },
+    {
+      "name": "Voodoo",
+      "url": "http://www.sjgames.com/gurps/books/voodoo/"
+    },
+    {
+      "name": "Vorkosigan Saga Sourcebook and Roleplaying Game",
+      "url": "http://www.sjgames.com/gurps/books/vorkosigan/"
+    },
+    {
+      "name": "War Against the Chtorr",
+      "url": "http://www.sjgames.com/gurps/books/chtorr/"
+    },
+    {
+      "name": "Warehouse 23",
+      "url": "http://www.sjgames.com/gurps/books/Warehouse23/"
+    },
+    {
+      "name": "Warriors",
+      "url": "http://www.sjgames.com/gurps/books/warriors/"
+    },
+    {
+      "skip": true,
+      "name": "Weird War II: The Secret of the Gneisenau",
+      "url": "http://www.sjgames.com/gurps/ww2/gneisenau/"
+    },
+    {
+      "name": "Werewolf: The Apocalypse",
+      "url": "http://www.sjgames.com/gurps/books/WerewolfTheApocalypse/"
+    },
+    {
+      "skip": true,
+      "name": "Who's Who 1",
+      "url": "http://www.sjgames.com/gurps/books/whoswho1/"
+    },
+    {
+      "skip": true,
+      "name": "Who's Who 2",
+      "url": "http://www.sjgames.com/gurps/books/whoswho2/"
+    },
+    {
+      "name": "Wild Cards",
+      "url": "http://www.sjgames.com/gurps/books/wildcards/"
+    },
+    {
+      "skip": true,
+      "name": "Wild Cards: Aces Abroad",
+      "url": "http://www.sjgames.com/gurps/books/AcesAbroad/"
+    },
+    {
+      "name": "Witch World",
+      "url": "http://www.sjgames.com/gurps/books/witchworld/"
+    },
+    {
+      "name": "Wizards",
+      "url": "http://www.sjgames.com/gurps/books/Wizards/"
+    },
+    {
+      "name": "WWII",
+      "url": "http://www.sjgames.com/gurps/books/ww2/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: All the King's Men",
+      "url": "http://www.sjgames.com/gurps/books/ww2/allthekingsmen/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Dogfaces",
+      "url": "http://www.sjgames.com/gurps/ww2/dogfaces/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Doomed White Eagle",
+      "url": "http://www.sjgames.com/gurps/ww2/doomedwhiteeagle/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Frozen Hell",
+      "url": "http://www.sjgames.com/gurps/ww2/frozenhell/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Grim Legions",
+      "url": "http://www.sjgames.com/gurps/ww2/grimlegions/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Hand of Steel",
+      "url": "http://www.sjgames.com/gurps/books/ww2/handofsteel/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Iron Cross",
+      "url": "http://www.sjgames.com/gurps/books/ww2/ironcross/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Leyte Gulf",
+      "url": "http://www.sjgames.com/gurps/ww2/leytegulf/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Michael's Army",
+      "url": "http://www.sjgames.com/gurps/ww2/michaelsarmy/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Motor Pool",
+      "url": "http://www.sjgames.com/gurps/books/ww2/motorpool/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Red Tide",
+      "url": "http://www.sjgames.com/gurps/books/ww2/redtide/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Return to Honor",
+      "url": "http://www.sjgames.com/gurps/ww2/returntohonor/"
+    },
+    {
+      "skip": true,
+      "name": "WWII: Their Finest Hour",
+      "url": "http://www.sjgames.com/gurps/ww2/finesthour/"
+    },
+    {
+      "name": "WWII: Weird War II",
+      "url": "http://www.sjgames.com/gurps/ww2/weirdwar2/"
+    },
+    {
+      "name": "Y2K",
+      "url": "http://www.sjgames.com/gurps/books/y2k/"
+    },
+    {
+      "name": "Zombies",
+      "url": "http://www.sjgames.com/gurps/books/zombies/"
+    },
+    {
+      "skip": true,
+      "name": "Zombies: Day One",
+      "url": "http://www.sjgames.com/gurps/books/dayone/"
+    },
+    {
+      "name": "Zombietown U.S.A.",
+      "url": "http://www.sjgames.com/gurps/books/ZombietownUSA/"
+    }
+  ]
+}

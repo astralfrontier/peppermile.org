@@ -1,0 +1,41 @@
+---
+title: GURPS Mashup
+---
+
+div(ng-app="mashup")
+  div(ng-controller="MashupController")
+    p GURPS has many worldbooks. Can you think up an interesting campaign by mixing two or more of the following?
+    hr
+    div
+      button.btn.btn-default.pull-right(ng-click="refresh()")
+        span.glyphicon.glyphicon-refresh
+      ul(ng-show="mashup")
+        li(ng-repeat="item in mashup")
+          strong(ng-bind="item.name")
+    div
+      span Or change the number of books:
+      select(ng-model="mashup_count")
+       option(value="2") Two
+       option(value="3") Three
+       option(value="4") Four
+       option(value="5") Five
+
+script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular.min.js")
+script(src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js")
+script
+  :coffee-script
+    app = angular.module 'mashup', []
+    app.controller 'MashupController', ($scope, $http, $log) ->
+      $log.debug 'Initializing mashup data...'
+      $scope.mashup_count = "2"
+
+      $scope.refresh = () -> $scope.mashup = _.sample($scope.books, parseInt($scope.mashup_count, 10))
+
+      $log.debug 'Retrieving mashup data...'
+      $http.get('/assets/gurps-sourcebooks.json').then (response) ->
+        $log.debug 'Loaded mashup data'
+        $scope.books = _.reject(response.data.books, (book) -> book.skip)
+        $scope.refresh()
+      , (response) ->
+        $scope.mashup_message = "There was an error loading mashup data, try again later"
+        $log.debug JSON.stringify(response)
