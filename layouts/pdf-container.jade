@@ -1,0 +1,35 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    meta(http-equiv="X-UA-Compatible" content="IE=edge")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    title
+      block title
+        = title || "Peppermile"
+    style.
+      p {
+        margin-top: 0px;
+      }
+
+      .two-column {
+        column-count: 2;
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+      }
+
+      .two-column h1, .two-column h2, .two-column h3 {
+        -webkit-column-span: all;
+        column-span: all;
+      }
+
+      .page {
+        page-break-after: always;
+        width: 8.5in;
+        max-height: 11in;
+        margin-left: auto;
+        margin-right: auto;
+      }
+  body
+    block contents
+      != contents
