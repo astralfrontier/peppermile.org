@@ -4,6 +4,8 @@ html(lang="en")
     meta(charset="utf-8")
     meta(http-equiv="X-UA-Compatible" content="IE=edge")
     meta(name="viewport" content="width=device-width, initial-scale=1")
+    link(href='//fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css')
+    link(href='//fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css')
     title
       block title
         = title || "Peppermile"
@@ -16,6 +18,11 @@ html(lang="en")
         column-count: 2;
         -moz-column-count: 2;
         -webkit-column-count: 2;
+        text-align: justify;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Droid Sans', sans-serif;
       }
 
       .two-column h1, .two-column h2, .two-column h3 {
@@ -24,6 +31,7 @@ html(lang="en")
       }
 
       .page {
+        font-family: 'Droid Serif', serif;
         page-break-after: always;
         width: 8.5in;
         max-height: 11in;

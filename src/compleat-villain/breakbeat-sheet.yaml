@@ -1,0 +1,36 @@
+---
+layout: pdf-sheet.jade
+---
+
+name: Breakbeat
+aspects:
+  - Sound-powered street thug
+  - Nobody insults Gabriel Ramon!
+  - Cleaning up my streets by any means necessary
+  - "The people love me"
+  - Check out my mixtape
+faserip:
+  fighting: +2
+  agility: +3
+  strength: +1
+  endurance: +2
+  reason: +0
+  intuition: +1
+  psyche: +1
+stunts:
+  - Because pride is everything, I get a +2 to Fighting against somebody who insulted me.
+  - As a free action, I can add a free invocation on <b>Predictable Rhythm</b> for myself, and another usable by my enemies.
+power:
+  name: Sonic Manipulation
+  description: Breakbeat manifests an internal rhythm to create a variety of sonic effects, amplifying his martial arts or blasting enemies.
+  powers:
+    - Energy Blast (fire a projectile up to three zones away with Agility)
+    - Super Agility (+2 to Agility when leaping, balancing, or demonstrating agility)
+    - Uncanny Dodge (+2 to Agility defend against ranged attacks)
+    - Super Speed (+2 to Agility when moving quickly, run across liquids or up sheer surfaces)
+  effects:
+    - Forced Movement (knock people around with focused sound energy)
+    - Area Attack (unleash a sonic blast over an area)
+  drawback: Breakbeat's powers have a <b>Predictable Rhythm</b>.
+  collateral: If you take a few seconds to concentrate, you can generate a blast with enough force to blow open the door to a bank vault, destroy a reinforced wall, or otherwise eradicate an obstacle. Of course, a blast this big is slow and imprecise. It’ll tear up the entire room.
+refresh: 3

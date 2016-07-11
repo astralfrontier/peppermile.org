@@ -1,0 +1,52 @@
+extend ./pdf-container.jade
+
+block contents
+  div.page
+    h1= yaml_contents.name
+    table(style="width: 100%;")
+      tbody
+        tr(style="vertical-align: top;")
+          td(width="50%")
+            h3 Aspects
+            div High Concept: #{yaml_contents.aspects[0]}
+            div Trouble: #{yaml_contents.aspects[1]}
+            div Other: #{yaml_contents.aspects[2]}
+            div Other: #{yaml_contents.aspects[3]}
+            div Other: #{yaml_contents.aspects[4]}
+            h3 Skills
+            div.
+              #[strong Fighting] +#{yaml_contents.faserip.fighting}
+            div.
+              #[strong Agility] +#{yaml_contents.faserip.agility}
+            div.
+              #[strong Strength] +#{yaml_contents.faserip.strength}
+            div.
+              #[strong Endurance] +#{yaml_contents.faserip.endurance}
+            div.
+              #[strong Reason] +#{yaml_contents.faserip.reason}
+            div.
+              #[strong Intuition] +#{yaml_contents.faserip.intuition}
+            div.
+              #[strong Psyche] +#{yaml_contents.faserip.psyche}
+            h3 Stunts
+            ul
+              for stunt in yaml_contents.stunts
+                li!= stunt
+            h3 Refresh: #{yaml_contents.refresh}
+          td(width="50%")
+            h3 Power: #{yaml_contents.power.name}
+            p!= yaml_contents.power.description
+            div
+              strong Special Effects:
+              ul
+                for effect in yaml_contents.power.effects
+                  li= effect
+            div
+              strong Powers:
+              ul
+                for power in yaml_contents.power.powers
+                  li= power
+            p.
+              #[strong Drawback]: !{yaml_contents.power.drawback}
+            p.
+              #[strong Collateral Damage]: !{yaml_contents.power.collateral}
