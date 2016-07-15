@@ -11,7 +11,7 @@ jquery          = require 'metalsmith-jquery'
 layouts         = require 'metalsmith-layouts'
 less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
-markdown        = require 'metalsmith-markdown'
+markdownit      = require 'metalsmith-markdownit'
 metadata        = require 'metalsmith-metadata'
 more            = require 'metalsmith-more'
 pagination      = require 'metalsmith-pagination'
@@ -71,10 +71,8 @@ metalsmith(__dirname)
   .use(jade({
     pretty: true
   }))
-  .use(markdown({
-    smartypants: true
-    gfm: true
-    tables: true
+  .use(markdownit({
+    html: true
   }))
   .use(yaml({}))
   .use(inPlace({
