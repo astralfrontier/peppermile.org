@@ -16,6 +16,7 @@
     "jade": "^1.11.0",
     "jstransformer-coffee-script": "^1.0.0",
     "main-bower-files": "^2.9.0",
+    "markdown-it-toc": "^1.1.0",
     "metalsmith": "^2.1.0",
     "metalsmith-assets": "^0.1.0",
     "metalsmith-beautify": "0.0.7",

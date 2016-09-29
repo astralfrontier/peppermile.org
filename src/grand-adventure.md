@@ -12,6 +12,8 @@ Every map has blanks. Every story has gaps. Every old ruin has secrets. And ever
 
 Grand Adventure is a roleplaying game, telling stories about **how adventurers work together to discover amazing new things, solve challenges, and explore a fantastic world**.
 
+@[toc](Table of Contents)
+
 ## How to Play
 
 You need several people to be players, at least two but not more than five or so. One person will take the "MC" role (described below). The others will have individual player characters, or "PCs". Everyone who plays will need several six-sided dice (d6), and paper and pencils for note-taking.
