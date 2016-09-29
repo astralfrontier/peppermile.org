@@ -1,5 +1,8 @@
 ---
 title: Grand Adventure
+images:
+  - name: Books and Magic Lamp
+    url: /assets/grand-adventure/The-Magic-Grottoes-1870.svg
 ---
 
 _Past the stone walls that divide your village from the fairy forest,
