@@ -107,53 +107,99 @@ A Pool is how you track something you lose or regain often, like willpower, stam
 
 ## Words
 
-A Word is a verb, noun, adjective, or phrase with special significance in the game. Words tell your group about the actions you are performing, and give you special rules for performing those actions.
+A Word is a verb, noun, adjective, or phrase with special significance in the game.
+Words tell your group about the actions you are performing,
+and optionally give you special rules for performing those actions.
 
-"Giant Lizard" is a Word, even though it's two English words, because it can refer to a monster that the characters might need to fight.
+A Word can contain multiple English words.
+"Giant Lizard" is a Word in the game-mechanical sense.
 
-**Words signal intention**. "Confront" and "Avoid" mean different things in the fiction, even if they use the same rules. "Defeat" is not the same as "Kill", or "Assassinate". Listen to what the Word tells you, and honor what it means. Words can come with a description that explain their meaning more clearly.
+**Words signal intention**.
+"Confront" and "Avoid" mean different things in the fiction,
+even if they use the same rules.
+"Defeat" is not the same as "Kill", or "Assassinate".
+Listen to what the Word tells you, and honor what it means.
+Words can come with a description that explain their meaning more clearly.
 
-**Words can have optional rules**. For example, a Word might say "The Stealth Pool may be used" or "Lend a friendly target a Magic Shield Pool".
+**Words can have optional rules**.
+For example, a Word might say "The Stealth Pool may be used"
+or "Lend a friendly target a Magic Shield Pool".
 
-**Words have an activation cost**. To include the Word in an action, you must allocate dice to the Word that sum to the cost or higher. For example, a Word with cost 4 can be activated with a roll of 4 or higher, or two dice showing 1 and 3, and so on.
+**Words have an activation cost**.
+To include the Word in an action,
+you must allocate dice to the Word that sum to the cost or higher.
+For example, a Word with cost 4 can be activated with a roll of 4 or higher,
+or two dice showing 1 and 3, and so on.
 
-**Words can optionally have a Star rating**. The more stars a Word has, the more effective and expensive it is: add 1 (&#9734;), 3 (&#9734;&#9734;), 6 (&#9734;&#9734;&#9734;), 10 (&#9734;&#9734;&#9734;&#9734;), or 15 (&#9734;&#9734;&#9734;&#9734;&#9734;) to the activation cost. Words cannot have more than five stars. You can use a Word at a lower star rating than its maximum, if you like. Write a Word's activation cost as "cost+stars", e.g. 2+&#9734;&#9734;.
+**Words can optionally have a Star rating**.
+Write a Word's activation cost as "cost stars", e.g. 2 &#9734;&#9734;.
+Words cannot have more than five stars.
+Stars allow the player to recover dice from their action - one die per star.
 
-**A Word can be Boosted**. Add one star (&#9734;) to the Word, for the duration of one action. No Word can be boosted to more than five stars. Words without a star rating cannot be Boosted.
+**A Word can be Leveled Up**.
+Add one star (&#9734;) to the Word, permanently.
+No Word can be Leveled Up to more than five stars.
+Words without a star rating cannot be Leveled Up.
 
-**A Word can be Leveled Up**. Add one star (&#9734;) to the Word, permanently. No Word can be Leveled Up to more than five stars. Words without a star rating cannot be Leveled Up.
-
-**The same name with the same rules always refers to the same Word**. For example, the Fighter and Knight might both have an "Attack" Word. If a Fighter also became a Knight, she only has one "Attack" Word, not two. You should try never to use the same Word but different rules. Instead, pick a new Word.
+**The same name with the same rules always refers to the same Word**.
+For example, the Fighter and Knight might both have an "Attack" Word.
+If a Fighter also became a Knight, she only has one "Attack" Word, not two.
+You should try never to use the same Word but different rules.
+Instead, pick a new Word.
 
 ### Setting Word costs
 
-Word activation costs are set by the MC, but should follow these guidelines. Start at a cost of 1, and answer the following questions about the word and add up all indicated costs.
+Most action Words will have a cost of 4.
+Most modifier Words will have a cost of 1.
+Challenge Words are set by the difficulty of the Challenge.
 
-How much leeway does the MC have in interpreting the meaning of the Word?
-
-* Considerable leeway (Word is vague, tentative, or loosely defined, e.g. Confront): +0
-* Some leeway (Word is reasonably specific, e.g. Attack): +1
-* Little leeway (Word is very specific, e.g. Backstab):+2
-
-The Word has a star rating: +0
-
-The Word allows you to use a different Pool: +1
-
-The Word has some extra useful rules: +1 per rule
+The MC may adjust Word costs in play.
+A powerful Word might cost 1 or 2 more points than normal.
 
 ## Archetypes
 
-An Archetype is a collection of traits that describe a sort of character, like Fighter, Magic User, Elf, or Werewolf. Characters can have multiple Archetypes. For example, a character can be an Elf Magic User/Fighter.
+An Archetype is a collection of traits that describe a sort of character,
+like Fighter, Magic User, Elf, or Werewolf.
+Characters can have multiple Archetypes.
+For example, a character can be an Elf/Magic User/Fighter.
 
-**Archetypes come with a set of Pools and Words**. A typical Archetype should have one or two Words and one or two Pools that work together to support the Archetype's theme. For example, a Fighter might have "Attack" and "With (Weapon)" Words, and a "Tactics" Pool. A Knight might have "Attack", "Chivalrously", and an "Honor" Pool. When you gain that Archetype, you gain those Words and Pools.
+A character doesn't have to have an Archetype to describe themselves as something.
+For example, a player can say "my character is an Elf"
+without starting with the Elf Archetype.
+It's only when they want to put a spotlight on their Elf-ness that
+the Archetype becomes important.
 
-**Archetypes can share Words and Pools**. If you gain a new Archetype that has a Word or Pool you already have, you should Level Up the Word or Pool instead of taking it a second time. For example, a Fighter with the "Attack" Word who becomes a Knight will Level Up his Attack, rather than gaining it a second time.
+**Archetypes come with a set of Pools and Words**.
+A typical Archetype should have one or two Words and one or two Pools
+that work together to support the Archetype's theme.
+For example, a Fighter might have "Attack" and "Bravely" Words,
+and a "Courage" Pool.
+When you gain that Archetype, you gain those Words and Pools.
+
+**Archetypes can share Words and Pools**.
+If you gain a new Archetype that has a Word or Pool you already have,
+you should Level Up the Word or Pool instead of taking it a second time.
+For example, a Fighter with the "Attack" Word who becomes a Knight
+will Level Up his Attack, rather than gaining it a second time.
 
 ## Challenges
 
-A Challenge is anything in the fiction that confronts the characters and forces them to resolve it before they can continue. An encounter with wandering monsters, an avalanche blocking the valley, and an out-of-control magic spell can all be Challenges.
+A Challenge is anything in the fiction that confronts the characters
+and forces them to resolve it before they can continue.
+An encounter with wandering monsters, an avalanche blocking the valley,
+and an out-of-control magic spell can all be Challenges.
 
-Challenges must be _interesting_ and _difficult_ but not _impossible_. A hidden elf village with homes growing organically out of the trunks of giant trees can be interesting, but doesn't pose any difficulty by itself. But if the elves living there are hostile to the PCs, and must be won over somehow, that is a Challenge. Similarly, trekking through an endless desert can be difficult, but probably isn't interesting - the players would probably rather not roll to forage for water daily, for example. If there's an Ancient Red Dragon and it's impossible to beat it somehow, it's unfair to present it as a Challenge. The MC should simply narrate its actions, such as setting fire to a village.
+Challenges must be _interesting_ and _difficult_ but not _impossible_.
+A hidden elf village with homes growing organically out of the trunks of
+giant trees can be interesting, but doesn't pose any difficulty by itself.
+But if the elves living there are hostile to the PCs,
+and must be won over somehow, that is a Challenge.
+Similarly, trekking through an endless desert can be difficult,
+but probably isn't interesting - the players would probably rather not roll
+to forage for water daily, for example.
+If there's an Ancient Red Dragon and it's impossible to beat it somehow,
+it's unfair to present it as a Challenge.
+The MC should simply narrate its actions, such as setting fire to a village.
 
 **Challenges are situations, not creatures**. The Challenge is not "the red dragon", and the Challenge doesn't necessarily end if the Dragon itself dies. Similarly, the Challenge might be resolved by successfully hiding from or sneaking past the Dragon, rather than fighting or killing it.
 
@@ -201,39 +247,86 @@ For example, Tana cannot "Attack Ogre" a second time, once she's done it the fir
 
 **To pay activation costs, roll dice**. You can take dice from any Pools you are allowed to use. Resolve can be used in any Action. Some rules or Words can allow you to use other Pools as well. Roll the dice you take, then assign each die to a specific Word. You can apply multiple dice to a single Word, summing the totals shown on the dice. You cannot apply the same die to multiple Words.
 
-For example, Tana wants to "Attack Ogre". The "Attack" Word has a cost of 3+&#9734;, for a total of 4. The Ogre is a rating 5 Challenge, so has a cost of 5. Tana has 4 Resolve dice and 2 Tactics dice. Her "Attack" Word lets her use Tactics, so she can roll dice from either pool.
+For example, Tana wants to "Attack Ogre".
+The "Attack" Word has a cost of 4 &#9734;.
+The Ogre is a rating 5 Challenge, so has a cost of 5.
+Tana has 4 Resolve dice and 2 Courage dice.
+Her "Attack" Word lets her use Courage, so she can roll dice from either pool.
 
-She takes both Tactics dice and rolls them, getting a 4 and a 6. She assigns the 4 to Attack and the 6 to Ogre, fully paying the Action cost.
+She takes both Courage dice and rolls them, getting a 4 and a 6.
+She assigns the 4 to Attack and the 6 to Ogre, fully paying the Action cost.
 
-**Once the action is resolved, you get dice back**. You can take back a number of dice equal to the total star ratings of all Words in your action. The other dice are lost to you. These dice can be divided up into any Pools you want. You can't get more dice back than were rolled.
+**Once the action is resolved, you get dice back**.
+You can take back a number of dice equal to the total star ratings of all Words in your action.
+You can't get more dice back than were rolled.
+These dice can be placed back into any Pools you want.
 
-For example, Tana's "Attack" word is one star. She takes one of the two dice she rolled back, and places it back in her Tactics Pool.
+For example, Tana's "Attack" word is one star.
+She takes one of the two dice she rolled back, and places it back in her Courage Pool.
 
-**The MC can always offer you one or more Twists**. If you are unable or unwilling to pay dice from your Pools, you can accept dice from a Twist Pool created by the MC.
+**The MC can always offer you one or more Twists**.
+If you are unable or unwilling to pay dice from your Pools,
+you can accept dice from a Twist Pool created by the MC.
 
-Characters can cooperate as part of a single Action. If several characters cooperate, they can all add Words to the Action, and they can all contribute dice to activating those Words. Every character get dice back according to the star rating of all Words in the Action, as long as there are dice on the table to regain. No Word can be part of the same Action more than once - for example, two characters cannot both add "Confront" to the table at the same time.
+Characters can cooperate as part of a single Action.
+If several characters cooperate, they can all add Words to the Action,
+and they can all contribute dice to activating those Words.
+If you get dice back because some of the Words have star ratings,
+the total dice returned are divided up by the players as they see fit.
+No Word can be part of the same Action more than once -
+for example, two characters cannot both add "Confront" to the table at the same time.
 
-For example, Tana and Basler cooperate to attack a dangerous Dire Sloth. The spunky swordswoman charges the beast with a loud war-cry, and the sneaky thief leaps on it from ambush while it's distracted! Tana contributes "Attack" (3+&#9734;, or 4) and "With Enchanted Weapon" (3), and Basler contributes "Sneakily" (2). The Dire Sloth has an activation cost of 10.
+For example, Tana and Basler cooperate to attack a dangerous Dire Sloth.
+The spunky swordswoman charges the beast with a loud war-cry,
+and the sneaky thief stabs it from ambush while it's distracted!
+Tana contributes "Attack" (4 &#9734;) and Basler contributes "Backstab" (4 &#9734;).
+The Dire Sloth has an activation cost of 10 and must only be hit once.
+The Action is "Attack and Backstab Dire Sloth".
 
-Tana's Attack Word lets her roll Tactics, and Basler's Sneakily Word lets him roll Stealth. Tana rolls 2 Tactics dice and gets 1 and 4. Basler rolls his 2 Stealth dice and gets 6 and 3. This isn't quite enough, so Tana and Basler each also roll a Resolve die, getting a 2 and a 4. They assign the dice thus: Attack (4), Dire Sloth (6+3+1), With Enchanted Weapon (4), and Sneakily (2).
+Tana's Attack Word lets her roll Courage,
+and Basler's Backstab Word lets him roll Stealth.
+Tana rolls Courage dice and gets a 1 and a 4.
+Basler rolls his 2 Stealth dice and gets 6 and 3.
+This isn't quite enough, so Tana rolls a Resolve die and gets another 4.
+They assign the dice thus: Attack (4), Backstab (4), Dire Sloth (6+3+1).
+This is enough to overcome the Sloth.
 
-This is enough to overcome the Sloth. Tana takes one die back for her Resolve Pool, as does Basler, thanks to the one star in Attack.
+There are two stars in play, one on Attack and one on Backstab.
+The players each receive one die back.
+Tana assigns hers back to her Resolve Pool,
+while Basler takes one back for his Stealth Pool.
 
-Challenges lose endurance per Action, not per player. Thus, the Sloth would have lost one heart, not two.
+Challenges lose endurance per Action, not per character.
+Thus, the Sloth would have lost one heart, not two.
 
 ## Twists
 
-Twists are **a tool for the MC to create tension and maintain the tone of the game**. Twists can also be used to reward players for interesting or inventive tactics.
+Twists are **a tool for the MC to create tension and maintain the tone of the game**.
+Twists can also be used to reward players for interesting or inventive tactics.
 
-**Twist is a temporary Pool created by the MC**. It has between 1 and 5 dice, typically.
+**Twist is a temporary Pool created by the MC**.
+It will have between 1 and 5 dice.
 
-**Twists come with a condition**. If a player takes Twist dice as part of their action, the condition comes to pass. The more dice in the Pool, the more serious or dramatic the condition should be. Twists can represent critical hits, enemy reinforcements, complications to an existing challenge, or many other things. A Twist can change which features of a Challenge are active.
+**Twists come with a condition**.
+If a player takes Twist dice as part of their action, the condition comes to pass.
+The more dice in the Pool, the more serious or dramatic the condition should be.
+Twists can represent critical hits, enemy reinforcements,
+complications to an existing challenge, or many other things.
+A Twist can change which features of a Challenge are active.
 
-**Twist conditions don't have to be negative**. The condition can also be the player agreeing to do something exciting or interesting as part of their action, and the Twist's dice are a reward for making the game more fun as a result.
+**Twist conditions don't have to be negative**.
+The condition can also be the player agreeing to do something exciting
+or interesting as part of their action,
+and the Twist's dice are a reward for making the game more fun as a result.
 
-**Twists are optional**. Players are never forced to accept a Twist. Players can suggest a Twist to the MC, but the MC is not required to accept.
+**Twists are optional**.
+Players are never forced to accept a Twist.
+Players can suggest a Twist to the MC, but the MC is not required to accept.
 
-**Multiple Twists can be in play**. The MC might offer a one-die Twist with a minor condition, as well as a four-dice Twist with a serious condition attached. Players can accept both Twists, neither, or just one.
+**Multiple Twists can be in play**.
+The MC might offer a one-die Twist with a minor condition,
+as well as a four-dice Twist with a serious condition attached.
+Players can accept both Twists, neither, or just one.
 
 ### Example Twists
 
