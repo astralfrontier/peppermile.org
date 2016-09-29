@@ -1,0 +1,38 @@
+---
+layout: pdf-sheet.jade
+---
+
+name: Cold Iron
+aspects:
+  - Mystic researcher corrupted by a possessing spirit
+  - Only this Fair Folk power suit keeps the Allochthonus at bay
+  - Scientific sorceress
+  - This is for the greater good!
+  - Collection of stolen arcane goods
+skills:
+  - bonus: +4
+    skills: Lore
+  - bonus: +3
+    skills: Fight, Physique
+  - bonus: +2
+    skills: Athletics, Shoot, Will
+  - bonus: +1
+    skills: Burglary, Notice, Provoke, Resources
+stunts:
+  - Because I am a powerful self-taught sorceress, once per session I can unleash some amazing magic ritual that changes the scene in a dramatic way.
+power:
+  name: Tylwyth Teg Power Suit
+  description: A suit of mystic armor created by the ancient Fair Folk. The suit can project solid light as weapons or wings, or create glamours to beguile and deceive.
+  powers:
+    - "Armored Suit (Super-Toughness: Armor: 2 against physical damage)"
+    - "Hard Light Weapons (Natural Weapon: +2 to Fight when unarmed in close combat)"
+    - "Hard Light Projectiles (Energy Blast: fire a projectile up to three zones away with Shoot)"
+    - "Hard Light Wings (Flight: move vertically, maneuver with Athletics)"
+    - "Glamour Engine (Illusion: project images and sound up to 1 zone away)"
+    - "Healing Runes (Regeneration: clear or demote physical consequences)"
+  effects:
+    - "Energy Explosion (Area Attack: attack everyone in a zone)"
+    - "Flash Step (Extra Movement: move up to two zones for free)"
+  drawback: Vulnerable to both high-tech and magical countermeasures. TODO aspect.
+  collateral: "Charged Shot: If you take a few seconds to concentrate, you can generate a blast with enough force to blow open the door to a bank vault, destroy a reinforced wall, or otherwise eradicate an obstacle. Of course, a blast this big is slow and imprecise. It’ll tear up the entire room."
+refresh: 2

@@ -8,26 +8,33 @@ block contents
         tr(style="vertical-align: top;")
           td(width="50%")
             h3 Aspects
-            div High Concept: #{yaml_contents.aspects[0]}
-            div Trouble: #{yaml_contents.aspects[1]}
-            div Other: #{yaml_contents.aspects[2]}
-            div Other: #{yaml_contents.aspects[3]}
-            div Other: #{yaml_contents.aspects[4]}
-            h3 Skills
-            div.
-              #[strong Fighting] +#{yaml_contents.faserip.fighting}
-            div.
-              #[strong Agility] +#{yaml_contents.faserip.agility}
-            div.
-              #[strong Strength] +#{yaml_contents.faserip.strength}
-            div.
-              #[strong Endurance] +#{yaml_contents.faserip.endurance}
-            div.
-              #[strong Reason] +#{yaml_contents.faserip.reason}
-            div.
-              #[strong Intuition] +#{yaml_contents.faserip.intuition}
-            div.
-              #[strong Psyche] +#{yaml_contents.faserip.psyche}
+            p #[strong High Concept]: #{yaml_contents.aspects[0]}
+            p #[strong Trouble]: #{yaml_contents.aspects[1]}
+            p #{yaml_contents.aspects[2]}
+            p #{yaml_contents.aspects[3]}
+            p #{yaml_contents.aspects[4]}
+            if yaml_contents.faserip
+              h3 Approaches (FASERIP)
+              div.
+                #[strong Fighting] +#{yaml_contents.faserip.fighting}
+              div.
+                #[strong Agility] +#{yaml_contents.faserip.agility}
+              div.
+                #[strong Strength] +#{yaml_contents.faserip.strength}
+              div.
+                #[strong Endurance] +#{yaml_contents.faserip.endurance}
+              div.
+                #[strong Reason] +#{yaml_contents.faserip.reason}
+              div.
+                #[strong Intuition] +#{yaml_contents.faserip.intuition}
+              div.
+                #[strong Psyche] +#{yaml_contents.faserip.psyche}
+            if yaml_contents.skills
+              h3 Skills
+              div
+                for tier in yaml_contents.skills
+                  div.
+                    +#{tier.bonus}: #{tier.skills}
             h3 Stunts
             ul
               for stunt in yaml_contents.stunts
