@@ -2,11 +2,14 @@
 title: Grand Adventure
 ---
 
-_Past the stone walls that divide your village from the fairy forest, there's a glow coming from that old cave..._
+_Past the stone walls that divide your village from the fairy forest,
+there's a glow coming from that old cave..._
 
-_In the attic of your family's cottage, there is a rusty sword that begins to sing one night..._
+_In the attic of your family's cottage,
+there is a rusty sword that begins to sing one night..._
 
-_This morning your mother woke you up, and you find yourself meeting the strange girl with a mysterious pendant..._
+_This morning your mother woke you up,
+and you find yourself meeting the strange girl with a mysterious pendant..._
 
 Every map has blanks.
 Every story has gaps.
@@ -15,8 +18,8 @@ And every person has a dream: to experience those mysteries.
 To chart a course into the unknown. To explore. To adventure.
 
 Grand Adventure is a roleplaying game,
-telling stories about **how adventurers work together to discover amazing new things,
-solve challenges, and explore a fantastic world**.
+telling stories about **how adventurers work together to
+discover amazing new things, solve challenges, and explore a fantastic world**.
 
 @[toc](Table of Contents)
 
@@ -177,7 +180,7 @@ If you picked two adjectives that give you the same Word,
 write two stars (&#9734;&#9734;).
 More stars mean you are more experienced using that Word.
 
-Write down a **Pool**: "Resolve 4d6".
+Write down a **Pool**: "Resolve (&#9825;&#9825;)".
 
 Pools are your ability to keep doing what you do.
 They measure your health, fatigue, sneakiness, magical power, and many other things.
@@ -210,6 +213,7 @@ Each Pool has some number of six-sided dice (d6) in it.
 **Pools have a current and maximum size**.
 The current size is how many dice are in the Pool at the moment.
 The maximum size is how many dice can ever be in the Pool at a time.
+The Pool's maximum size is measured in **hearts** (&#9825;).
 
 **Pools can have dice Taken from them or Given to them**.
 Any dice Taken from a Pool are not automatically returned.
@@ -345,39 +349,42 @@ or sneaking past the Dragon, rather than fighting or killing it.
 
 **Challenges have a difficulty rating**.
 Typical difficulty ratings are between 1 (the simplest monsters, like Slimes,
-  that novice adventurers can beat)
-  and 20 (giant or powerful monsters such as dragons, kraken, and the like).
+that novice adventurers can beat)
+and 20 (giant or powerful monsters such as dragons, kraken, and the like).
 
 **Challenges have an endurance**.
-This is measured in hearts (&#9825;), usually two or more.
+This is measured in squares (&#x25A1;), usually two or more.
 As a general rule, the more PCs you have,
-the more hearts of endurance your Challenges should have,
+the more squares of endurance your Challenges should have,
 so that everybody has a chance to act against them.
 
-Depleting hearts isn't just a matter of wearing down a monster's hit points.
-Rather, it represents the stages of confronting a Challenge.
-For example, the party might spend time fighting a Dragon on the ground,
-then deal with it as it takes to the air,
-then try to keep it from breathing fire on a nearby village,
-then wound its wings to down it, then finally strike a decisive blow.
-Each of these might be represented by a heart.
+Depleting squares isn't just a matter of wearing down a monster's hit points.
+Rather, it represents the different stages of confronting a Challenge.
+For example, the party might fight a dragon!
+It might have one or more squares representing the following stages:
 
-Every successful Action against a Challenge depletes one of its hearts.
-When a Challenge has no hearts left, it's resolved.
+1. The dragon starts on the ground, using its claws and tail to attack.
+2. The dragon takes to the air and attacks at range.
+3. The dragon breathes fire on the nearby village.
+4. The dragon flies faster and must be forced down.
+5. The dragon is desperate and fights with everything.
+
+Every successful Action against a Challenge depletes one of its squares.
+When a Challenge has no squares left, it's resolved.
 Characters can pay the activation cost for a Challenge multiple times,
-depleting one extra heart, as part of the same action.
+depleting one extra squares, as part of the same action.
 
 For example, Tana is fighting Slimes.
-They're easy to beat (difficulty 2) but have 5 hearts.
+They're easy to beat (difficulty 2) but have 5 squares.
 Tana rolls 3 dice, getting 2, 3, and 5.
 She assigns all these dice to the Slime Word,
-and depletes 3 of the Challenge's hearts.
+and depletes 3 of the Challenge's squares.
 
-Each heart of endurance might have a different difficulty rating.
+Each squares of endurance might have a different difficulty rating.
 For example, a situation that gets progressively more difficult might have
-an endurance like this: 10 &#9825;&#9825;, 15 &#9825;&#9825;, 20 &#9825;&#9825;.
-Clearing the first two hearts each has a difficulty of 10,
-the next two has 15, and the final two has 20.
+an endurance like this: 10 &#x25A1;&#x25A1;, 15 &#x25A1;&#x25A1;, 20 &#x25A1;.
+Clearing the first two squares each has a difficulty of 10,
+the next two has 15, and the final one has 20.
 
 **Challenges are also Words**.
 Their activation cost is their difficulty rating when used in an Action.
@@ -420,7 +427,7 @@ yelling at it to get its attention!"
 
 **Actions are made up of Words**.
 Based on your narration, you decide which Words you have that meet that description.
-The cards you pick should tell you _what's being done_, _to whom or to what_,
+The Words you pick should tell you _what's being done_, _to whom or to what_,
 and optionally _how_.
 
 For example, Tana has an "Attack" Word
@@ -521,7 +528,7 @@ Tana assigns hers back to her Resolve Pool,
 while Basler takes one back for his Stealth Pool.
 
 Challenges lose endurance per Action, not per character.
-Thus, the Sloth would have lost one heart, not two.
+Thus, the Sloth would have lost one square, not two.
 
 ## Twists
 
@@ -754,29 +761,50 @@ can complement the stories of their fellow players.
 
 There are many types of adventurers: people who like to explore the world, and have their own ways of surviving the dangers along the way. Pick one of six types of adventurer: Brave, Clever, Cool, Curious, Determined, or Mysterious.
 
-**Words**: Confront 1+&#9734; (Brave, Cool, Mysterious), Resist 1+&#9734; (Brave, Curious, Determined), Avoid 1+&#9734; (Clever, Determined, Mysterious), Know About 1+&#9734; (Clever, Cool, Curious)
-**Pools**: Resolve 2d6
+**Words**: Confront (4 &#9734;) (if you are Brave, Cool, Mysterious),
+Resist (4 &#9734;) (if you are Brave, Curious, Determined), Avoid (4 &#9734;) (Clever, Determined, Mysterious),
+Know About (4 &#9734;) (if you are Clever, Cool, Curious)
 
-**Confront**: You tackle a Challenge head-on, with fists, weapons, words, or simply determination. You typically Confront monsters, angry villagers, or ancient spirits.
+**Pools**: Resolve (&#9825;)
 
-**Resist**: You endure a Challenge, coming out ahead by surviving it or adapting to it. You typically Resist hostile enchantments, deadly poison, terrible weather, rock slides, and many other hazards.
+**Confront** (4 &#9734;):
+You tackle a Challenge head-on, with fists, weapons, words, or simply determination.
+You typically Confront monsters, angry villagers, or ancient spirits.
 
-**Avoid**: You dodge, hide from, sneak around, misdirect, or otherwise avoid a direct confrontation with a Challenge. You typically Avoid lethal area attacks, guards on patrol, sharp blades on traps in a dungeon, and so forth.
+**Resist** (4 &#9734;):
+You endure a Challenge, coming out ahead by surviving it or adapting to it.
+You typically Resist hostile enchantments, deadly poison, terrible weather,
+rock slides, and many other hazards.
 
-**Know About**: You figure something out, remember something you've learned, analyze something, or notice something that lets you defeat the Challenge. You typically Know About weird magical traps, humanoids speaking a strange language, or doors covered in fiendish riddles.
+**Avoid** (4 &#9734;):
+You dodge, hide from, sneak around, misdirect,
+or otherwise avoid a direct confrontation with a Challenge.
+You typically Avoid lethal area attacks, guards on patrol,
+sharp blades on traps in a dungeon, and so forth.
 
-**Resolve**: Your physical endurance, your spirit, your strength of will, combining to allow you to continue your journey and your fight. **Special**: Recharge Resolve whenever you reach a Discovery.
+**Know About** (4 &#9734;):
+You figure something out, remember something you've learned,
+analyze something, or notice something that lets you defeat the Challenge.
+You typically Know About weird magical traps,
+humanoids speaking a strange language, or doors covered in fiendish riddles.
+
+**Resolve** (&#9825;):
+Your physical endurance, your spirit, your strength of will,
+combining to allow you to continue your journey and your fight.
+**Special**: Recharge Resolve whenever you reach a Discovery.
 
 ## Sample Characters
 
 ### Tana
 
-A spunky, outgoing girl from a sleepy country village. She dresses in country garb, and carries a rusty sword from her father's days as a soldier.
+A spunky, outgoing girl from a sleepy country village.
+She dresses in country garb,
+and carries a rusty sword from her father's days as a soldier.
 
-**Archetypes**: Brave Determined Adventurer
-**Words**: Confront 1+&#9734;, Resist 1+&#9734;&#9734;, Avoid 1+&#9734;
-**Pools**: Resolve 4d6
-**Threads**: The Old Ruin Near Home (Mossy, Glowing, Runic)
+* **Archetypes**: Brave Determined Adventurer
+* **Words**: Confront (4 &#9734;), Resist (4 &#9734;&#9734;), Avoid (4 &#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: The Old Ruin Near Home (Mossy, Glowing, Runic)
 
 This is our heroine at the beginning of her adventure. At the end of the story "The Old Ruin Near Home", she will discover a grimoire (a book of magic spells), and learn to be a Mage. Later on, she will discovers a dwarven village, where she is equipped with a new sword and leather armor, and becomes a Magic Knight.
 
@@ -784,10 +812,10 @@ This is our heroine at the beginning of her adventure. At the end of the story "
 
 A selfish rogue of no great moral character, who lives and plies his unsavory trade in the city. Meeting Tana, the least cynical person he'd ever encountered, changed his way of thinking. He wears dirty leathers and carries two sharp daggers.
 
-**Archetypes**: Clever Mysterious Adventurer
-**Words**: Confront 1+&#9734;, Avoid 1+&#9734;&#9734;, Know About 1+&#9734;
-**Pools**: Resolve 4d6
-**Threads**: The Noblewoman's Necklace (Sparkling, Suspicious, Jeweled)
+* **Archetypes**: Clever Mysterious Adventurer
+* **Words**: Confront (4 &#9734;), Avoid (4 &#9734;&#9734;), Know About (4 &#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: The Noblewoman's Necklace (Sparkling, Suspicious, Jeweled)
 
 At the end of "The Noblewoman's Necklace", Basler becomes a Thief, but using his skills for good. Later, he'll meet a mysterious old man who teaches him advanced stealth and combat skills, and becomes a Ninja.
 
@@ -795,64 +823,77 @@ At the end of "The Noblewoman's Necklace", Basler becomes a Thief, but using his
 
 A young and inexperienced, but noble, squire. Assigned to track down the thief Basler, only to fall in with the group upon seeing Tana's influence on him (and being more than a little impressed with the girl herself).
 
-**Archetypes**: Curious Determined Adventurer
-**Words**: Resist 1+&#9734;&#9734;, Avoid 1+&#9734;, Know About 1+&#9734;
-**Pools**: Resolve 4d6
-**Threads**: A Squire's Duty (Shining, Impressive, Honorable)
+* **Archetypes**: Curious Determined Adventurer
+* **Words**: Resist (4 &#9734;&#9734;), Avoid (4 &#9734;), Know About (4 &#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: A Squire's Duty (Shining, Impressive, Honorable)
 
-At the end of "A Squire's Duty", he becomes Sir Emory and becomes a proper Knight. Later, he'll learn the sacred prayers and defensive arts of the order of St. Rinadh, and become a Paladin.
+At the end of "A Squire's Duty", he becomes Sir Emory and becomes a proper Knight.
+Later, he'll learn the sacred prayers and defensive arts of the order of St. Rinadh,
+and become a Paladin.
 
 ## Sample Challenges
 
-### Slime (1&#9825; 2&#9825;)
+### Slime
 
-Mobile blobs of protoplasm, slimes are typically the first monster an adventurer faces in their career.
+Mobile blobs of protoplasm, slimes are typically the first monster
+an adventurer faces in their career.
 
-Twists:
+**Endurance**: 1 &#x25A1; 2 &#x25A1; 3 &#x25A1;
 
-* "It slimed me!" (1d6): You're covered in goop and must scramble to escape, possibly losing something small or valuable as you do.
-* Stuck weapon! (2d6): Lose your weapon and work to get it back.
-* More slimes! (3d6): Add 2&#9825;&#9825; to the Slime's endurance.
+**Twists**:
 
-### Thugs (3&#9825;&#9825;&#9825;)
+* "It slimed me!" (&#9825;): You're covered in goop and must scramble to escape, possibly losing something small or valuable as you do.
+* Stuck weapon! (&#9825;&#9825;): Lose your weapon and work to get it back.
+* More slimes! (&#9825;&#9825;&#9825;): Add 2 &#9825;&#9825; to the Slime's endurance.
 
-A group of hired grunts, bravoes, or soldiers of the evil army that's trying to take over the world.
+### Thugs
 
-Twists:
+A group of hired grunts, bravoes, or soldiers of the evil army
+that's trying to take over the world.
 
-* Unnecessary Roughness (1d6): You take some minor injury and must deal with it for the rest of the fight.
-* Reinforcements appear! (3d6): Add two hearts to the Thugs' endurance.
+**Endurance**: 3 &#x25A1;&#x25A1;&#x25A1;
 
-### Thug Captain (6&#9825;&#9825;&#9825;&#9825;)
+**Twists**:
 
-The brains of the bunch, the Captain whips his Thugs into shape at every opportunity and will appear if enough of them are beaten down.
+* Unnecessary Roughness (&#9825;): You take some minor injury and must deal with it for the rest of the fight.
+* Reinforcements appear! (&#9825;&#9825;&#9825;): Add two squares to the Thugs' endurance.
 
-Features:
+### Thug Captain
+
+The brains of the bunch, the Captain whips his Thugs into shape at every
+opportunity and will appear if enough of them are beaten down.
+
+**Endurance**: 6 &#x25A1;&#x25A1;&#x25A1;&#x25A1;
+
+**Features**:
 
 * Special Weapon (5). The Captain got the pick of the armory and is toting around something that will give the heroes trouble.
 
-Twists:
+**Twists**:
 
-* Dirty Trick! (1d6): You fall victim to one of the classic blunders.
-* "Now I'm mad!" (3d6): Raise difficulty by 2.
-* "Get in there!" (1-5d6): Create a new Challenge consisting of Thugs with one heart per die in the Twist Pool.
+* Dirty Trick! (&#9825;): You fall victim to one of the classic blunders.
+* "Now I'm mad!" (&#9825;&#9825;&#9825;): Raise difficulty by 2.
+* "Get in there!" (&#9825;-&#9825;&#9825;&#9825;&#9825;&#9825;): Create a new Challenge consisting of Thugs with one square per die in the Twist Pool.
 
-### Dragon (10&#9825;&#9825;15&#9825;&#9825;20&#9825;&#9825;)
+### Red Dragon
 
-Winged and scaled, with sharp fangs, piercing claws, and deadly fire breath, dragons are the epitome of a "monster" for many brave souls.
+Winged and scaled, with sharp fangs, piercing claws, and deadly fire breath,
+dragons are the epitome of a "monster" for many brave souls.
 
-Features:
+**Endurance**: 10 &#x25A1;&#x25A1; 15 &#x25A1;&#x25A1; 20 &#x25A1;&#x25A1;
+
+**Features**:
 
 * Flying (10). The dragon takes to the air, avoiding melee attacks and ground-bound attackers.
 * Scales (5). Hard scaly armor makes weapons bounce off. Only strong magic can get through.
 
-Twists:
+**Twists**:
 
-* Claws! (1d6): You are hit and begin to bleed.
-* Tail Swipe! (2d6): You are knocked to your feet and must scramble out of the way of further attacks.
-* Flaming Breath! (3d6): Something important, or just the whole area, is set ablaze!
-* Wing hit! (4d6): The dragon loses the Flying feature.
-* Chink in the Armor! (5d6): If you somehow manage to find and target it, the dragon will take considerable damage.
+* Claws! (&#9825;): You are hit and begin to bleed.
+* Tail Swipe! (&#9825;&#9825;): You are knocked to your feet and must scramble out of the way of further attacks.
+* Flaming Breath! (&#9825;&#9825;&#9825;): Something important, or just the whole area, is set ablaze!
+* Chink in the Armor! (&#9825;&#9825;&#9825;&#9825;&#9825;): If you somehow manage to find and target it, the dragon will take considerable damage.
 
 ## Optional Rules
 
@@ -860,20 +901,19 @@ If you want to add more detail around injuries and gear, you can use these optio
 
 ### Conditions
 
-Tana breaks her leg, and Sir Emory sets it as best he can with a quick prayer of healing. But she'll be hobbling for awhile, which will make things more difficult…
+Tana breaks her leg, and Sir Emory sets it as best he can with a quick prayer of healing.
+But she'll be hobbling for awhile, which will make things more difficult...
 
-How do we model that? By creating Words that represent some kind of deleterious condition. The MC gives Tana a "With a Broken Leg" Word with an activation cost of 5. Every action she takes where the leg is a serious impediment must include that Word.
+How do we model that?
+By creating Words that represent some kind of deleterious condition.
+The MC gives Tana a "With a Broken Leg" Word with an activation cost of 5.
+Every action she takes where the leg is a serious impediment must include that Word.
 
 ### Equipment
 
-Many adventurers care about the equipment they're carrying around. You can model this using a combination of Words and Pools, like an Archetype.
+Many adventurers care about the equipment they're carrying around.
+You can model this using a combination of Words and Pools.
 
-For example:
-
-Health Potion (2): Gain 1d6 Resolve. Lose 1d6 Health Potion Supply.
-
-Health Potion Supply Pool (2d6): You have a stock of potions available to you. Recharge this pool whenever you are in a civilized town that sells potions.
-
-Plate Armor (3): Your heavy armor protects you and wards off attacks. You can use your Armored Pool.
-
-Armored Pool (2d6): Your armor is thick and strong, but not invulnerable. Recharge whenever you visit an armorsmith, or have access to a forge and tools to do it yourself.
+For example, the MC might give the characters a "Health Potion" Pool.
+They can drink a potion, using dice from the pool when resisting damage
+or overcoming poison.
