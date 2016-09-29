@@ -6,7 +6,6 @@ dateInFilename  = require 'metalsmith-date-in-filename'
 drafts          = require 'metalsmith-drafts'
 feed            = require 'metalsmith-feed'
 inPlace         = require 'metalsmith-in-place'
-jade            = require 'metalsmith-jade'
 jquery          = require 'metalsmith-jquery'
 layouts         = require 'metalsmith-layouts'
 less            = require 'metalsmith-less'
@@ -16,6 +15,7 @@ metadata        = require 'metalsmith-metadata'
 more            = require 'metalsmith-more'
 pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
+pug             = require 'metalsmith-pug'
 serve           = require 'metalsmith-serve'
 tags            = require 'metalsmith-tags'
 typography      = require 'metalsmith-typography'
@@ -68,7 +68,7 @@ metalsmith(__dirname)
   .use(dateInFilename(true))
   .use(collections(collection_data))
   .use(pagination(pagination_data))
-  .use(jade({
+  .use(pug({
     pretty: true
   }))
   .use(markdownit({
