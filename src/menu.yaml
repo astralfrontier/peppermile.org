@@ -1,5 +1,7 @@
 - name: Home
   url: /
+- name: Grand Adventure
+  url: /grand-adventure.html
 - name: Inept Sorcerers
   url: /inept-sorcerers.html
 - name: Super-Sheriffs of Sagan City
