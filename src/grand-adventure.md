@@ -803,105 +803,6 @@ combining to allow you to continue your journey and your fight.
 
 ## Sample Characters
 
-### Tana
-
-A spunky, outgoing girl from a sleepy country village.
-She dresses in country garb,
-and carries a rusty sword from her father's days as a soldier.
-
-* **Archetypes**: Brave Determined Adventurer
-* **Words**: Confront (4 &#9734;), Resist (4 &#9734;&#9734;), Avoid (4 &#9734;)
-* **Pools**: Resolve (&#9825;&#9825;)
-* **Threads**: The Old Ruin Near Home (Mossy, Glowing, Runic)
-
-This is our heroine at the beginning of her adventure. At the end of the story "The Old Ruin Near Home", she will discover a grimoire (a book of magic spells), and learn to be a Mage. Later on, she will discovers a dwarven village, where she is equipped with a new sword and leather armor, and becomes a Magic Knight.
-
-### Basler
-
-A selfish rogue of no great moral character, who lives and plies his unsavory trade in the city. Meeting Tana, the least cynical person he'd ever encountered, changed his way of thinking. He wears dirty leathers and carries two sharp daggers.
-
-* **Archetypes**: Clever Mysterious Adventurer
-* **Words**: Confront (4 &#9734;), Avoid (4 &#9734;&#9734;), Outwit (4 &#9734;)
-* **Pools**: Resolve (&#9825;&#9825;)
-* **Threads**: The Noblewoman's Necklace (Sparkling, Suspicious, Jeweled)
-
-At the end of "The Noblewoman's Necklace", Basler becomes a Thief, but using his skills for good. Later, he'll meet a mysterious old man who teaches him advanced stealth and combat skills, and becomes a Ninja.
-
-### Emory Hawthorne
-
-A young and inexperienced, but noble, squire. Assigned to track down the thief Basler, only to fall in with the group upon seeing Tana's influence on him (and being more than a little impressed with the girl herself).
-
-* **Archetypes**: Curious Determined Adventurer
-* **Words**: Resist (4 &#9734;&#9734;), Avoid (4 &#9734;), Outwit (4 &#9734;)
-* **Pools**: Resolve (&#9825;&#9825;)
-* **Threads**: A Squire's Duty (Shining, Impressive, Honorable)
-
-At the end of "A Squire's Duty", he becomes Sir Emory and becomes a proper Knight.
-Later, he'll learn the sacred prayers and defensive arts of the order of St. Rinadh,
-and become a Paladin.
-
-## Sample Challenges
-
-### Slime
-
-Mobile blobs of protoplasm, slimes are typically the first monster
-an adventurer faces in their career.
-
-**Endurance**: 1 &#x25A1; 2 &#x25A1; 3 &#x25A1;
-
-**Twists**:
-
-* "It slimed me!" (&#9825;): You're covered in goop and must scramble to escape, possibly losing something small or valuable as you do.
-* Stuck weapon! (&#9825;&#9825;): Lose your weapon and work to get it back.
-* More slimes! (&#9825;&#9825;&#9825;): Add 2 &#9825;&#9825; to the Slime's endurance.
-
-### Thugs
-
-A group of hired grunts, bravoes, or soldiers of the evil army
-that's trying to take over the world.
-
-**Endurance**: 3 &#x25A1;&#x25A1;&#x25A1;
-
-**Twists**:
-
-* Unnecessary Roughness (&#9825;): You take some minor injury and must deal with it for the rest of the fight.
-* Reinforcements appear! (&#9825;&#9825;&#9825;): Add two squares to the Thugs' endurance.
-
-### Thug Captain
-
-The brains of the bunch, the Captain whips his Thugs into shape at every
-opportunity and will appear if enough of them are beaten down.
-
-**Endurance**: 6 &#x25A1;&#x25A1;&#x25A1;&#x25A1;
-
-**Features**:
-
-* Special Weapon (5). The Captain got the pick of the armory and is toting around something that will give the heroes trouble.
-
-**Twists**:
-
-* Dirty Trick! (&#9825;): You fall victim to one of the classic blunders.
-* "Now I'm mad!" (&#9825;&#9825;&#9825;): Raise difficulty by 2.
-* "Get in there!" (&#9825;-&#9825;&#9825;&#9825;&#9825;&#9825;): Create a new Challenge consisting of Thugs with one square per die in the Twist Pool.
-
-### Red Dragon
-
-Winged and scaled, with sharp fangs, piercing claws, and deadly fire breath,
-dragons are the epitome of a "monster" for many brave souls.
-
-**Endurance**: 10 &#x25A1;&#x25A1; 15 &#x25A1;&#x25A1; 20 &#x25A1;&#x25A1;
-
-**Features**:
-
-* Flying (10). The dragon takes to the air, avoiding melee attacks and ground-bound attackers.
-* Scales (5). Hard scaly armor makes weapons bounce off. Only strong magic can get through.
-
-**Twists**:
-
-* Claws! (&#9825;): You are hit and begin to bleed.
-* Tail Swipe! (&#9825;&#9825;): You are knocked to your feet and must scramble out of the way of further attacks.
-* Flaming Breath! (&#9825;&#9825;&#9825;): Something important, or just the whole area, is set ablaze!
-* Chink in the Armor! (&#9825;&#9825;&#9825;&#9825;&#9825;): If you somehow manage to find and target it, the dragon will take considerable damage.
 
 ## Optional Rules
 
@@ -925,3 +826,274 @@ You can model this using a combination of Words and Pools.
 For example, the MC might give the characters a "Health Potion" Pool.
 They can drink a potion, using dice from the pool when resisting damage
 or overcoming poison.
+
+## Sample World: Delspire
+
+This is a sample world for Grand Adventure.
+You can use it in your own games,
+adapt its archetypes and characters to your own world,
+or create an entirely different world.
+
+### History
+
+Long ago, Delspire was dominated by the **Cirrus Empire**.
+From their floating city of **Zebulon**, they ruled the primitive surface-dwelling tribes.
+Their science, called **mechanistry**, fused technology and magical power.
+
+Everything changed centuries ago, when Zebulon rose uncontrollably into the sky
+and disappeared, never to return.
+The Cirran provincial governors on the ground, left without the support of
+their mechanist troops and weapons, were at the mercy of the people
+they had once subjugated.
+Some of the provinces had been run fairly and kindly.
+Their rulers became kings and queens, and entrusted the provinces to their children
+or other worthy heirs.
+Most of the provinces were run strictly, with harsh rules.
+They were overthrown by angry mobs and their castles were destroyed.
+
+Today, Delspire is a lushly alive and vital world.
+Green forests and crop fields surround the sleepy hamlets and bustling towns of mankind.
+Rocky "skylands" levitate over rolling hills and fertile valleys.
+The castles and laboratories of the old Cirrans sometimes still stand,
+whether standing proudly aboveground, floating freely in the sky,
+or buried deep underground.
+They are joined by roughly-crafted fortresses and sprawling cities,
+made by the surface-dwellers from sturdy wood and reliable rock.
+
+Some of the old mechanistry can still be found, and much of it is dangerous.
+The powers of magic are equally risky to the unprepared:
+fantastic creatures of myth, such as dragons and ghosts,
+arise from the primal wild magic of the earth.
+
+### Races
+
+Two other races share Delspire with humanity.
+
+The **Zelves** were created by the Cirrus Empire
+to be temporary hosts for their souls, and living repositories of memory.
+The Cirrans could project their souls into a Zelf body, possessing it or a time.
+Freed of their enslavement as vessels for their masters and makers,
+the Zelves had retreated into the forests,
+to consider who and what they should become.
+Zelves possess great wisdom and expertise,
+but they lack direction and prefer quiet contemplation to action and change.
+Zelves are immortal, mysterious beings, graceful and slender,
+with an ethereal and peaceful nature.
+
+The **Gnomads**, like the Zelves, were engineered by the Cirrans.
+They were originally a slave-race, meant to maintain their masters' mechanistry.
+Without the empire to command them, they turned to an independent existence.
+Gnomads value their freedom and love to travel.
+Gnomads are intuitively gifted with an understanding of how things connect,
+whether it's technology or the human heart.
+They form small mobile communities, traveling both on roads and in secret
+underground tunnels known only to their own kind,
+trading their wares and skills for supplies and companionship.
+They are short and stout, but surprisingly nimble and fast.
+
+#### Racial Archetypes
+
+**Zelf**
+
+You are a Zelf, an immortal and mysterious being.
+You dive into the ocean of your own memories to bring back treasure,
+sharing it for the benefit of all.
+
+* **Words**: Decipher; With Memories
+* **Pools**: Memory
+
+**Decipher (4 &#9734;)**:
+You puzzle out the meaning of something hidden, obscure, or jumbled.
+You can understand dead languages, mystic ciphers, and many other things.
+**Pool**: Memory
+
+**With Memories (1)**:
+Your ancient lore can tell you something useful when you take other actions.
+**Pool**: Memory
+
+**Memory (&#9825;)**:
+Your recollection of ages past, and the secrets you've learned since.
+**Special**: Recharge when you tell a tale of ancient times.
+
+**Gnomad**
+
+You are a Gnomad, a wandering wizard of technology and creativity.
+You use your intuitive knack for changing things to improve the world,
+one gadget or person at a time.
+
+* **Words**: Meddle; With Kin
+* **Pools**: Kin
+
+**Meddle (4 &#9734;)**:
+You can mess with something - whether devices or people - to get it working
+better, or occasionally worse.
+Your methods are intuitive but risky,
+and often depend on bumming things or information off the people around you.
+**Pool**: Kin
+
+**With Kin (4 &#9734;)**:
+Gnomads make many friends, and have large extended families of their own.
+You can call on them directly for help,
+or simply use what you've learned from them.
+**Pool**: Kin
+
+**Kin (&#9825;)**:
+Your extended social circle of friends and family.
+**Special**: Recharge when you make a new friend on the road,
+or catch up with an existing one.
+
+### New Archetypes
+
+TODO
+
+### Places
+
+TODO:
+
+* The Sleepy Village
+* The Local Prosperous Kingdom
+* The Old Ruin
+* The Bustling City
+* The Highroad
+* The Mysterious Forest
+* The Ancient Cave Tunnels
+* The Primordial Valley
+
+### Sample Characters
+
+**Tana**
+
+A spunky, outgoing girl from a sleepy country village.
+She dresses in country garb,
+and carries a rusty sword from her father's days as a soldier.
+
+* **Archetypes**: Brave Determined Adventurer
+* **Words**: Confront (4 &#9734;), Resist (4 &#9734;&#9734;), Avoid (4 &#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: The Old Ruin Near Home
+* **Flair**: Rusty Sword, Mysterious Pendant, Bright-Red Hair
+
+This is our heroine at the beginning of her adventure.
+At the end of the story "The Old Ruin Near Home",
+she will discover a grimoire (a book of magic spells), and learn to be a Mage.
+Later on, she will meet up with a Gnomic caravan,
+where she is equipped with a new sword and armor, and become a Magic Knight.
+
+**Basler**
+
+A selfish rogue of no great moral character,
+who lives and plies his unsavory trade in the city.
+Meeting Tana, the least cynical person he'd ever encountered,
+changed his way of thinking.
+He wears dirty leathers and carries two sharp daggers.
+
+* **Archetypes**: Clever Mysterious Adventurer
+* **Words**: Confront (4 &#9734;), Avoid (4 &#9734;&#9734;), Outwit (4 &#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: The Noblewoman's Necklace
+* **Flair**: TODO
+
+At the end of "The Noblewoman's Necklace", Basler becomes a Thief,
+but using his skills for good.
+Later, he'll meet a mysterious but familiar old man, and become a Ninja.
+
+**Emory Hawthorne**
+
+A young and inexperienced, but noble, squire.
+Assigned to track down the thief Basler,
+only to fall in with the group upon seeing Tana's influence on him
+(and being more than a little impressed with the girl herself).
+
+* **Archetypes**: Curious Determined Adventurer
+* **Words**: Resist (4 &#9734;&#9734;), Avoid (4 &#9734;), Outwit (4 &#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: A Squire's Duty
+* **Flair**: TODO
+
+At the end of "A Squire's Duty", he becomes Sir Emory and is made a proper Knight.
+Later, he'll learn the defensive arts of the order of St. Rinadh,
+and become a Paladin.
+
+**Woody**
+
+A young forest-dweller who wears thick overlapping cloth to conceal their features.
+They guide Tana and her friends through a dangerous woodland,
+and are inspired to leave the forest and join the group.
+They have frequent discussions with Basler about laws and authority.
+They carry a bow made of living wood, with a bowstring made of an actual vine.
+
+* **Archetypes**: Clever Cool Adventurer
+* **Words**: Confront (4 &#9734;), Avoid (4 &#9734;), Outwit (4 &#9734;&#9734;)
+* **Pools**: Resolve (&#9825;&#9825;)
+* **Threads**: Secret in the Forest
+* **Flair**: Piercing Green Eyes, Face-Covering Veil, Vine Bow
+
+In reality, "Woody" is Princess Emerald who escaped a nearby kingdom
+and has been living in the forest for the past few years.
+At the end of "Secret in the Forest", she will bring some animal companions
+with her, becoming a Beastmaster.
+Later, she'll acknowledge her royal heritage to become a Princess,
+embrace her life in the wild and become a Ranger, or perhaps both.
+
+### Sample Challenges
+
+**Slime**
+
+Mobile blobs of protoplasm, slimes are typically the first monster
+an adventurer faces in their career.
+
+**Endurance**: 1 &#x25A1; 2 &#x25A1;
+
+**Twists**:
+
+* "It slimed me!" (&#9825;): You're covered in goop and must scramble to escape, possibly losing something small or valuable as you do.
+* Stuck weapon! (&#9825;&#9825;): Lose your weapon. You must work to get it back somehow.
+* More slimes! (&#9825;&#9825;&#9825;): Add 2 &#9825;&#9825; to the Slime's endurance.
+
+**Thugs**
+
+Bandits, muggers, hired soldiers, mercenaries, or anyone else
+who makes a living through fighting.
+
+**Endurance**: 3 &#x25A1;&#x25A1;&#x25A1;
+
+**Twists**:
+
+* Unnecessary Roughness (&#9825;): You take some minor injury and must deal with it for the rest of the fight.
+* Reinforcements appear! (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the Thugs' endurance.
+
+**Thug Captain**
+
+The brains of the bunch, the Captain whips his Thugs into shape at every
+opportunity and will appear if enough of them are beaten down.
+
+**Endurance**: 6 &#x25A1;&#x25A1;&#x25A1;&#x25A1;
+
+**Features**:
+
+* Special Weapon (5). The Captain got the pick of the armory and is toting around something that will give the heroes trouble.
+
+**Twists**:
+
+* Dirty Trick! (&#9825;): You fall victim to one of the classic blunders.
+* "Now I'm mad!" (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the Thug Captain's endurance.
+* "Get in there!" (&#9825;-&#9825;&#9825;&#9825;&#9825;&#9825;): One to five Thugs appear to support the Captain.
+
+**Dragon**
+
+Winged and scaled, with sharp fangs, piercing claws, and deadly fire breath,
+dragons are the epitome of a "monster" for many brave souls.
+
+**Endurance**: 10 &#x25A1;&#x25A1; 15 &#x25A1;&#x25A1; 20 &#x25A1;&#x25A1;
+
+**Features**:
+
+* Flying (10). The dragon takes to the air, avoiding melee attacks and ground-bound attackers.
+* Scales (5). Hard scaly armor makes weapons bounce off. Only strong magic can get through.
+
+**Twists**:
+
+* Claws! (&#9825;): You are hit and begin to bleed.
+* Tail Swipe! (&#9825;&#9825;): You are knocked to your feet and must scramble out of the way of further attacks.
+* Flaming Breath! (&#9825;&#9825;&#9825;): Something important, or just the whole area, is set ablaze!
+* Chink in the Armor! (&#9825;&#9825;&#9825;&#9825;&#9825;): If you somehow manage to find and target it, the dragon will take considerable damage.
