@@ -862,8 +862,27 @@ made by the surface-dwellers from sturdy wood and reliable rock.
 
 Some of the old mechanistry can still be found, and much of it is dangerous.
 The powers of magic are equally risky to the unprepared:
-fantastic creatures of myth, such as dragons and ghosts,
+fantastic creatures of myth, such as basilisks and ghosts,
 arise from the primal wild magic of the earth.
+
+### Dragons
+
+"Dragon" is what people call the ancient primal spirits of the world.
+Dragons are defined by their greed and their power, but they can be
+held back through force of will, acts of courage, and defiance.
+The heroes of story and song who resisted dragons are revered as "saints".
+
+Some dragons are massive beyond comprehension.
+The whole world of Delspire is sometimes said to be
+a coiled-up dragon within an egg, waiting to hatch.
+Other dragons are nimble monsters, lurking in caves and forests,
+flying like shadows over sleeping cities,
+sometimes taking hapless travelers or whole caravans by surprise.
+Dragons are spirits, but form bodies out of the elements: wood,
+ice, soil, even volcanic magma.
+
+The Holy Church of Delspire recognizes hundreds of saints,
+and catalogs and studies the dragon spirits.
 
 ### Races
 
@@ -1037,54 +1056,58 @@ embrace her life in the wild and become a Ranger, or perhaps both.
 
 ### Sample Challenges
 
-**Slime**
+**Slime Attack!**
 
-Mobile blobs of protoplasm, slimes are typically the first monster
-an adventurer faces in their career.
+Slimes are mobile blobs of protoplasm, animated by magic or
+ancient Cirran mechanistry. They are a recurring nuisance for many
+villages, and are one of the first "monsters" any adventurer will face.
 
-**Endurance**: 1 &#x25A1; 2 &#x25A1;
+**Endurance**:
+1 &#x25A1; (first wave),
+2 &#x25A1; (more slimes appear),
+3 &#x25A1; (lots of slimes!)
 
 **Twists**:
 
 * "It slimed me!" (&#9825;): You're covered in goop and must scramble to escape, possibly losing something small or valuable as you do.
 * Stuck weapon! (&#9825;&#9825;): Lose your weapon. You must work to get it back somehow.
-* More slimes! (&#9825;&#9825;&#9825;): Add 2 &#9825;&#9825; to the Slime's endurance.
 
-**Thugs**
+**Confrontation with Thugs!**
 
-Bandits, muggers, hired soldiers, mercenaries, or anyone else
-who makes a living through fighting.
+Bandits, muggers, hired soldiers, or mercenaries
+can harass innocent bystanders, waylay travelers, and so on.
+The Thugs can be beaten by force, conned, or tricked.
 
-**Endurance**: 3 &#x25A1;&#x25A1;&#x25A1;
+**Endurance**:
+3 &#x25A1;&#x25A1;&#x25A1; (handful of thugs causing trouble),
+5 &#x25A1;&#x25A1;&#x25A1; (rest of the gang shows up),
+6 &#x25A1;&#x25A1;&#x25A1;&#x25A1; (captain of the gang appears)
+
+**Features**:
+
+* Backup (5): More members of the gang appear.
+* Hostage (5): The gang took hostages. You must save them.
 
 **Twists**:
 
 * Unnecessary Roughness (&#9825;): You take some minor injury and must deal with it for the rest of the fight.
-* Reinforcements appear! (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the Thugs' endurance.
+* Dirty Trick! (&#9825;&#9825;): You fall victim to one of the classic blunders - sand in the eye, etc.
+* "Now I'm mad!" (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the captain's endurance, as he no-sells a weak attack.
+* "Get in there!" (&#9825;&#9825;&#9825;&#9825;): add the Backup feature.
 
-**Thug Captain**
+**Encounter with a Dragon!**
 
-The brains of the bunch, the Captain whips his Thugs into shape at every
-opportunity and will appear if enough of them are beaten down.
+The characters encounter a Dragon somewhere deep and mysterious:
+the heart of a forest, the final room of a cave system,
+an aerie high atop a misty mountain.
+The Dragon can be fought, bargained with, or avoided, but never
+truly defeated.
 
-**Endurance**: 6 &#x25A1;&#x25A1;&#x25A1;&#x25A1;
-
-**Features**:
-
-* Special Weapon (5). The Captain got the pick of the armory and is toting around something that will give the heroes trouble.
-
-**Twists**:
-
-* Dirty Trick! (&#9825;): You fall victim to one of the classic blunders.
-* "Now I'm mad!" (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the Thug Captain's endurance.
-* "Get in there!" (&#9825;-&#9825;&#9825;&#9825;&#9825;&#9825;): One to five Thugs appear to support the Captain.
-
-**Dragon**
-
-Winged and scaled, with sharp fangs, piercing claws, and deadly fire breath,
-dragons are the epitome of a "monster" for many brave souls.
-
-**Endurance**: 10 &#x25A1;&#x25A1; 15 &#x25A1;&#x25A1; 20 &#x25A1;&#x25A1;
+**Endurance**:
+10 &#x25A1;&#x25A1; (encounter with the dragon on the ground),
+10 &#x25A1;&#x25A1; (the dragon takes to the air, gaining the Flying feature),
+15 &#x25A1;&#x25A1; (the dragon begins strafing the PCs),
+20 &#x25A1;&#x25A1; (the dragon lands and begins fighting all-out)
 
 **Features**:
 
@@ -1095,5 +1118,6 @@ dragons are the epitome of a "monster" for many brave souls.
 
 * Claws! (&#9825;): You are hit and begin to bleed.
 * Tail Swipe! (&#9825;&#9825;): You are knocked to your feet and must scramble out of the way of further attacks.
-* Flaming Breath! (&#9825;&#9825;&#9825;): Something important, or just the whole area, is set ablaze!
+* Breath Weapon! (&#9825;&#9825;&#9825;): Something important, or just the whole area, is caught in the blast.
+* Thousand Limbs! (&#9825;&#9825;&#9825;): The dragon uses its environment as an extension of its body - vine tendrils, earthy shackles, etc.
 * Chink in the Armor! (&#9825;&#9825;&#9825;&#9825;&#9825;): If you somehow manage to find and target it, the dragon will take considerable damage.
