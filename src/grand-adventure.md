@@ -1,7 +1,7 @@
 ---
 title: Grand Adventure
 images:
-  - name: Books and Magic Lamp
+  - name: The Magic Grottoes 1870
     url: /assets/grand-adventure/The-Magic-Grottoes-1870.svg
 ---
 
@@ -176,7 +176,7 @@ Write down the **Words** you start with, based on which adjectives you picked:
 * Confront (if you picked Brave, Cool, or Mysterious)
 * Resist (if you picked Brave, Curious, or Determined)
 * Avoid (if you picked Clever, Determined, or Mysterious)
-* Know About (if you picked Clever, Cool, or Curious)
+* Outwit (if you picked Clever, Cool, or Curious)
 
 Write a **star** (&#9734;) next to each Word you start with.
 If you picked two adjectives that give you the same Word,
@@ -758,15 +758,20 @@ The group should discuss how this overlap happens.
 Players are encouraged to think about how their stories
 can complement the stories of their fellow players.
 
-## Sample Archetypes
+## Starting Archetypes
 
-### (Type) Adventurer
+### Adventurer
 
-There are many types of adventurers: people who like to explore the world, and have their own ways of surviving the dangers along the way. Pick one of six types of adventurer: Brave, Clever, Cool, Curious, Determined, or Mysterious.
+There are many types of adventurers: people who like to explore the world,
+and have their own ways of surviving the dangers along the way.
+Pick one of six types of adventurer:
+Brave, Clever, Cool, Curious, Determined, or Mysterious.
 
-**Words**: Confront (4 &#9734;) (if you are Brave, Cool, Mysterious),
-Resist (4 &#9734;) (if you are Brave, Curious, Determined), Avoid (4 &#9734;) (Clever, Determined, Mysterious),
-Know About (4 &#9734;) (if you are Clever, Cool, Curious)
+**Words**:
+Confront (4 &#9734;) (if you are Brave, Cool, Mysterious),
+Resist (4 &#9734;) (if you are Brave, Curious, Determined),
+Avoid (4 &#9734;) (Clever, Determined, Mysterious),
+Outwit (4 &#9734;) (if you are Clever, Cool, Curious)
 
 **Pools**: Resolve (&#9825;)
 
@@ -785,10 +790,10 @@ or otherwise avoid a direct confrontation with a Challenge.
 You typically Avoid lethal area attacks, guards on patrol,
 sharp blades on traps in a dungeon, and so forth.
 
-**Know About** (4 &#9734;):
+**Outwit** (4 &#9734;):
 You figure something out, remember something you've learned,
 analyze something, or notice something that lets you defeat the Challenge.
-You typically Know About weird magical traps,
+You typically Outwit weird magical traps,
 humanoids speaking a strange language, or doors covered in fiendish riddles.
 
 **Resolve** (&#9825;):
@@ -816,7 +821,7 @@ This is our heroine at the beginning of her adventure. At the end of the story "
 A selfish rogue of no great moral character, who lives and plies his unsavory trade in the city. Meeting Tana, the least cynical person he'd ever encountered, changed his way of thinking. He wears dirty leathers and carries two sharp daggers.
 
 * **Archetypes**: Clever Mysterious Adventurer
-* **Words**: Confront (4 &#9734;), Avoid (4 &#9734;&#9734;), Know About (4 &#9734;)
+* **Words**: Confront (4 &#9734;), Avoid (4 &#9734;&#9734;), Outwit (4 &#9734;)
 * **Pools**: Resolve (&#9825;&#9825;)
 * **Threads**: The Noblewoman's Necklace (Sparkling, Suspicious, Jeweled)
 
@@ -827,7 +832,7 @@ At the end of "The Noblewoman's Necklace", Basler becomes a Thief, but using his
 A young and inexperienced, but noble, squire. Assigned to track down the thief Basler, only to fall in with the group upon seeing Tana's influence on him (and being more than a little impressed with the girl herself).
 
 * **Archetypes**: Curious Determined Adventurer
-* **Words**: Resist (4 &#9734;&#9734;), Avoid (4 &#9734;), Know About (4 &#9734;)
+* **Words**: Resist (4 &#9734;&#9734;), Avoid (4 &#9734;), Outwit (4 &#9734;)
 * **Pools**: Resolve (&#9825;&#9825;)
 * **Threads**: A Squire's Duty (Shining, Impressive, Honorable)
 
