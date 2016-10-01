@@ -768,10 +768,11 @@ Pick one of six types of adventurer:
 Brave, Clever, Cool, Curious, Determined, or Mysterious.
 
 **Words**:
-Confront (4 &#9734;) (if you are Brave, Cool, Mysterious),
-Resist (4 &#9734;) (if you are Brave, Curious, Determined),
-Avoid (4 &#9734;) (Clever, Determined, Mysterious),
-Outwit (4 &#9734;) (if you are Clever, Cool, Curious)
+
+* **Confront** (4 &#9734;) (if you are Brave, Cool, Mysterious),
+* **Resist** (4 &#9734;) (if you are Brave, Curious, Determined),
+* **Avoid** (4 &#9734;) (Clever, Determined, Mysterious),
+* **Outwit** (4 &#9734;) (if you are Clever, Cool, Curious)
 
 **Pools**: Resolve (&#9825;)
 
@@ -800,9 +801,6 @@ humanoids speaking a strange language, or doors covered in fiendish riddles.
 Your physical endurance, your spirit, your strength of will,
 combining to allow you to continue your journey and your fight.
 **Special**: Recharge Resolve whenever you reach a Discovery.
-
-## Sample Characters
-
 
 ## Optional Rules
 
@@ -918,21 +916,16 @@ You are a Zelf, an immortal and mysterious being.
 You dive into the ocean of your own memories to bring back treasure,
 sharing it for the benefit of all.
 
-* **Words**: Decipher; With Memories
-* **Pools**: Memory
-
-**Decipher (4 &#9734;)**:
-You puzzle out the meaning of something hidden, obscure, or jumbled.
-You can understand dead languages, mystic ciphers, and many other things.
-**Pool**: Memory
-
-**With Memories (1)**:
-Your ancient lore can tell you something useful when you take other actions.
-**Pool**: Memory
-
-**Memory (&#9825;)**:
-Your recollection of ages past, and the secrets you've learned since.
-**Special**: Recharge when you tell a tale of ancient times.
+* **Decipher** (4 &#9734;):
+  You puzzle out the meaning of something hidden, obscure, or jumbled.
+  You can understand dead languages, mystic ciphers, and many other things.
+  **Pool**: Memory
+* **With Memories** (1):
+  Your ancient lore can tell you something useful when you take other actions.
+  **Pool**: Memory
+* **Memory** (&#9825;):
+  Your recollection of ages past, and the secrets you've learned since.
+  **Special**: Recharge when you tell a tale of ancient times.
 
 **Gnomad**
 
@@ -940,34 +933,339 @@ You are a Gnomad, a wandering wizard of technology and creativity.
 You use your intuitive knack for changing things to improve the world,
 one gadget or person at a time.
 
-* **Words**: Meddle; With Kin
-* **Pools**: Kin
-
-**Meddle (4 &#9734;)**:
-You can mess with something - whether devices or people - to get it working
-better, or occasionally worse.
-Your methods are intuitive but risky,
-and often depend on bumming things or information off the people around you.
-**Pool**: Kin
-
-**With Kin (4 &#9734;)**:
-Gnomads make many friends, and have large extended families of their own.
-You can call on them directly for help,
-or simply use what you've learned from them.
-**Pool**: Kin
-
-**Kin (&#9825;)**:
-Your extended social circle of friends and family.
-**Special**: Recharge when you make a new friend on the road,
-or catch up with an existing one.
+* **Meddle** (4 &#9734;):
+  You can mess with something - whether devices or people - to get it working
+  better, or occasionally worse.
+  Your methods are intuitive but risky,
+  and often depend on bumming things or information off the people around you.
+  **Pool**: Kin
+* **With Kin** (1):
+  Gnomads make many friends, and have large extended families of their own.
+  You can call on them directly for help,
+  or simply use what you've learned from them.
+* **Kin** (&#9825;):
+  Your extended social circle of friends and family.
+  **Special**: Recharge when you make a new friend on the road,
+  or catch up with an existing one.
 
 ### New Archetypes
 
-TODO
+**Bard**
+
+A traveling singer and storyteller. Bards use music and charm to get by,
+though some branch out into other disciplines such as magic, healing, or archery.
+
+* **Perform** (4 &#9734;):
+  You play a song, singing and/or accompanying yourself on an instrument
+  to get a positive reaction from an audience.
+  **Pool**: Charm.
+* **Entertainingly** (1):
+  Use your personality, music or repertoire of songs to achieve some other goal.
+  **Pool**: Charm.
+* **Charm** (&#9825;):
+  Your charisma, persuasiveness, and inspiration.
+  **Recharge**: Befriend someone or tell a fascinating story, regardless of its truthfulness.
+
+**Beastmaster**
+
+A naturalist who befriends one or more animal companions,
+then trains and travels with them.
+**Special**: Specify the sorts of animals you've allied with,
+and some of the typical tricks they can do - including attacking enemies,
+rescuing allies, carrying messages, and so on.
+Your companions may not always be available.
+
+* **Order Pet** (4 &#9734;):
+  You command one of your animal companions to perform one of their tricks.
+  **Pool**: Instinct.
+* **Tame** (4 &#9734;):
+  You can recruit a dangerous natural creature as a companion with care and patience.
+  **Special**: You may do this automatically for mundane creatures such as birds or cats.
+  **Pool**: Instinct.
+* **Instinct** (&#9825;):
+  Your innate feelings for nature, your connection to the feral and bestial.
+  **Recharge**: Live simply in a natural state - sleeping under the stars,
+  hunting your own food, etc. - to reconnect with the world.
+
+**Cleric**
+
+A priest or holy person who allies themselves with one or more higher powers.
+Through miracles and holy magic, they heal and protect allies, or strike down evil.
+**Special**: A cleric's spells are accompanied by obvious indicators -
+glowing haloes over one's head, shafts of protective light from the sky, and so forth.
+
+* **Ward** (4 &#9734;):
+  You wield sacred power to repel someone or something from hurting you and your allies.
+  **Pool**: Holy.
+* **With Prayer** (1):
+  You pray for divine intervention in some other action.
+  **Pool**: Holy.
+* **Holy** (&#9825;):
+  Your connection to the divine and ability to call out sacred power.
+  **Recharge**: Meditate after an extended rest,
+  or be in the presence of an icon of your faith or a miracle of your patron.
+
+**Creature**
+
+You are an actual non-humanoid, like an intelligent animal or monster.
+You might be the product of magical experimentation, a victim of rogue mechanistry,
+or just a member of a highly intelligent race.
+**Special**: civilized folk may not see you as a thinking being unless you
+announce yourself, allowing you to act unnoticed at the cost of some dignity.
+Your physical shape and size may allow you to carry loads, or even passengers.
+Use the Druid Archetype, replacing "Cleanse" with "Maul".
+
+* **Maul** (4 &#9734;):
+  You scream and leap, charging and clawing at a hapless and terrified target.
+  **Pool**: Instinct.
+
+**Druid**
+
+Guardians of the living world against the encroachment of civilization.
+Druids enforce the natural order by adopting the shapes of wild animals.
+They fuse primal physical power with a thinking person's intellect,
+getting the best of both worlds.
+**Special**: Druids can instinctively sense threats to nature in a region,
+but can also be affected by corruptions of nature.
+
+* **Cleanse** (4 &#9734;):
+  You remove the taint of magical corruption, or a mechanistry infection,
+  from a natural lifeform - a person, an animal, a plant.
+  **Pool**: Instinct.
+* **As an Animal** (1):
+  You change into one or more animal shapes and use their physical abilities directly.
+  **Pool**: Instinct.
+* **Instinct** (&#9825;):
+  Your innate feelings for nature, your connection to the feral and bestial.
+  **Recharge**: Live simply in a natural state - sleeping under the stars,
+  hunting your own food, etc. - to reconnect with the world.
+
+**Engineer**
+
+An inventor, artificer, or builder of amazing devices.
+**Special**: Describe the devices you typically carry and use.
+The MC can offer you a Twist in the form of a malfunction of one of your gadgets,
+and you can't use it again until you spend time repairing it.
+
+* **Improvise** (4 &#9734;):
+  You throw together something quickly to deal with a new problem.
+  **Pool**: Tech.
+* **With a Gadget** (1):
+  Use your arsenal to achieve some other goal.
+  **Pool**: Tech.
+* **Tech** (&#9825;):
+  Your mastery of technology and mechanistry, and your supply of devices.
+  **Recharge**: Describe the construction or operation of a new gadget,
+  or one you carry but haven't explained before.
+
+**Fighter**
+
+A master of weapons and fighting techniques.
+Not all fighters use melee weapons - archers are fighters too.
+**Special**: if you use a unique type of weapon, describe it and how it works.
+
+* **Attack** (4 &#9734;):
+  You strike an opponent in combat with one of your weapons.
+  **Pool**: Courage.
+* **Bravely** (1):
+  You can leverage your guts and battle experience in other ways.
+  **Pool**: Courage.
+* **Courage** (&#9825;):
+  Your strength of will and spirit, and determination in the face of danger.
+  **Recharge**: face incredible odds without flinching, or relate a story of bravery and risk.
+
+**Gunslinger**
+
+A fighter who uses gunpowder-driven firearms, attacking at range.
+Use the Paladin Archetype, replacing "Smite" with "Shoot",
+and the "Holy" Pool with "Tech" as described under Engineer.
+
+**Illusionist**
+
+A mystic master of illusions: phantasmal magics that deceive the senses.
+The use of illusion magic is not obvious and
+won't automatically mark you as the origin of the spell.
+
+* **Obfuscate** (4 &#9734;):
+  Create a phantasm or illusion, which will act as you describe.
+  **Pool**: Mana.
+* **Via Illusion** (1):
+  You can declare that you, or something else in the scene, was really an illusion created by you.
+  **Pool**: Mana.
+* **Mana** (&#9825;):
+  Your reserve of magical power.
+  **Recharge**: meditate after an extended rest, or expose yourself to any significant source of mystic power.
+
+**Knight**
+
+An armored warrior sworn to a code of honor. Uses a shield for offense and defense.
+
+* **Block** (4 &#9734;):
+  You interpose your shield and yourself to take an attack in place of someone else,
+  or blunt the effectiveness of an attack against you.
+  **Pool**: Courage.
+* **For Honor** (1 &#9734;):
+  When you uphold your oath in some significant and meaningful way.
+* **Courage** (&#9825;):
+  Your strength of will and spirit, and determination in the face of danger.
+  **Recharge**: face incredible odds without flinching, or relate a story of bravery and risk.
+
+**Mage**
+
+A student of the arcane, who wields magic spells.
+**Special**: A mage's spells are accompanied by obvious indicators -
+magic circles on the ground, concentric rings of energy surrounding their hands,
+auras of light around their target, and so on.
+
+* **Cast a Spell** (4 &#9734;):
+  You shape magic into a physical manifestation,
+  like a floating ball of light or a dangerous fireball.
+  **Pool**: Mana.
+* **With Magic** (1):
+  You can wield magic for a variety of other purposes.
+  **Pool**: Mana.
+* **Mana** (&#9825;):
+  Your reserve of magical power.
+  **Recharge**: meditate after an extended rest, or expose yourself to any significant source of mystic power.
+
+**Magic Knight**
+
+A combat specialist, wielding both melee weapons and sorcery in concert.
+
+* **Spellstrike** (4 &#9734;):
+  You wield a combination of spells and swordplay,
+  using one as a feint for the other in an eternal deadly dance.
+  **Pools**: Courage, Mana
+* **Courage** (&#9825;):
+  Your strength of will and spirit, and determination in the face of danger.
+  **Recharge**: face incredible odds without flinching, or relate a story of bravery and risk.
+* **Mana** (&#9825;):
+  Your reserve of magical power.
+  **Recharge**: meditate after an extended rest, or expose yourself to any significant source of mystic power.
+
+**Mechanism**
+
+An artificial lifeform: a robot, a mechanist construct, an alchemical golem,
+or something similar.
+**Special**: You are powered by electricity rather than food and drink.
+You are immune to disease and many mortal ailments,
+but can still wear down and have your own unique class of problems.
+Use the Engineer archetype, replacing "Improvise" with "Crush".
+Your gadgets are built-in rather than constructed.
+
+* **Crush** (4 &#9734;):
+  You use your brute strength to reduce obstacles to fragments.
+  **Pools**: Tech
+
+**Paladin**
+
+A holy warrior who follows a divine command,
+rather than a merely mundane code of honor.
+A heavily armored knight with holy magic.
+
+* **Smite** (4 &#9734;):
+  You strike down evil with a blaze of power.
+  **Pools**: Courage, Holy.
+* **Courage** (&#9825;):
+  Your strength of will and spirit, and determination in the face of danger.
+  **Recharge**: face incredible odds without flinching, or relate a story of bravery and risk.
+* **Holy** (&#9825;):
+  Your connection to the divine and ability to call out sacred power.
+  **Recharge**: Meditate after an extended rest,
+  or be in the presence of an icon of your faith or a miracle of your patron.
+
+**Prince/Princess**
+
+A member of royalty who goes on adventures for their own reasons.
+Their strength is their kindness and good heart,
+and not only a willingness but an ability to see the true natures of others.
+**Special**: as royalty, you have authority over the good folk of a certain kingdom,
+and you may exercise it when you are there.
+
+* **Befriend** (4 &#9734;):
+  You overcome hatred and fear through perseverance,
+  convincing someone to give up hostility and cooperate with you.
+  **Pool**: Charm.
+* **Kindly** (1):
+  Your spirit and purity allow you to see through any difficulty.
+  **Pool**: Charm.
+* **Charm** (&#9825;):
+  Your charisma, persuasiveness, and inspiration.
+  **Recharge**: Befriend someone or tell a fascinating story, regardless of its truthfulness.
+
+**Ranger**
+
+A tracker, woodsman, and practical naturalist.
+Rangers hunt primarily with traps and snares,
+though many learn the bow or sword to take down dangerous prey.
+
+* **Ambush** (4 &#9734;):
+  You set up a series of traps - spikes, poisons, trip lines, etc. -
+  to capture prey or harass larger targets.
+  **Pool**: Instinct.
+* **With Woodcraft** (1):
+  You use your knowledge of nature to get something done.
+  **Pool**: Instinct.
+* **Instinct** (&#9825;):
+  Your innate feelings for nature, your connection to the feral and bestial.
+  **Recharge**: Live simply in a natural state - sleeping under the stars,
+  hunting your own food, etc. - to reconnect with the world.
+
+**Scoundrel**
+
+A gambler, con artist, or traveling rogue.
+When a smooth tongue won't work, deft hands fill in.
+
+* **Swindle** (4 &#9734;):
+  You use legerdemain, trickery, or fast-talk to get your way,
+  taking advantage of somebody.
+  **Pools**: Charm, Stealth.
+* **Charm** (&#9825;):
+  Your charisma, persuasiveness, and inspiration.
+  **Recharge**: Befriend someone or tell a fascinating story, regardless of its truthfulness.
+* **Stealth** (&#9825;):
+  Your ability to hide in shadows, avoid detection, and go unnoticed.
+  **Recharge**: make effort to disappear from sight and stay hidden.
+
+**Shaman**
+
+Someone who walks in the world of spirits and create pacts with unseen allies.
+**Special**: Shamans can see the unseen: spirits of nature, ancestor spirits,
+and so forth. In return, those spirits can meddle with the shaman.
+
+* **Mediate** (4 &#9734;):
+  You bring mortal and spirit communities together to identify and resolve a problem.
+  **Pool**: Insight.
+* **With Spirit Ally** (1):
+  The spirits around you move to assist you with some other sort of activity.
+  **Pool**: Insight.
+* **Insight** (&#9825;):
+  Your supernatural sense of the spirit world and currents of fate.
+  **Recharge**: Meditate in a natural setting or upon a natural subject,
+  or tell a parable containing some sort of wisdom or lesson.
+
+**Summoner**
+A spellcaster who conjures powerful creatures from the ether,
+commanding them into battle. Use the Beastmaster Archetype,
+replacing "Order Pet" with "Summon", and "Tame" with "Bind".
+Summoners use the Mana Pool, described under the Mage.
+
+**Thief**
+
+A sneaky rogue who uses wits and blades to engage in larceny.
+
+* **Steal** (4 &#9734;):
+  You deprive a person or place of something valuable,
+  provided you have some way to get away with it.
+  **Pool**: Stealth.
+* **Sneakily** (1):
+  Your subtlety can be used in other ways.
+  **Pool**: Stealth.
+* **Stealth** (&#9825;):
+  Your ability to hide in shadows, avoid detection, and go unnoticed.
+  **Recharge**: make effort to disappear from sight and stay hidden.
 
 ### Places
-
-TODO:
 
 * The Sleepy Village
 * The Local Prosperous Kingdom
@@ -1010,7 +1308,6 @@ He wears dirty leathers and carries two sharp daggers.
 * **Words**: Confront (4 &#9734;), Avoid (4 &#9734;&#9734;), Outwit (4 &#9734;)
 * **Pools**: Resolve (&#9825;&#9825;)
 * **Threads**: The Noblewoman's Necklace
-* **Flair**: TODO
 
 At the end of "The Noblewoman's Necklace", Basler becomes a Thief,
 but using his skills for good.
@@ -1027,7 +1324,6 @@ only to fall in with the group upon seeing Tana's influence on him
 * **Words**: Resist (4 &#9734;&#9734;), Avoid (4 &#9734;), Outwit (4 &#9734;)
 * **Pools**: Resolve (&#9825;&#9825;)
 * **Threads**: A Squire's Duty
-* **Flair**: TODO
 
 At the end of "A Squire's Duty", he becomes Sir Emory and is made a proper Knight.
 Later, he'll learn the defensive arts of the order of St. Rinadh,
@@ -1101,7 +1397,7 @@ The characters encounter a Dragon somewhere deep and mysterious:
 the heart of a forest, the final room of a cave system,
 an aerie high atop a misty mountain.
 The Dragon can be fought, bargained with, or avoided, but never
-truly defeated.
+truly killed.
 
 **Endurance**:
 10 &#x25A1;&#x25A1; (encounter with the dragon on the ground),
