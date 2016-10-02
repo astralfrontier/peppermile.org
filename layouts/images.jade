@@ -1,7 +1,7 @@
 if images
   for image in images
     div
-      img.img-responsive(src=image.url alt=image.name class=image.class)
+      img.img-responsive.og-image(src=image.url alt=image.name class=image.class)
 else
   div
-    img.img-responsive(src="/assets/peppermile-publishing-text.svg" title="Peppermile Publishing logo" alt="Peppermile Publishing logo")
+    img.img-responsive.og-image(src="/assets/peppermile-publishing-text.svg" title="Peppermile Publishing logo" alt="Peppermile Publishing logo")

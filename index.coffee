@@ -13,6 +13,7 @@ link_checker    = require 'metalsmith-broken-link-checker'
 markdownit      = require 'metalsmith-markdownit'
 metadata        = require 'metalsmith-metadata'
 more            = require 'metalsmith-more'
+open_graph      = require 'metalsmith-open-graph'
 pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 pug             = require 'metalsmith-pug'
@@ -101,6 +102,12 @@ metalsmith(__dirname)
     directory: 'layouts'
     partials: 'partials'
     default: 'article.jade'
+  }))
+  .use(open_graph({
+    pattern: '**/*.html'
+    siteurl: 'http://peppermile.com/'
+    description: 'description'
+    image: '.og-image'
   }))
   .use(jquery(($) ->
     # All external links should open in new windows
