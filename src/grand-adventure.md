@@ -1074,6 +1074,22 @@ Not all fighters use melee weapons - archers are fighters too.
   Your strength of will and spirit, and determination in the face of danger.
   **Recharge**: face incredible odds without flinching, or relate a story of bravery and risk.
 
+**Geomancer**
+
+A mystic who masters _feng shui_ and the manipulation of ley lines.
+Uses the power of time, the seasons, and nature to achieve great magical effects.
+
+* **Rearrange** (4 &#9734;):
+  You can shift features of the landscape to achieve geomantic effects.
+  **Pool**: Insight, Qi.
+* **Insight** (&#9825;):
+  Your supernatural sense of the spirit world and currents of fate.
+  **Recharge**: Meditate in a natural setting or upon a natural subject,
+  or tell a parable containing some sort of wisdom or lesson.
+* **Qi** (&#9825;):
+  Your inner reserves of subtle power, which flow like water through the body.
+  **Recharge**: meditate after an extended rest, or tell a calming and peaceful tale.
+
 **Gunslinger**
 
 A fighter who uses gunpowder-driven firearms, attacking at range.
@@ -1156,6 +1172,55 @@ Your gadgets are built-in rather than constructed.
 * **Crush** (4 &#9734;):
   You use your brute strength to reduce obstacles to fragments.
   **Pools**: Tech
+
+**Monk**
+
+A formidable fighter trained in unarmed combat.
+A disciplined, cautious warrior who prefers peace and harmony.
+
+* **Punch/Kick** (4 &#9734;):
+  You use unarmed martial arts attacks against an opponent.
+  **Pool**: Qi.
+* **With Martial Arts** (1):
+  Your training allows you to attempt many unique feats of body or mind.
+  **Pool**: Qi.
+* **Qi** (&#9825;):
+  Your inner reserves of subtle power, which flow like water through the body.
+  **Recharge**: meditate after an extended rest, or tell a calming and peaceful tale.
+
+**Ninja**
+
+A skilled assassin and infiltration specialist.
+Called upon during wartime to do dishonorable but pragmatic missions.
+Often found as the secret police of an Eastern state.
+
+* **With Ninja Magic** (1):
+  You can fool enemies, transform your body, and many other amazing
+  feats by channeling the subtle energy inside yourself.
+  **Pool**: Qi, Stealth.
+* **Qi** (&#9825;):
+  Your inner reserves of subtle power, which flow like water through the body.
+  **Recharge**: meditate after an extended rest, or tell a calming and peaceful tale.
+* **Stealth** (&#9825;):
+  Your ability to hide in shadows, avoid detection, and go unnoticed.
+  **Recharge**: make effort to disappear from sight and stay hidden.
+
+**Oracle**
+
+An adventurer-academic who uses the stars to tell fortunes and
+manipulate fate.
+
+* **Twist Fate** (4 &#9734;):
+  You reveal or warp the destiny of someone or something,
+  causing a benefic or malefic outcome.
+  **Pool**: Insight.
+* **As Foretold** (1):
+  Some other action you perform carries the weight of fate with it.
+  **Pool**: Insight.
+* **Insight** (&#9825;):
+  Your supernatural sense of the spirit world and currents of fate.
+  **Recharge**: Meditate in a natural setting or upon a natural subject,
+  or tell a parable containing some sort of wisdom or lesson.
 
 **Paladin**
 
