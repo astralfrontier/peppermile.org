@@ -421,82 +421,91 @@ allowing the Swordfighter to renew her attack once the Dragon crashes to the gro
 
 ## Actions
 
-When you are dealing with a Challenge, you take Actions to overcome it.
-Start by telling the group the sort of thing you're going to do about the Challenge.
+Actions are how you resolve Challenges.
+You take an action by declaring you're going to do something.
+Then you choose a set of Words to model that description.
+Finally, you roll dice to determine how successful you were.
 
-For example, when you see an Ogre attacking a helpless villager,
+For example, Tana encounters an Ogre who is attacking a helpless village.
 Tana's player might say "I draw my sword and charge right for the Ogre,
 yelling at it to get its attention!"
 
-**Actions are made up of Words**.
+**You build Actions out of Words**.
 Based on your narration, you decide which Words you have that meet that description.
-The Words you pick should tell you _what's being done_, _to whom or to what_,
+The Words you pick should tell you _what you're doing_, _to whom or to what_,
 and optionally _how_.
 
-For example, Tana has an "Attack" Word
-that lets her charge into melee against dangerous creatures.
-She also has a "Crystal Sword" Word, which is the magic weapon she uses.
-When she encounters a Slime monster in a dungeon,
-she can use "Slime" as a Word too.
-She puts the Words together: "Attack", "Slime", "Crystal Sword" -
-"I'm attacking this Slime using my Crystal Sword".
+For example, Tana is a magic knight.
+She has an "Attack" Word, which represents physical attacks against opponents.
+She has a "With Magic" Word, which represents her ability to cast spells.
+While fighting the Ogre, it becomes a Word too.
+She puts the Words together: "Attack", "Ogre", "With Magic".
+The result is her Action: "I'm Attacking this Ogre With Magic".
 
-**You must include any Words that the MC requires**.
-For example, if the Challenge has features that are relevant,
-add those features as Words.
+**The MC can require or forbid Words**.
+The MC can decide that a Challenge's features are active for you.
+For example, a dragon might have a "Flying" feature that adds a cost to melee combat.
+In that case, you would have to make an Action like "Attack Flying Dragon".
+The MC might also declare that you can't use certain Words.
+You can't "Befriend" an avalanche or "Attack" a spell of mind control.
 
-**Most of your time in resolving an Action should be spent narrating**.
-Actions represent a series of outcomes, exchanges of sword-blows,
-tense seconds spent running from cave-ins, and the like.
-Actions are meant to capture the entirety of how characters respond
-to a given challenge in a given way,
-rather than being moment-by-moment indicators of combat.
+**Actions are summaries**.
+An Action isn't a single sword swing or a single attempt to pick a lock.
+An Action can be several seconds or even minutes long.
+It's a series of sword thrusts, parries, and ripostes.
+It's tense seconds running from a cave-in.
+It's the conversation you have with the sympathetic judge.
+Most of the Action will be you narrating what you do, and the MC responding.
 
-**Actions cannot be repeated**.
-Your Action represents the totality of your efforts doing a particular thing.
-Rather than a single sword swing,
-an Attack action represents a series of attacks and counter-attacks.
+**You cannot repeat the same Action in a Challenge.**
+Once you have used a specific combination of Words, you can't re-use that combination.
+You must change at least one Word.
+This includes any Words the MC requires, such as features.
 
-Once you have used a particular combination of Words against a given Challenge,
-you must change at least one Word next time.
-This includes any features that the Challenge has.
+While facing an Ogre, Tana uses the "Attack Ogre" Action.
+After that, she can't "Attack Ogre" again.
+She could "Attack Ogre With Magic".
+She could also "Attack Angry Ogre", if "Angry" was a feature that the MC added.
+She could "Avoid" or "Outwit" the Ogre, by changing battle tactics.
 
-For example, Tana cannot "Attack Ogre" a second time,
-once she's done it the first time.
-But she can "Attack Ogre With Enchanted Weapon"
-(drawing her sword and charging it up with fiery power to make a decisive final blow),
-or "Avoid Ogre" (running from the bloodied ogre until it exhausts itself).
-If the MC declares that a feature has come into play, like "Angry",
-Tana could also "Attack Angry Ogre".
+**You activate Words by rolling dice.**
+You can roll dice from one or more Pools.
+You can use a Pool if the Pool, or the Words you use, allow it.
+For example, you can use the "Resolve" Pool for all actions.
+Tana's "Attack" Word allows her to use her "Bravery" Pool.
 
-**To succeed at the Action, the activation cost of every Word in the action must be paid**.
-If not every word is activated, the entire Action fails and the MC determines what happens.
-
-**To pay activation costs, roll dice**.
-You can take dice from any Pools you are allowed to use.
-Resolve can be used in any Action.
-Some rules or Words can allow you to use other Pools as well.
-Roll the dice you take, then assign each die to a specific Word.
-You can apply multiple dice to a single Word,
-summing the totals shown on the dice.
-You cannot apply the same die to multiple Words.
-
-For example, Tana wants to "Attack Ogre".
-The "Attack" Word has a cost of 4 &#9734;.
-The Ogre is a rating 5 Challenge, so has a cost of 5.
+When you roll dice, assign each one to a specific Word.
+If you assign several dice to the same Word, add their values together.
+For example, Tana's "Attack" Word has a cost of 4,
+and "Ogre" has a cost of 5.
 Tana has 4 Resolve dice and 2 Courage dice.
-Her "Attack" Word lets her use Courage, so she can roll dice from either pool.
-
 She takes both Courage dice and rolls them, getting a 4 and a 6.
-She assigns the 4 to Attack and the 6 to Ogre, fully paying the Action cost.
+She assigns the 4 to Attack and the 6 to Ogre.
+The Action is now paid for.
+
+Once you roll dice, you cannot unroll them.
+
+**You must activate every Word for your Action to succeed.**
+Whether you succeed or fail, the MC determines what happens next.
+The MC should respect your choice of Words.
+For example, if you declare that you want to "Befriend" the Ogre,
+the outcome should be peaceful.
+This doesn't stop other players from taking Actions
+that negate yours.
+
+If your Action fails, you get all your rolled dice back.
+You can't repeat Actions even if they failed.
 
 **Once the action is resolved, you get dice back**.
-You can take back a number of dice equal to the total star ratings of all Words in your action.
-You can't get more dice back than were rolled.
-These dice can be placed back into any Pools you want.
+Count up the total number of stars on all Words in the Action.
+You can take back up to that many dice, but no more.
+You can place the dice you get back into any Pool you want.
+You cannot put more dice into a Pool than its maximum size.
 
-For example, Tana's "Attack" word is one star.
-She takes one of the two dice she rolled back, and places it back in her Courage Pool.
+For example, Tana's "Attack" word has one star (&#9734;).
+When she rolls her two dice earlier, she can take one back.
+She places it back into her Courage Pool.
+She could have placed it into her Resolve Pool, if it wasn't full.
 
 **The MC can always offer you one or more Twists**.
 If you are unable or unwilling to pay dice from your Pools,
@@ -597,9 +606,12 @@ Players can propose new Archetypes.
 The MC has the final word on any new Archetypes.
 New Archetypes should support the tone of the game world.
 
-If you take a new Archetype that has Words or Pools you already have, Level Up those Words or Pools.
+If you take a new Archetype that has Words or Pools you already have,
+Level Up those Words or Pools.
 Don't take them a second time.
-For example, a character already has an "MP" Pool because they are a Mage. They choose to gain Illusionist, which also has an "MP" Pool. They would Level Up their MP Pool, rather than take it twice.
+For example, a character already has an "MP" Pool because they are a Mage.
+They choose to gain Illusionist, which also has an "MP" Pool.
+They would Level Up their MP Pool, rather than take it twice.
 
 If your idea doesn't feel like an Archetype, create a new unique Word or Pool.
 For example, you want a Word like "Crystal Sword" to represent a unique magic weapon.
@@ -747,7 +759,10 @@ When you reach a Discovery or face a Challenge,
 you can mark off a milestone.
 This means that the encounter will become part of your story.
 The MC should keep this in mind when describing what comes after that.
-For example, Tana has a Thread called "The Old Ruin Near Home". During a fight with a pack of Slimes, she loses her weapon to one of the creatures. She marks off a milestone. She declares that one of the defeated Slimes might have grabbed something shiny from the Ruin.
+For example, Tana has a Thread called "The Old Ruin Near Home".
+During a fight with a pack of Slimes, she loses her weapon to one of the creatures.
+She marks off a milestone.
+She declares that one of the defeated Slimes might have grabbed something shiny from the Ruin.
 The MC agrees, and Tana recovers a bauble that will help her open the magic locks in the depths of the ruins.
 
 Two or more characters can use a milestone to lay claim to a Discovery or Challenge.
@@ -755,7 +770,8 @@ If this happens, the group should discuss the way their stories might intersect.
 For example, Tana is trying to unlock an ancient grimoire.
 Meanwhile, Basler is chasing the real thief of a valuable necklace.
 They can both encounter a street gang.
-Tana and Basler both use a milestone to claim the gang's Challenge. They agree that the necklace a magic pendant that will unlock the grimoire
+Tana and Basler both use a milestone to claim the gang's Challenge.
+They agree that the necklace a magic pendant that will unlock the grimoire
 if recovered.
 
 A character's Thread should find its conclusion on the last milestone.
