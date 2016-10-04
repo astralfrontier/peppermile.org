@@ -725,38 +725,67 @@ or even the PCs leading a direct attack on the commandant of the camp.
 
 ## Threads
 
-At the start of the game, each player comes up with a short pitch for a story they want to tell.
-Examples would be "the mistreatment of the orcs",
-"the search for an ancient grimoire", or "elves vs. magitek".
-The player need not know how this story will end.
-That can be determined during game play.
+Threads are specific story ideas you want your character to experience.
+Threads are the way your character gains experience and grows stronger.
 
-When a player starts a new Thread, they get five **milestones**.
-When the group reaches a Discovery or faces a new Challenge,
-the player can spend a milestone to make it part of their thread.
-This signals that the Discovery or Challenge is a part of their ongoing story,
-and the MC and group should discuss how the story moves forward with that in mind.
+A Thread isn't an ongoing mission or a motivation.
+Something like "Overthrow the evil empire" is too long and too open to be a Thread.
+A Thread is an achievable short-term goal.
+You can tell a large, multi-part story with your character's Threads,
+but you don't have to.
+For example, Tana starts the game with a Thread:
+"The Old Ruin Near Home".
+That story may continue on other Threads,
+or she can do something different.
 
-For example, when the group discovers a Lost Primordial Cave,
-the player might spend a milestone to include it in their thread.
-The group decides that ancient secrets of spirit-worship are found here,
-that could rekindle the orcs' racial religion and help them escape their unhappy existence.
-The group might encounter an orc shaman at the Cave,
-and assist that character in uncovering these secrets.
+You don't have to know how the story will end.
+You should know how it will start.
+For example, you can have a Thread such as
+"find the lady's stolen jewelry".
+You might round up the usual suspects, or look for known jewel thieves.
+You don't have to know who the actual thief was when you start the Thread.
+Perhaps it wasn't stolen at all!
+You'll discover what happens as you play the game.
 
-Once a player has used up their last milestone,
-the thread should be brought to a satisfying conclusion.
-If this has not happened, the group can continue the story until that happens.
-Once every player's threads have been resolved,
-everyone starts over by creating new threads.
-The reason for this is to allow everyone's story to be told,
-without a single player dominating the group.
-It's also intended to ensure that stories come to an eventual resolution without dragging on indefinitely.
+When you start a new Thread, you get five **milestones**.
+When you reach a Discovery or face a Challenge,
+you can mark off a milestone.
+This means that the encounter will become part of your story.
+The MC should keep this in mind when describing what comes after that.
+For example, Tana has a Thread called "The Old Ruin Near Home". During a fight with a pack of Slimes, she loses her weapon to one of the creatures. She marks off a milestone. She declares that one of the defeated Slimes might have grabbed something shiny from the Ruin.
+The MC agrees, and Tana recovers a bauble that will help her open the magic locks in the depths of the ruins.
 
-Multiple players can claim the same Discovery or Challenge for their threads.
-The group should discuss how this overlap happens.
-Players are encouraged to think about how their stories
-can complement the stories of their fellow players.
+Two or more characters can use a milestone to lay claim to a Discovery or Challenge.
+If this happens, the group should discuss the way their stories might intersect.
+For example, Tana is trying to unlock an ancient grimoire.
+Meanwhile, Basler is chasing the real thief of a valuable necklace.
+They can both encounter a street gang.
+Tana and Basler both use a milestone to claim the gang's Challenge. They agree that the necklace a magic pendant that will unlock the grimoire
+if recovered.
+
+A character's Thread should find its conclusion on the last milestone.
+The group can end a story early, or allow it to run longer, if they feel it's appropriate.
+
+Once a character finishes their Thread, they get to advance immediately
+(see "Advancement").
+You should base a character's advancement choices on the outcome of the Thread, but you don't have to.
+For example, a character who finds a grimoire of magic may
+gain the "Mage" Archetype as a result.
+
+Once all characters have finished their Threads,
+everybody gets to start a new Thread.
+You can continue a larger or longer story,
+or do something new.
+
+Example Threads:
+
+* Find my mother's missing pendant
+* Uncover the real person who stole the lady's jewels
+* Arrest the thief Basler!
+* Discover the mystery at the heart of the forest
+* Learn swordplay from a suitable teacher
+* Navigate the cave in search of rumored treasure
+* Break the curse the witch placed on me
 
 ## Starting Archetypes
 
