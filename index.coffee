@@ -73,8 +73,8 @@ metalsmith(__dirname)
     pretty: true
   }))
   .use(markdownit({
-    html: true
-  }).use(require('markdown-it-toc')))
+      html: true
+    }).use(require('markdown-it-toc')).use(require('markdown-it-attrs')))
   .use(yaml({}))
   .use(inPlace({
     engine: 'handlebars'

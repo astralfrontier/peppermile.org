@@ -5,6 +5,8 @@ images:
     url: /assets/grand-adventure/castleonahill.svg
 ---
 
+<button class="toggle-directors-cut">Director's Cut</button>
+
 _Past the stone walls that divide your village from the fairy forest,
 there's a glow coming from that old cave..._
 
@@ -23,6 +25,10 @@ To chart a course into the unknown. To explore. To adventure.
 Grand Adventure is a roleplaying game,
 telling stories about **how adventurers work together to
 discover amazing new things, solve challenges, and explore a fantastic world**.
+
+Throughout this document, you'll find sections of text like this.
+These explain my motivations and thoughts about a particular rule.
+{.directors-cut}
 
 @[toc](Table of Contents)
 
@@ -52,6 +58,12 @@ or turn it into a stack of gold (unless it's really magical).
 Players have fictional license over their own characters,
 and over whatever parts of the game world the MC permits,
 but do not have license to narrate for other players' characters without their permission.
+
+Fictional license has some overlap with some peoples' definition of
+"player agency": how much you're allowed to say, and how much of it
+will be treated as "real" by the other players.
+Like "canon" in TV or movie franchises, this can sometimes be hard to pin down.
+{.directors-cut}
 
 ### How to be the MC
 
@@ -133,6 +145,12 @@ A rule of the game is that
 **players should honor the intent of their fellow players' words**.
 Here's some examples of this principle in action.
 
+If a player tells the MC that her character has a Word called "Befriend",
+that clearly signals the sort of actions she wants her PC to take.
+The MC shouldn't interpret that as "Intimidate" or "Provoke".
+Likewise, if the MC says that a creature is "forbidding" or "dangerous",
+only truly heroic action can justify using an action like "Befriend" to overcome that creature.
+
 If the MC tells you that your character steps into a "mysterious temple",
 what do you imagine?
 Perhaps soft lighting coming through a stained glass window,
@@ -151,11 +169,14 @@ Jagged runes spell out dark portents.
 The PCs should not feel as comfortable in such a place,
 because the MC is signaling danger and menace.
 
-If a player tells the MC that her character has a Word called "Befriend",
-that clearly signals the sort of actions she wants her PC to take.
-The MC shouldn't interpret that as "Intimidate" or "Provoke".
-Likewise, if the MC says that a creature is "forbidding" or "dangerous",
-only truly heroic action can justify using an action like "Befriend" to overcome that creature.
+Honoring words is central to the rest of the game, from archetypes
+to advancement. "I get to say a certain type of thing happens"
+is pretty powerful, if the MC is interpreting your success in light
+of the words you use.
+If you say "I befriend the creature" and the dice agree,
+but the MC says "oh well, it doesn't happen",
+that can feel pretty crappy.
+{.directors-cut}
 
 ## Quick Character Creation
 
@@ -239,6 +260,13 @@ If you lend someone a Pool you have as well, you don't lose it.
 Add one die to the Pool's maximum size, permanently, and Recharge the Pool.
 You cannot Level Up a Pool that's been lent to you.
 
+Pools are intentionally limited to five dice.
+This supports a larger design goal, which is to get players
+to use different tactical approaches within a challenge.
+Pools can function a little like aspects with free invokes from Fate,
+in that you can use them to enhance your chances of success.
+{.directors-cut}
+
 **Pools can have optional rules**.
 For example, the Resolve Pool will Recharge whenever you reach a new Discovery,
 while the Stealth Pool might Recharge only when you are sneaking around.
@@ -254,6 +282,13 @@ A Word is a verb, noun, adjective, or phrase with special significance in the ga
 Words tell your group about the actions you are performing,
 and optionally give you special rules for performing those actions.
 
+Words are intended to take the basic power of PbtA moves -
+characterizing a PC by describing what they can do -
+at a much finer resolution.
+Instead of a move that comes prebaked and complete, you can synthesize
+new moves by assembling Words.
+{.directors-cut}
+
 A Word can contain multiple English words.
 "Giant Lizard" is a Word in the game-mechanical sense.
 
@@ -263,6 +298,13 @@ even if they use the same rules.
 "Defeat" is not the same as "Kill", or "Assassinate".
 Listen to what the Word tells you, and honor what it means.
 Words can come with a description that explain their meaning more clearly.
+
+Words doing what they say should be the whole driving force
+behind taking new words during advancement.
+If you "Confront" a monster, the MC has a lot of leeway to interpret that.
+But if you "Befriend" one, that's giving you a lot more authority over the world.
+You earn that authority through advancement.
+{.directors-cut}
 
 **Words can have optional rules**.
 For example, a Word might say "The Stealth Pool may be used"
@@ -325,6 +367,11 @@ you should Level Up the Word or Pool instead of taking it a second time.
 For example, a Fighter with the "Attack" Word who becomes a Knight
 will Level Up his Attack, rather than gaining it a second time.
 
+Archetypes are the bridge between traditional race/class/job
+mechanics and the more freeform story-game style thing
+where you just write a description of you who are.
+{.directors-cut}
+
 ## Challenges
 
 A Challenge is anything in the fiction that confronts the characters
@@ -350,10 +397,22 @@ and the Challenge doesn't necessarily end if the Dragon itself dies.
 Similarly, the Challenge might be resolved by successfully hiding from
 or sneaking past the Dragon, rather than fighting or killing it.
 
+This is especially important if you have a PC who can disable,
+kill, or banish a given opponent. The challenge isn't short-circuited
+if that happens early. Rather, the problem should be reframed.
+{.directors-cut}
+
 **Challenges have a difficulty rating**.
 Typical difficulty ratings are between 1 (the simplest monsters, like Slimes,
 that novice adventurers can beat)
-and 20 (giant or powerful monsters such as dragons, kraken, and the like).
+and 20 (giant or powerful monsters such as ancient dragons, kraken, and the like).
+
+PbtA games don't have a difficulty scale as such,
+you just have to do more rolls to accomplish harder tasks.
+Understanding this balance seems to be difficult for some
+novice PbtA MCs. In this game, both difficulty and time scale
+for a challenge are spelled out in advance.
+{.directors-cut}
 
 **Challenges have an endurance**.
 This is measured in squares (&#x25A1;), usually two or more.
@@ -372,7 +431,7 @@ It might have one or more squares representing the following stages:
 4. The dragon flies faster and must be forced down.
 5. The dragon is desperate and fights with everything.
 
-Every successful Action against a Challenge depletes one of its squares.
+Every successful Action against a Challenge checks off one of its squares.
 When a Challenge has no squares left, it's resolved.
 Characters can pay the activation cost for a Challenge multiple times,
 depleting one extra squares, as part of the same action.
@@ -381,7 +440,7 @@ For example, Tana is fighting Slimes.
 They're easy to beat (difficulty 2) but have 5 squares.
 Tana rolls 3 dice, getting 2, 3, and 5.
 She assigns all these dice to the Slime Word,
-and depletes 3 of the Challenge's squares.
+and checks off 3 of the Challenge's squares.
 
 Each squares of endurance might have a different difficulty rating.
 For example, a situation that gets progressively more difficult might have
@@ -418,6 +477,13 @@ The MC can rule that character actions or Twists can bring features into or out 
 For example, the Elven Archer might declare "I'm shooting at the dragon's wings
 to try and ground it",
 allowing the Swordfighter to renew her attack once the Dragon crashes to the ground.
+
+Features are how you plug narrative logic into the mechanics.
+If some roll would logically be harder for one PC than another,
+then a feature is the appropriate way to model that.
+If you think a challenge should be easy if the PCs do everything right
+but hard otherwise, it should have a low difficulty and a lot of features.
+{.directors-cut}
 
 ## Actions
 
@@ -468,6 +534,16 @@ She could "Attack Ogre With Magic".
 She could also "Attack Angry Ogre", if "Angry" was a feature that the MC added.
 She could "Avoid" or "Outwit" the Ogre, by changing battle tactics.
 
+This will probably be the most contentious rule in actions.
+People like to do their best move over and over.
+But conflicts in fiction rarely seem to work that way.
+"We do this! Oh well, that didn't work, let's try this!"
+feels closer to how fiction works, and thus how the game should work.
+The no-repeat rule will hopefully drive players toward
+teamwork moves, new archetypes rather than endlessly leveling
+existing Words, and trying out different tactics.
+{.directors-cut}
+
 **You activate Words by rolling dice.**
 You can roll dice from one or more Pools.
 You can use a Pool if the Pool, or the Words you use, allow it.
@@ -483,6 +559,8 @@ She takes both Courage dice and rolls them, getting a 4 and a 6.
 She assigns the 4 to Attack and the 6 to Ogre.
 The Action is now paid for.
 
+You can choose to roll more dice at any time during the Action,
+if the dice you already rolled aren't enough.
 Once you roll dice, you cannot unroll them.
 
 **You must activate every Word for your Action to succeed.**
@@ -518,6 +596,8 @@ If you get dice back because some of the Words have star ratings,
 the total dice returned are divided up by the players as they see fit.
 No Word can be part of the same Action more than once -
 for example, two characters cannot both add "Confront" to the table at the same time.
+
+### Action Example
 
 For example, Tana and Basler cooperate to attack a dangerous Dire Sloth.
 The spunky swordswoman charges the beast with a loud war-cry,
@@ -570,6 +650,14 @@ Players can suggest a Twist to the MC, but the MC is not required to accept.
 The MC might offer a one-die Twist with a minor condition,
 as well as a four-dice Twist with a serious condition attached.
 Players can accept both Twists, neither, or just one.
+
+Twists are the "hero point" or "aspect" part of the game,
+in that they let you save your butt without spending one of
+your own personal resources.
+Twists shouldn't usually come with mechanical consequences,
+except perhaps enabling Features or increasing Challenge endurance.
+They're a mechanical reward for accepting a change of narrative direction.
+{.directors-cut}
 
 ### Example Twists
 
@@ -937,6 +1025,11 @@ but they lack direction and prefer quiet contemplation to action and change.
 Zelves are immortal, mysterious beings, graceful and slender,
 with an ethereal and peaceful nature.
 
+The Zelves are pretty clearly the elf counterpart in the game.
+Their job is to be grave and mysterious and live in the forests.
+That said, they have excellent reasons for being grave and mysterious.
+{.directors-cut}
+
 The **Gnomads**, like the Zelves, were engineered by the Cirrans.
 They were originally a slave-race, meant to maintain their masters' mechanistry.
 Without the empire to command them, they turned to an independent existence.
@@ -947,6 +1040,12 @@ They form small mobile communities, traveling both on roads and in secret
 underground tunnels known only to their own kind,
 trading their wares and skills for supplies and companionship.
 They are short and stout, but surprisingly nimble and fast.
+
+Gnomads are the Dwarf/Gnome archetype. They're tinkerers,
+but they're also good with people because I hate dour dwarves.
+I wanted the Dwarves of "the Hobbit", who pile into a dude's house
+and start messing with his whole program, then sing a song about it.
+{.directors-cut}
 
 #### Racial Archetypes
 
@@ -1059,6 +1158,12 @@ Use the Druid Archetype, replacing "Cleanse" with "Maul".
   You scream and leap, charging and clawing at a hapless and terrified target.
   **Pool**: Instinct.
 
+You can get a lot of mileage by rearranging Pool or Word choices
+from another Archetype.
+If a player wants to build on their existing investment in Pools,
+it's okay to adjust an Archetype to match what they want.
+{.directors-cut}
+
 **Druid**
 
 Guardians of the living world against the encroachment of civilization.
@@ -1161,10 +1266,19 @@ An armored warrior sworn to a code of honor. Uses a shield for offense and defen
   or blunt the effectiveness of an attack against you.
   **Pool**: Courage.
 * **For Honor** (1 &#9734;):
-  When you uphold your oath in some significant and meaningful way.
+  You fight to uphold your sworn vows.
+  **Special**: You must be upholding your oath in a significant and meaningful way.
 * **Courage** (&#9825;):
   Your strength of will and spirit, and determination in the face of danger.
   **Recharge**: face incredible odds without flinching, or relate a story of bravery and risk.
+
+The logic of the "For Honor" Word might not be immediately apparent.
+Why would I add a Word that makes me roll a die, and then gives me a die back?
+Because you can Level Up that Word, making it a net source of dice.
+You have to invest in the Knight to make that a viable strategy.
+This isn't intended to make the Knight more powerful than other archetypes,
+just to illustrate variations in mechanics.
+{.directors-cut}
 
 **Mage**
 
@@ -1198,6 +1312,12 @@ A combat specialist, wielding both melee weapons and sorcery in concert.
 * **Mana** (&#9825;):
   Your reserve of magical power.
   **Recharge**: meditate after an extended rest, or expose yourself to any significant source of mystic power.
+
+Magic Knight is one of those Archetypes that isn't meant to be taken
+straight away. It's better balanced if you take either Fighter or Mage first.
+That said, the ability to drop up to ten dice on a two-Word Action
+is pretty amazing.
+{.directors-cut}
 
 **Mechanism**
 
@@ -1245,12 +1365,20 @@ Often found as the secret police of an Eastern state.
   Your ability to hide in shadows, avoid detection, and go unnoticed.
   **Recharge**: make effort to disappear from sight and stay hidden.
 
+Like the Magic Knight, the Ninja is a second-tier Archetype
+that does a certain thing with two Pools.
+In this case, it needs an action Word from somewhere else,
+but you can use "With Ninja Magic" to drop two Pools' worth of dice
+onto that Action, whether it's combat, stealth, puzzle solving, or whatever.
+Pretty flexible.
+{.directors-cut}
+
 **Oracle**
 
 An adventurer-academic who uses the stars to tell fortunes and
 manipulate fate.
 
-* **Twist Fate** (4 &#9734;):
+* **Predict** (4 &#9734;):
   You reveal or warp the destiny of someone or something,
   causing a benefic or malefic outcome.
   **Pool**: Insight.
@@ -1279,6 +1407,10 @@ A heavily armored knight with holy magic.
   **Recharge**: Meditate after an extended rest,
   or be in the presence of an icon of your faith or a miracle of your patron.
 
+The Paladin is basically a Magic Knight with Holy power.
+You can create similar one-trick ponies based on other Pools and concepts.
+{.directors-cut}
+
 **Prince/Princess**
 
 A member of royalty who goes on adventures for their own reasons.
@@ -1298,6 +1430,13 @@ and you may exercise it when you are there.
   Your charisma, persuasiveness, and inspiration.
   **Recharge**: Befriend someone or tell a fascinating story, regardless of its truthfulness.
 
+The Princess is inspired by the Dungeon World playbook of the same name.
+It's here to show that you can run a totally non-combat character
+who is as mechanically effective as anyone else.
+If you need examples of the Princess in play, watch
+"Nausicaa of the Valley of the Wind" and watch how few times she actually pulls a trigger.
+{.directors-cut}
+
 **Ranger**
 
 A tracker, woodsman, and practical naturalist.
@@ -1316,6 +1455,13 @@ though many learn the bow or sword to take down dangerous prey.
   **Recharge**: Live simply in a natural state - sleeping under the stars,
   hunting your own food, etc. - to reconnect with the world.
 
+The Ranger is an example of an Archetype synthesis.
+For a fully effective bow-wielding, animal-friend-having honest to goodness
+RANGER from D&D, you can plug in this Ranger, plus Beastmaster and Fighter.
+That gives you someone with combat talent, one or more pets,
+plus traps and snares.
+{.directors-cut}
+
 **Scoundrel**
 
 A gambler, con artist, or traveling rogue.
@@ -1331,6 +1477,11 @@ When a smooth tongue won't work, deft hands fill in.
 * **Stealth** (&#9825;):
   Your ability to hide in shadows, avoid detection, and go unnoticed.
   **Recharge**: make effort to disappear from sight and stay hidden.
+
+This is the Lando Calrissian, Setzer Gabbianai type.
+There's a lot of ways to make this character fun in a fight,
+and they'll shine in a social conflict.
+{.directors-cut}
 
 **Shaman**
 
@@ -1401,6 +1552,10 @@ she will discover a grimoire (a book of magic spells), and learn to be a Mage.
 Later on, she will meet up with a Gnomic caravan,
 where she is equipped with a new sword and armor, and become a Magic Knight.
 
+The traditional RPG protagonist character is a young male off on adventure.
+This character gender-flipped that premise without any other changes being necessary.
+{.directors-cut}
+
 **Basler**
 
 A selfish rogue of no great moral character,
@@ -1454,6 +1609,11 @@ At the end of "Secret in the Forest", she will bring some animal companions
 with her, becoming a Beastmaster.
 Later, she'll acknowledge her royal heritage to become a Princess,
 embrace her life in the wild and become a Ranger, or perhaps both.
+
+Woody is the sort of character who exemplifies what the game is good at.
+Is she secretly a Princess? Is she actually a Ranger?
+The answer is that she is _both_, and _more_. She can be whatever she wants to be.
+{.directors-cut}
 
 ### Sample Challenges
 
