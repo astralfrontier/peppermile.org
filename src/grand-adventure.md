@@ -1,8 +1,8 @@
 ---
 title: Grand Adventure
 images:
-  - name: The Magic Grottoes 1870
-    url: /assets/grand-adventure/The-Magic-Grottoes-1870.svg
+  - name: Castle on a Hill
+    url: /assets/grand-adventure/castleonahill.svg
 ---
 
 _Past the stone walls that divide your village from the fairy forest,
@@ -1455,6 +1455,27 @@ The Thugs can be beaten by force, conned, or tricked.
 * Dirty Trick! (&#9825;&#9825;): You fall victim to one of the classic blunders - sand in the eye, etc.
 * "Now I'm mad!" (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the captain's endurance, as he no-sells a weak attack.
 * "Get in there!" (&#9825;&#9825;&#9825;&#9825;): add the Backup feature.
+
+**Escape the Prison!**
+
+The characters have been captured by the authorities and imprisoned!
+For whatever reason, a fair trial seems unlikely. Time to escape.
+
+**Endurance**:
+3 &#x25A1;&#x25A1;&#x25A1; (figuring out resources, unlocking cells),
+5 &#x25A1;&#x25A1; (dealing with guards),
+7 &#x25A1; (the big escape)
+
+**Features**:
+
+* Alarm (5): Somebody saw you and shouted, and now everyone is alerted.
+
+**Twists**:
+
+* All Things Go (&#9825;): You lose some useful piece of equipment in an escape attempt or struggle.
+* I Lied (&#9825;&#9825;): You came up with a stellar excuse for the guards to come into your cell and get ambushed. Good job!
+* Save Me (&#9825;&#9825;): Another prisoner is vital to your escape plan, but must be escorted out safely and will be a hindrance.
+* Pound the Alarm (&#9825;&#9825;&#9825;&#9825;): You raise a ruckus or a guard gets away to warn his companions. Add the Alarm feature.
 
 **Encounter with a Dragon!**
 
