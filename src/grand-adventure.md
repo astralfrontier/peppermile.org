@@ -580,43 +580,38 @@ The MC agrees this is an interesting development, and offers Twist dice.
 
 ## Advancement
 
-Characters become stronger by adventuring and exploring.
-When a player's Thread reaches its last milestone,
-they get to make a choice for their character:
+Characters grow and change as part of their experiences.
+When a character's Thread reaches its last milestone, you get to advance.
+Pick one of the following:
 
 * Gain a new Archetype
-* Gain a single new Word, or a Word and associated Pool
-* Trade one of your custom Words and/or Pools for another one
-* Level Up a Pool or Word
+* Gain a new Word and/or a new Pool of your own creation
+* Level Up two Words, two Pools, or a Word and a Pool
 
-Whatever the player chooses should flow logically out of the story they told,
-and what happened to their character during that story.
-For example, a Thread about a search for a missing book of magic
-might let the character learn to become a magician.
+You should pick a choice that reflects what happened to the character during their story.
+For example, you could choose the Mage archetype after deciphering a book of magic.
+You can choose any advancement option you wish.
 
-Players who want to create a new Archetype should discuss it with the group
-and make sure that it fits the tone of the game.
-Archetypes should be _archetypical_ - that is,
-you can imagine people other than your character being one,
-and the concept fits well with the tone of the world.
+The MC should present the group with a list of existing Archetypes.
+Players can propose new Archetypes.
+The MC has the final word on any new Archetypes.
+New Archetypes should support the tone of the game world.
 
-If you gain a new Archetype that has Words or Pools you already have,
-Level Up those Words or Pools instead of taking them a second time.
+If you take a new Archetype that has Words or Pools you already have, Level Up those Words or Pools.
+Don't take them a second time.
+For example, a character already has an "MP" Pool because they are a Mage. They choose to gain Illusionist, which also has an "MP" Pool. They would Level Up their MP Pool, rather than take it twice.
 
-A player might want a new Word, like a new ability ("Befriend"),
-a new item ("Crystal Sword"), or a new modifier ("Strategically")
-that doesn't really fit into an Archetype.
-In that case, it's appropriate to create something personal,
-rather than try to build an Archetype around it that might seem too weird or too specialized.
+If your idea doesn't feel like an Archetype, create a new unique Word or Pool.
+For example, you want a Word like "Crystal Sword" to represent a unique magic weapon.
+"Crystal Sword Wielder" doesn't sound like an Archetype.
+Instead, you take it as its own Word.
 
-For example, Sir Emory Hawthorne is trying to figure out his feelings
-for his adventuring companion Tana.
-His player creates a "For Tana" Word,
-and an "Admiration" Pool that Recharges whenever the young knight
-helps his friend achieve one of her goals.
-He can use the "For Tana" Word in actions that protect or help her,
-such as intercepting a goblin's cleaver or speaking in her defense at a trial.
-And who knows? Perhaps some day Tana might add a "For Emory" Word to her own list...
+For example, Sir Emory Hawthorne has unexplored feelings for his adventuring companion Tana.
+His player creates an "Admiration" Pool.
+He adds two special rules to it.
+it Recharges whenever the two do something that deepens or acknowledges their relationship.
+He can also spend dice from the Pool whenever Tana is at risk.
+Later, he intercepts a goblin's attack aimed at her and succeeds thanks to the extra dice.
 
 ## Discoveries
 
