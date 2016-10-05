@@ -1,5 +1,7 @@
 {
   "name": "peppermile.org",
+  "repository": "https://github.com/astralfrontier/peppermile.org.git",
+  "homepage": "http://peppermile.com/",
   "version": "1.0.0",
   "scripts": {
     "start": "node node_modules/coffee-script/bin/coffee index.coffee"
