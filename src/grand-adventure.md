@@ -953,6 +953,20 @@ For example, the MC might give the characters a "Health Potion" Pool.
 They can drink a potion, using dice from the pool when resisting damage
 or overcoming poison.
 
+### Limit Break
+
+Many traditional RPG video games have a "Limit Break" or "Overdrive"
+type mechanic, allowing characters to power up and defeat opponents.
+You can simulate such things with a new Pool.
+
+**Limit Break** (&#9825;):
+You surpass your mortal limits and shine with power.
+**Special**: This pool may be used for any action.
+You must take all dice from this Pool when using it.
+The MC may give dice to this pool at their discretion,
+such as when the character takes damage, faces a stressful
+situation, and so on.
+
 ## Sample World: Delspire
 
 This is a sample world for Grand Adventure.
@@ -1614,6 +1628,24 @@ Woody is the sort of character who exemplifies what the game is good at.
 Is she secretly a Princess? Is she actually a Ranger?
 The answer is that she is _both_, and _more_. She can be whatever she wants to be.
 {.directors-cut}
+
+### New Rules
+
+The following rules apply to games set in Delspire.
+
+#### Dragon Soul
+
+All characters begin the game with the following Pool.
+
+**Dragon Soul** (&#9825;&#9825;&#9825;&#9825;&#9825;):
+The primal power of the Dragon Gods stirs within you and wakens,
+unleashing tremendous magical might but acting on your instincts
+and whims rather than reasoned thought.
+**Special**:
+This Pool begins at zero dice.
+The MC may give dice to this Pool when you face a personal crisis.
+You may use this Pool for any action.
+If you take any dice from this Pool, you must take them all.
 
 ### Sample Challenges
 
