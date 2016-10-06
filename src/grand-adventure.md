@@ -585,11 +585,11 @@ When she rolls her two dice earlier, she can take one back.
 She places it back into her Courage Pool.
 She could have placed it into her Resolve Pool, if it wasn't full.
 
-**The MC can always offer you one or more Twists**.
-If you are unable or unwilling to pay dice from your Pools,
+**The MC can offer you one or more Twists**.
+If you are unable or unwilling to pay dice from your own Pools,
 you can accept dice from a Twist Pool created by the MC.
 
-Characters can cooperate as part of a single Action.
+**Characters can cooperate as part of a single Action.**
 If several characters cooperate, they can all add Words to the Action,
 and they can all contribute dice to activating those Words.
 If you get dice back because some of the Words have star ratings,
@@ -624,7 +624,7 @@ Thus, the Sloth would have lost one square, not two.
 
 ## Twists
 
-Twists are **a tool for the MC to create tension and maintain the tone of the game**.
+Twists are a tool for the MC to create tension and maintain the tone of the game.
 Twists can also be used to reward players for interesting or inventive tactics.
 
 **Twist is a temporary Pool created by the MC**.
@@ -1537,10 +1537,66 @@ A sneaky rogue who uses wits and blades to engage in larceny.
 
 ### Places
 
-* The Sleepy Village
-* The Local Prosperous Kingdom
-* The Old Ruin
-* The Bustling City
+**The Sleepy Village**
+
+The place where Tana starts her adventures.
+A cluster of huts, with conical white roofs.
+Thin streams of smoke coil upwards from numerous chimneys.
+The emerald green of a vibrantly alive forest rises all around.
+Mountains rise in the distance.
+There is a path that meanders between the buildings,
+leading to the one and only road out of town.
+
+**The Old Ruin**
+
+In a clearing in the forest, pale marble walls rise from the soil.
+They form irregular and intricate shapes.
+There is an oppressive largeness to everything.
+Doors and archways fit frames much too big for humans.
+
+The ruin should evoke _fear_.
+The characters are here to discover something:
+what treasure or hidden secrets lie inside?
+
+Everything about the ruins is monochrome, in contrast to the growing greenery outside.
+Plant life has sundered the floor tiles and attempts to grow through the cracks,
+but there is a dividing line deep inside the ruins where the growth
+abruptly ends.
+Black shadows loom across the walls.
+Here and there, red splashes can be found on the walls.
+Is it the remnant of paint? Or is it blood?
+
+**The Bustling City**
+
+At the end of the road, and the beginning of many others,
+the city stands with open arms, greeting travelers.
+The goods of a thousand caravans are on offer in the bazaars.
+The hands of merchants, officials, and thieves wait to luck coin purses
+from the pockets of the unwary.
+
+The city should evoke _surprise_.
+Everything is new here for novice characters.
+The characters are here to find something:
+the answers to a mystery, a lost or stolen item,
+the fate of a friend or family member.
+The newness of the city and the strange ways of city folk are the obstacles in their search.
+
+The city walls are brown stone.
+Red banners of bravery fly over mercenary halls and proclaim the presence of the Crown's forces.
+Yellow and violet paint marks the signs of inns, taverns, and eateries.
+The roads are a pale, almost creamy colored cobblestone.
+Water fountains spray their pure blue water into the air.
+The voices of buyers and sellers ring out from morning to dusk.
+During the evening, the buildings are dark, with slivers
+of flickering orange light emanating from the window shutters.
+The people move from outside to inside when day becomes night,
+to conclude their business and engage in revelry.
+
+Buildings are roofed with sharply slanted inclines,
+a contrast to the sleepy village's gently rounded shapes.
+Everything is angles here, like the sharp turns of a street corner.
+A trio of cutthroats waits near you in the alley, watching and whispering.
+
 * The Highroad
 * The Mysterious Forest
 * The Ancient Cave Tunnels
@@ -1672,13 +1728,13 @@ can harass innocent bystanders, waylay travelers, and so on.
 The Thugs can be beaten by force, conned, or tricked.
 
 **Endurance**:
-3 &#x25A1;&#x25A1;&#x25A1; (handful of thugs causing trouble),
-5 &#x25A1;&#x25A1;&#x25A1; (rest of the gang shows up),
-6 &#x25A1;&#x25A1;&#x25A1;&#x25A1; (captain of the gang appears)
+2 &#x25A1;&#x25A1; (handful of thugs causing trouble),
+4 &#x25A1;&#x25A1; (rest of the gang shows up),
+6 &#x25A1;&#x25A1;&#x25A1; (captain of the gang appears)
 
 **Features**:
 
-* Backup (5): More members of the gang appear.
+* Backup (3): More members of the gang appear.
 * Hostage (5): The gang took hostages. You must save them.
 
 **Twists**:
