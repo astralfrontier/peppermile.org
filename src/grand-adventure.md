@@ -967,7 +967,7 @@ The MC may give dice to this pool at their discretion,
 such as when the character takes damage, faces a stressful
 situation, and so on.
 
-## Sample World: Delspire
+## Sample World: Talispire
 
 This is a sample world for Grand Adventure.
 You can use it in your own games,
@@ -976,7 +976,7 @@ or create an entirely different world.
 
 ### History
 
-Long ago, Delspire was dominated by the **Cirrus Empire**.
+Long ago, Talispire was dominated by the **Cirrus Empire**.
 From their floating city of **Zebulon**, they ruled the primitive surface-dwelling tribes.
 Their science, called **mechanistry**, fused technology and magical power.
 
@@ -991,7 +991,7 @@ or other worthy heirs.
 Most of the provinces were run strictly, with harsh rules.
 They were overthrown by angry mobs and their castles were destroyed.
 
-Today, Delspire is a lushly alive and vital world.
+Today, Talispire is a lushly alive and vital world.
 Green forests and crop fields surround the sleepy hamlets and bustling towns of mankind.
 Rocky "skylands" levitate over rolling hills and fertile valleys.
 The castles and laboratories of the old Cirrans sometimes still stand,
@@ -1013,7 +1013,7 @@ held back through force of will, acts of courage, and defiance.
 The heroes of story and song who resisted dragons are revered as "saints".
 
 Some dragons are massive beyond comprehension.
-The whole world of Delspire is sometimes said to be
+The whole world of Talispire is sometimes said to be
 a coiled-up dragon within an egg, waiting to hatch.
 Other dragons are nimble monsters, lurking in caves and forests,
 flying like shadows over sleeping cities,
@@ -1021,12 +1021,12 @@ sometimes taking hapless travelers or whole caravans by surprise.
 Dragons are spirits, but form bodies out of the elements: wood,
 ice, soil, even volcanic magma.
 
-The Holy Church of Delspire recognizes hundreds of saints,
+The Holy Church of Talispire recognizes hundreds of saints,
 and catalogs and studies the dragon spirits.
 
 ### Races
 
-Two other races share Delspire with humanity.
+Two other races share Talispire with humanity.
 
 The **Zelves** were created by the Cirrus Empire
 to be temporary hosts for their souls, and living repositories of memory.
@@ -1687,13 +1687,13 @@ The answer is that she is _both_, and _more_. She can be whatever she wants to b
 
 ### New Rules
 
-The following rules apply to games set in Delspire.
+The following rules apply to games set in Talispire.
 
-#### Dragon Soul
+#### Dragon Blood
 
 All characters begin the game with the following Pool.
 
-**Dragon Soul** (&#9825;&#9825;&#9825;&#9825;&#9825;):
+**Dragon Blood** (&#9825;&#9825;&#9825;&#9825;&#9825;):
 The primal power of the Dragon Gods stirs within you and wakens,
 unleashing tremendous magical might but acting on your instincts
 and whims rather than reasoned thought.
