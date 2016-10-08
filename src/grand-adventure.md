@@ -1061,45 +1061,23 @@ I wanted the Dwarves of "the Hobbit", who pile into a dude's house
 and start messing with his whole program, then sing a song about it.
 {.directors-cut}
 
-#### Racial Archetypes
+### New Rules
 
-**Zelf**
+The following rules apply to games set in Talispire.
 
-You are a Zelf, an immortal and mysterious being.
-You dive into the ocean of your own memories to bring back treasure,
-sharing it for the benefit of all.
+#### Dragon Blood
 
-* **Decipher** (4 &#9734;):
-  You puzzle out the meaning of something hidden, obscure, or jumbled.
-  You can understand dead languages, mystic ciphers, and many other things.
-  **Pool**: Memory
-* **With Memories** (1):
-  Your ancient lore can tell you something useful when you take other actions.
-  **Pool**: Memory
-* **Memory** (&#9825;):
-  Your recollection of ages past, and the secrets you've learned since.
-  **Special**: Recharge when you tell a tale of ancient times.
+All characters begin the game with the following Pool.
 
-**Gnomad**
-
-You are a Gnomad, a wandering wizard of technology and creativity.
-You use your intuitive knack for changing things to improve the world,
-one gadget or person at a time.
-
-* **Meddle** (4 &#9734;):
-  You can mess with something - whether devices or people - to get it working
-  better, or occasionally worse.
-  Your methods are intuitive but risky,
-  and often depend on bumming things or information off the people around you.
-  **Pool**: Kin
-* **With Kin** (1):
-  Gnomads make many friends, and have large extended families of their own.
-  You can call on them directly for help,
-  or simply use what you've learned from them.
-* **Kin** (&#9825;):
-  Your extended social circle of friends and family.
-  **Special**: Recharge when you make a new friend on the road,
-  or catch up with an existing one.
+**Dragon Blood** (&#9825;&#9825;&#9825;&#9825;&#9825;):
+The primal power of the Dragon Gods stirs within you and wakens,
+unleashing tremendous magical might but acting on your instincts
+and whims rather than reasoned thought.
+**Special**:
+This Pool begins at zero dice.
+The MC may give dice to this Pool when you face a personal crisis.
+You may use this Pool for any action.
+If you take any dice from this Pool, you must take them all.
 
 ### New Archetypes
 
@@ -1535,72 +1513,44 @@ A sneaky rogue who uses wits and blades to engage in larceny.
   Your ability to hide in shadows, avoid detection, and go unnoticed.
   **Recharge**: make effort to disappear from sight and stay hidden.
 
-### Places
+#### Racial Archetypes
 
-**The Sleepy Village**
+**Zelf**
 
-The place where Tana starts her adventures.
-A cluster of huts, with conical white roofs.
-Thin streams of smoke coil upwards from numerous chimneys.
-The emerald green of a vibrantly alive forest rises all around.
-Mountains rise in the distance.
-There is a path that meanders between the buildings,
-leading to the one and only road out of town.
+You are a Zelf, an immortal and mysterious being.
+You dive into the ocean of your own memories to bring back treasure,
+sharing it for the benefit of all.
 
-**The Old Ruin**
+* **Decipher** (4 &#9734;):
+  You puzzle out the meaning of something hidden, obscure, or jumbled.
+  You can understand dead languages, mystic ciphers, and many other things.
+* **With Memories** (1):
+  Your ancient lore can tell you something useful when you take other actions.
+  **Pool**: Memory
+* **Memory** (&#9825;):
+  Your recollection of ages past, and the secrets you've learned since.
+  **Special**: Recharge when you tell a tale of ancient times.
 
-In a clearing in the forest, pale marble walls rise from the soil.
-They form irregular and intricate shapes.
-There is an oppressive largeness to everything.
-Doors and archways fit frames much too big for humans.
+**Gnomad**
 
-The ruin should evoke _fear_.
-The characters are here to discover something:
-what treasure or hidden secrets lie inside?
+You are a Gnomad, a wandering wizard of technology and creativity.
+You use your intuitive knack for changing things to improve the world,
+one gadget or person at a time.
 
-Everything about the ruins is monochrome, in contrast to the growing greenery outside.
-Plant life has sundered the floor tiles and attempts to grow through the cracks,
-but there is a dividing line deep inside the ruins where the growth
-abruptly ends.
-Black shadows loom across the walls.
-Here and there, red splashes can be found on the walls.
-Is it the remnant of paint? Or is it blood?
-
-**The Bustling City**
-
-At the end of the road, and the beginning of many others,
-the city stands with open arms, greeting travelers.
-The goods of a thousand caravans are on offer in the bazaars.
-The hands of merchants, officials, and thieves wait to luck coin purses
-from the pockets of the unwary.
-
-The city should evoke _surprise_.
-Everything is new here for novice characters.
-The characters are here to find something:
-the answers to a mystery, a lost or stolen item,
-the fate of a friend or family member.
-The newness of the city and the strange ways of city folk are the obstacles in their search.
-
-The city walls are brown stone.
-Red banners of bravery fly over mercenary halls and proclaim the presence of the Crown's forces.
-Yellow and violet paint marks the signs of inns, taverns, and eateries.
-The roads are a pale, almost creamy colored cobblestone.
-Water fountains spray their pure blue water into the air.
-The voices of buyers and sellers ring out from morning to dusk.
-During the evening, the buildings are dark, with slivers
-of flickering orange light emanating from the window shutters.
-The people move from outside to inside when day becomes night,
-to conclude their business and engage in revelry.
-
-Buildings are roofed with sharply slanted inclines,
-a contrast to the sleepy village's gently rounded shapes.
-Everything is angles here, like the sharp turns of a street corner.
-A trio of cutthroats waits near you in the alley, watching and whispering.
-
-* The Highroad
-* The Mysterious Forest
-* The Ancient Cave Tunnels
-* The Primordial Valley
+* **Meddle** (4 &#9734;):
+  You can mess with something - whether devices or people - to get it working
+  better, or occasionally worse.
+  Your methods are intuitive but risky.
+  They involve showing off, improvising with help from friends nearby, and so on.
+  **Pool**: Kin
+* **With Kin** (1):
+  Gnomads make many friends, and have large extended families of their own.
+  You can call on them directly for help,
+  or simply use what you've learned from them.
+* **Kin** (&#9825;):
+  Your extended social circle of friends and family.
+  **Special**: Recharge when you make a new friend on the road,
+  or catch up with an existing one.
 
 ### Sample Characters
 
@@ -1685,41 +1635,108 @@ Is she secretly a Princess? Is she actually a Ranger?
 The answer is that she is _both_, and _more_. She can be whatever she wants to be.
 {.directors-cut}
 
-### New Rules
+### Places
 
-The following rules apply to games set in Talispire.
+#### The Sleepy Village
 
-#### Dragon Blood
-
-All characters begin the game with the following Pool.
-
-**Dragon Blood** (&#9825;&#9825;&#9825;&#9825;&#9825;):
-The primal power of the Dragon Gods stirs within you and wakens,
-unleashing tremendous magical might but acting on your instincts
-and whims rather than reasoned thought.
-**Special**:
-This Pool begins at zero dice.
-The MC may give dice to this Pool when you face a personal crisis.
-You may use this Pool for any action.
-If you take any dice from this Pool, you must take them all.
-
-### Sample Challenges
+A good starting place for any adventurer worth the name.
+A cluster of huts, with conical white roofs.
+Thin streams of smoke coil upwards from numerous chimneys.
+The emerald green of a vibrantly alive forest rises all around.
+Mountains rise in the distance.
+There is a path that meanders between the buildings,
+leading to the one and only road out of town.
 
 **Slime Attack!**
 
 Slimes are mobile blobs of protoplasm, animated by magic or
-ancient Cirran mechanistry. They are a recurring nuisance for many
-villages, and are one of the first "monsters" any adventurer will face.
+ancient Cirran mechanistry. They are a recurring nuisance for many villages,
+and are one of the first "monsters" any adventurer will face.
 
-**Endurance**:
+_Endurance_:
 1 &#x25A1; (first wave),
 2 &#x25A1; (more slimes appear),
 3 &#x25A1; (lots of slimes!)
 
-**Twists**:
+_Twists_:
 
 * "It slimed me!" (&#9825;): You're covered in goop and must scramble to escape, possibly losing something small or valuable as you do.
 * Stuck weapon! (&#9825;&#9825;): Lose your weapon. You must work to get it back somehow.
+
+#### The Old Ruin
+
+In a clearing in the forest, pale marble walls rise from the soil.
+They form irregular and intricate shapes.
+Once upon a time, this was a church, temple,
+or other gathering place for celebrants.
+Everything is overgrown with vines and grass.
+Little streams of water pour through cracks in the walls and form pools.
+
+The ruin should evoke _sorrow_.
+Some grand and beautiful civilization built their temple here,
+and now they are gone, leaving only this shadow of grandeur behind.
+The characters are here to discover something:
+what treasure or hidden secrets lie inside?
+
+The walls used to be painted in bright pigments,
+but most of those have been scrubbed or scratched away.
+The musical notes for ancient songs are scribed into stone tablets.
+
+The temple has many underground levels.
+Some passageways will be caved in, while others are closed off by thick doors.
+There is a strange magic which will act on visitors,
+driving them away to keep the temple as a silent monument to antiquity.
+
+**Mysterious Magic**
+
+Strange spells still hang over the ruin,
+subtly guarding it from intrusion and damage.
+They will welcome the truly penitent, but who alive today
+remembers the ancient rituals to demonstrate their piety?
+The spells begin subtly, affecting the mind and sense of direction.
+At higher levels, the arrangement of the ruins will begin to adjust itself.
+Guardian golems will animate from among the statues
+if someone penetrates to the deepest recesses.
+
+_Endurance_:
+1 &#x25A1; (misdirections and glamours),
+3 &#x25A1;&#x25A1; (shifting walls, vanishing landmarks),
+5 &#x25A1;&#x25A1;&#x25A1; (guardian golems)
+
+_Twists_:
+
+* Holy Prayer (&#9825;&#9825;&#9825;): You deciphered the music of the temple's upper levels and sang the songs earnestly. Your piety will be rewarded.
+
+#### The Bustling City
+
+At the end of the road, and the beginning of many others,
+the city stands with open arms, greeting travelers.
+The goods of a thousand caravans are on offer in the bazaars.
+The hands of merchants, officials, and thieves wait to luck coin purses
+from the pockets of the unwary.
+
+The city should evoke _surprise_.
+Everything is new to visiting country characters.
+The party is here to find something:
+the answers to a mystery, a lost or stolen item,
+the fate of a friend or family member.
+The newness of the city and the strange ways of city folk are the obstacles in their search.
+
+The city walls are brown stone.
+Red banners of bravery fly over mercenary halls and proclaim the presence of the Crown's forces.
+Yellow and violet paint marks the signs of inns, taverns, and eateries.
+The roads are a pale, almost creamy colored cobblestone.
+Water fountains spray their pure blue water into the air.
+The voices of buyers and sellers ring out from morning to dusk.
+During the evening, the buildings are dark, with slivers
+of flickering orange light emanating from the window shutters.
+The people move from outside to inside when day becomes night,
+to conclude their business and engage in revelry.
+
+Buildings are roofed with sharply slanted inclines,
+a contrast to the sleepy village's gently rounded shapes.
+Everything is angles here, like the sharp turns of a street corner.
+A trio of cutthroats waits near you in the alley, watching and whispering.
 
 **Confrontation with Thugs!**
 
@@ -1727,67 +1744,86 @@ Bandits, muggers, hired soldiers, or mercenaries
 can harass innocent bystanders, waylay travelers, and so on.
 The Thugs can be beaten by force, conned, or tricked.
 
-**Endurance**:
+_Endurance_:
 2 &#x25A1;&#x25A1; (handful of thugs causing trouble),
 4 &#x25A1;&#x25A1; (rest of the gang shows up),
 6 &#x25A1;&#x25A1;&#x25A1; (captain of the gang appears)
 
-**Features**:
+_Features_:
 
 * Backup (3): More members of the gang appear.
 * Hostage (5): The gang took hostages. You must save them.
 
-**Twists**:
+_Twists_:
 
 * Unnecessary Roughness (&#9825;): You take some minor injury and must deal with it for the rest of the fight.
 * Dirty Trick! (&#9825;&#9825;): You fall victim to one of the classic blunders - sand in the eye, etc.
-* "Now I'm mad!" (&#9825;&#9825;&#9825;): Add 2 &#x25A1;&#x25A1; to the captain's endurance, as he no-sells a weak attack.
-* "Get in there!" (&#9825;&#9825;&#9825;&#9825;): add the Backup feature.
+* "Now I'm mad!" (&#9825;&#9825;&#9825;): The captain no-sells one of your attacks and gets angrier. Add a square of endurance.
+* "Get in there!" (&#9825;&#9825;&#9825;&#9825;): the gang scrambles to obey. Add the Backup feature.
 
 **Escape the Prison!**
 
 The characters have been captured by the authorities and imprisoned!
 For whatever reason, a fair trial seems unlikely. Time to escape.
 
-**Endurance**:
+_Endurance_:
 3 &#x25A1;&#x25A1;&#x25A1; (figuring out resources, unlocking cells),
 5 &#x25A1;&#x25A1; (dealing with guards),
 7 &#x25A1; (the big escape)
 
-**Features**:
+_Features_:
 
 * Alarm (5): Somebody saw you and shouted, and now everyone is alerted.
 
-**Twists**:
+_Twists_:
 
 * All Things Go (&#9825;): You lose some useful piece of equipment in an escape attempt or struggle.
 * I Lied (&#9825;&#9825;): You came up with a stellar excuse for the guards to come into your cell and get ambushed. Good job!
 * Save Me (&#9825;&#9825;): Another prisoner is vital to your escape plan, but must be escorted out safely and will be a hindrance.
 * Pound the Alarm (&#9825;&#9825;&#9825;&#9825;): You raise a ruckus or a guard gets away to warn his companions. Add the Alarm feature.
 
-**Encounter with a Dragon!**
+#### The Mysterious Forest
 
-The characters encounter a Dragon somewhere deep and mysterious:
-the heart of a forest, the final room of a cave system,
-an aerie high atop a misty mountain.
-The Dragon can be fought, bargained with, or avoided, but never
-truly killed.
+The forest fills the valleys and creeps up the mountains.
+It is ancient, with tiny hamlets occupied by taciturn woodsmen only on the edges.
+Only animals live in the forest itself,
+and precious few of them live in the deeper stretches.
+
+The forest should evoke _fear_.
+An unseen presence hides in the depths, stalking and hunting as it wills.
+Past a certain boundary, the characters should no longer hear the birds
+singing, or the shuffling of animals.
+All that's left is the wind on the tree leaves.
+Curiously, it has a regular rhythm, less like wind and more like breath.
+
+The forest is useful for the many rare specimens growing there.
+Herbalists will find hard-to-find species with peculiar properties.
+It connects two places that are otherwise separated by some greater
+danger, such as an invading army, a major bridge washed away, or whatever.
+Alternately, the people of the forest may wish for the PCs
+to seek out the mystery at its heart.
+
+**The Vine Dragon!**
+
+A Dragon lurks at the center of the forest.
+Its body is made of roots and vines and leaves.
+Its eyes are the dewdrops of morning.
+It can create a lithe serpentine shape to attack its victims,
+or disappear into an explosion of leaves to become one with the forest again.
 
 **Endurance**:
-10 &#x25A1;&#x25A1; (encounter with the dragon on the ground),
-10 &#x25A1;&#x25A1; (the dragon takes to the air, gaining the Flying feature),
-15 &#x25A1;&#x25A1; (the dragon begins strafing the PCs),
-20 &#x25A1;&#x25A1; (the dragon lands and begins fighting all-out)
+1 &#x25A1;&#x25A1; (encounter with the dragon on the ground),
+3 &#x25A1;&#x25A1; (the dragon vanishes into the forest, gaining the Diffuse feature),
+6 &#x25A1;&#x25A1; (the dragon animates vines to attack the PCs),
+10 &#x25A1;&#x25A1; (the dragon reforms and begins fighting all-out)
 
 **Features**:
 
-* Flying (10). The dragon takes to the air, avoiding melee attacks and ground-bound attackers.
-* Scales (5). Hard scaly armor makes weapons bounce off. Only strong magic can get through.
+* Diffuse (10). The vine dragon has collapsed into its component parts and stalks the group. It cannot be attacked with conventional weapons.
+* Bark Armor (5). Cutting weapons can break through, and fire will burn, but piercing or impact weapons will be ineffective.
 
 **Twists**:
 
 * Claws! (&#9825;): You are hit and begin to bleed.
 * Tail Swipe! (&#9825;&#9825;): You are knocked to your feet and must scramble out of the way of further attacks.
-* Breath Weapon! (&#9825;&#9825;&#9825;): Something important, or just the whole area, is caught in the blast.
 * Thousand Limbs! (&#9825;&#9825;&#9825;): The dragon uses its environment as an extension of its body - vine tendrils, earthy shackles, etc.
-* Chink in the Armor! (&#9825;&#9825;&#9825;&#9825;&#9825;): If you somehow manage to find and target it, the dragon will take considerable damage.
