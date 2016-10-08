@@ -5,7 +5,7 @@ images:
     url: /assets/grand-adventure/castleonahill.svg
 ---
 
-<button class="toggle-directors-cut">Director's Cut</button>
+<button class="toggle-directors-cut hidden-print">Director's Cut</button>
 
 _Past the stone walls that divide your village from the fairy forest,
 there's a glow coming from that old cave..._
