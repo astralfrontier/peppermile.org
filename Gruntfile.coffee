@@ -17,7 +17,7 @@ module.exports = (grunt) ->
         ]
 
     exec:
-      build: "node --harmony node_modules/coffee-script/bin/coffee index.coffee"
+      build: "node -r coffee-script/register index.coffee"
   )
 
   grunt.loadNpmTasks 'grunt-exec'
