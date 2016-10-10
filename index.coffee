@@ -18,7 +18,6 @@ pagination      = require 'metalsmith-pagination'
 path            = require 'metalsmith-path'
 pug             = require 'metalsmith-pug'
 serve           = require 'metalsmith-serve'
-tags            = require 'metalsmith-tags'
 typography      = require 'metalsmith-typography'
 yaml            = require 'metalsmith-yaml'
 
@@ -87,15 +86,6 @@ metalsmith(__dirname)
   .use(path())
   .use(more({
     alwaysAddKey: true
-  }))
-  .use(tags({
-    handle: 'tagged'
-    sortBy: 'date'
-    reverse: true
-    layout: 'tag.jade'
-    path: 'tag/:tag.html'
-    pathPage: 'tag/:tag-:num.html'
-    perPage: 12
   }))
   .use(layouts({
     engine: 'jade'
