@@ -1,11 +1,10 @@
 module.exports = (grunt) ->
   grunt.initConfig(
-    aws: grunt.file.readJSON('aws-keys.json')
     pkg: grunt.file.readJSON("package.json")
     aws_s3:
       options:
-        accessKeyId: '<%= aws.AWSAccessKeyId %>'
-        secretAccessKey: '<%= aws.AWSSecretKey %>'
+        accessKeyId: '<%= process.env.AWS_ACCESS_KEY %>'
+        secretAccessKey: '<%= process.env.AWS_SECRET_KEY %>'
         region: 'us-east-1'
         uploadConcurrency: 5
         downloadConcurrency: 5

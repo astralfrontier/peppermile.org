@@ -4,13 +4,16 @@
   "homepage": "http://peppermile.com/",
   "version": "1.0.0",
   "scripts": {
-    "start": "node -r coffee-script/register index.coffee"
+    "start": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\"",
+    "test": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\"",
+    "deploy": "node -r dotenv/config -e \"require('grunt').tasks(['deploy']);\""
   },
   "dependencies": {
     "bower": "^1.7.9",
     "bower-files": "^3.14.1",
     "cheerio": "^0.22.0",
     "coffee-script": "^1.11.1",
+    "dotenv": "^2.0.0",
     "grunt": "^1.0.1",
     "grunt-aws-s3": "^0.14.5",
     "grunt-exec": "^1.0.1",
