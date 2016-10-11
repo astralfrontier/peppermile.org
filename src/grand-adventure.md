@@ -625,31 +625,53 @@ Thus, the Sloth would have lost one square, not two.
 ## Twists
 
 Twists are a tool for the MC to create tension and maintain the tone of the game.
-Twists can also be used to reward players for interesting or inventive tactics.
+For example, Tana is fighting a dragon! The MC says,
+"the beast takes to the air as you come into melee range.
+If you want to keep attacking, you can grab hold,
+but the dragon will carry you off. Do you?"
 
-**Twist is a temporary Pool created by the MC**.
-It will have between 1 and 5 dice.
+Don't make a Twist an interruption or distraction from the action.
+Twists should be an interesting new direction for action to take.
+Every Twist should offer a way forward for the story.
 
-**Twists come with a condition**.
-If a player takes Twist dice as part of their action, the condition comes to pass.
-The more dice in the Pool, the more serious or dramatic the condition should be.
-Twists can represent critical hits, enemy reinforcements,
-complications to an existing challenge, or many other things.
-A Twist can change which features of a Challenge are active.
+Twists represent things like:
 
-**Twist conditions don't have to be negative**.
-The condition can also be the player agreeing to do something exciting
-or interesting as part of their action,
-and the Twist's dice are a reward for making the game more fun as a result.
+* "Critical hits" or exploiting vulnerabilities
+* Ally or enemy reinforcements, or heroic second winds
+* Accidents, sabotage, or feints against an opponent
+* Serious injury or lasting physical or mental complications
+* Changes to the environment, such as crumbling floors, rock slides, or fire
+* anything else that complicates the situation in an interesting way!
 
-**Twists are optional**.
-Players are never forced to accept a Twist.
+The MC can offer a Twist for many reasons.
+They can be "success at a cost" for a character's actions.
+They can reward clever tactics, preparation, or good roleplaying.
+For example, Basler is trying to help his friends escape,
+but he's spotted sneaking up on them.
+In desperation, he says "I throw my two knives at the ropes keeping them tied,
+leaving me unarmed."
+The MC agrees this is an interesting development, and offers Twist dice.
+Twist dice are a reward for making the game more fun or challenging.
+
+A Twist is a temporary Pool created by the MC.
+It comes with a condition attached.
+Minor changes in the status quo are worth one die in the Pool.
+Add more dice for a more serious or interesting change, up to five dice.
+The MC should describe the condition, but in a way that leaves the player an out.
+The MC can then ask, "does this affect you?" or "what comes next?".
+If the player accepts the full consequences of the Twist,
+they can spend dice from the Pool.
+
+Players don't have to spend all the dice from a Twist Pool.
+If the Twist becomes no longer relevant, the Pool leaves play.
+For example, if Tana escapes the dragon's grasp,
+she loses any dice left in that Twist's Pool.
+Narrative outcomes of a Twist, like physical harm,
+last as long as the MC says.
+
+A player does not have to accept a Twist.
 Players can suggest a Twist to the MC, but the MC is not required to accept.
-
-**Multiple Twists can be in play**.
-The MC might offer a one-die Twist with a minor condition,
-as well as a four-dice Twist with a serious condition attached.
-Players can accept both Twists, neither, or just one.
+The MC and the player may negotiate the details of a Twist.
 
 Twists are the "hero point" or "aspect" part of the game,
 in that they let you save your butt without spending one of
@@ -659,21 +681,76 @@ except perhaps enabling Features or increasing Challenge endurance.
 They're a mechanical reward for accepting a change of narrative direction.
 {.directors-cut}
 
-### Example Twists
+### Creating Twists
 
-Tana is fighting a dragon! The MC offers her a Twist:
-"the beast takes to the air as you come into melee range -
-but you can grab hold and be carried off".
-If Tana's player accepts the extra dice for her attack, that is what happens.
+You can pre-write generic Twists, perhaps on index cards,
+and draw one randomly as needed.
+If the Twist you draw doesn't work for the current situation,
+discard and draw another.
 
-Sir Emory is defending his friends from bandit arrows using his trusty shield.
-The MC offers a twist: "you take an arrow in the leg,
-hobbling your movement, but your friends are unharmed".
+Here's several generic Twists that you can use as starting points.
 
-Basler is trying to help his friends escape, but he's spotted sneaking up on them.
-In desperation, he says "I throw two knives at the ropes keeping them tied,
-leaving me unarmed."
-The MC agrees this is an interesting development, and offers Twist dice.
+* **You Fall!**
+  There's a cliff, a ledge, or somewhere to lose your balance.
+  Do you go all the way in?
+* **Lose Your Weapon! / Spell Backfire!**
+  Your special abilities blow up in your face.
+  How bad is the result?
+  How quickly can you recover?
+* **Pinned! / Trapped!** You're stuck by something, like a heavy rock,
+  a huge monster's claw, a cave-in, or something similar.
+  Is it going to be effort getting you loose?
+  Is there anything interesting where you are now?
+* **Strong Riposte!**
+  Your opponent comes back with a devastating counterattack,
+  whether physical or social.
+  Does it put you on the defensive?
+  Do you have a way to deal with it?
+* **No Sell!**
+  Your opponent is unfazed by what you just did.
+  Does it make them angrier/tougher?
+  Do you have to change tactics?
+* **My Big Mouth!**
+  You say the wrong thing at the wrong time.
+  Insulting the Orc's mother, or casually making a fool of the Duke,
+  is never a good idea.
+  What's the fallout from your action?
+* **Made It Worse!**
+  Your efforts only complicated the situation.
+  Now your lockpick is broken off in the lock.
+  You cut off the Hydra's head, but two more grew back.
+  Does this go badly for you?
+* **Caught! / Noticed!**
+  You failed to escape detection by the sentries or gendarmerie.
+  Now they're after you, or raising the alarm.
+  How important was it to stay unseen?
+* **Forgot Something!**
+  A critical detail eluded you at the wrong moment.
+  Your alchemy lab just blew up.
+  You brought all the paperwork to sign but left the bribe at home.
+  How badly does this complicate your plans?
+  Can you improvise a replacement?
+* **"Oops..."**
+  An embarrassing, rather than fatal, error.
+  Do you shame yourself or lose reputation with someone whose opinion you value?
+  What will it take to get it back?
+* **Triggered Trap!**
+  You step on the wrong flagstone,
+  say the wrong code word, or miss a conversational pitfall.
+  Bad things have been set in motion.
+  Can you outrun them?
+  Will they cut you off from one exit, forcing you to choose another?
+* **Revelation!**
+  You learn something both surprising and important.
+  The dragon was the good guy.
+  The Duke is really a shapechanging elf.
+  You're really the amnesiac Dark Lord.
+  Is this revelation going to change your plans radically?
+* **Chekhov's Fireball!**
+  Some minor detail you overlooked earlier comes back in a big way.
+  That kid from the first town is the daughter of this town's mayor.
+  The pendant worn by the female healer is the key to saving the world.
+  How big a deal is this?
 
 ## Advancement
 
