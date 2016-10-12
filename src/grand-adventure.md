@@ -463,26 +463,42 @@ or a slime can divide when struck,
 creating multiple smaller slimes.
 Even if a Challenge specifies some Twists, the MC isn't required to use them.
 
-**Challenges can have Features**.
-Features are Words that sometimes come into play,
-depending on how the characters approach the Challenge,
-or what a Challenge does in response to their actions.
-The MC determines the activation cost of a feature,
-and whether or not it's important to include in a particular action.
+### Features
 
-For example, a Swordfighter can attack a Red Dragon (difficulty 10)
-while it's crouched in its lair with an action like "Attack Red Dragon".
-But out in the open, the beast might spread its wings and take to the air,
-adding a "Flying" feature (cost 10).
-The Swordfighter must now "Attack Flying Red Dragon", using both Words.
-On the other hand, her comrade the Elven Archer can "Shoot Red Dragon"
-without including the feature,
-because his arrows can strike even a flying Dragon.
+A Feature is an element of the Challenge that can make it more difficult.
+Features represent things like:
 
-The MC can rule that character actions or Twists can bring features into or out of play.
-For example, the Elven Archer might declare "I'm shooting at the dragon's wings
-to try and ground it",
-allowing the Swordfighter to renew her attack once the Dragon crashes to the ground.
+* A dragon's wings and ability to fly.
+* A rock golem's armored surface, deflecting many physical attacks.
+* A wizard's anti-magic shell, blocking magic from passing through.
+* A magical sentinel's all-seeing vision which negates stealth.
+* An evil nobleman's diplomatic immunity.
+* A ghost's intangible ectoplasmic body.
+
+Features act as Words.
+The MC determines the activation cost of the Word.
+If the MC declares that a Feature applies to an action,
+the player must include it as a Word in the action.
+
+Characters might have abilities that bypass or ignore Features.
+The players can narrate actions for their characters
+that negate Features.
+For example, a Swordfighter, an Elven Archer, and a Mage all attack a Dragon.
+During the fight, the Dragon launches itself into the sky.
+It gains the "Flying" Feature.
+The Swordfighter's melee attack can't reach.
+But, the Elven Archer can shoot arrows, and the Mage can cast fireballs.
+Because of that, the MC rules that Flying doesn't affect them.
+
+A Feature can never completely negate a character's ability to act.
+Players should try to find interesting ways to work around Features.
+For example, the Dragon swoops low to attack.
+The Swordfighter's player says, "I leap up and grab hold of its claws
+as it passes, then fight from its back."
+In this case, the MC can rule that they ignore Flying as well.
+But, the Elven Archer might say,
+"I target the Dragon's wings with my magic arrow".
+On a successful attack, the Dragon could crash to the ground and lose "Flying".
 
 Features are how you plug narrative logic into the mechanics.
 If some roll would logically be harder for one PC than another,
