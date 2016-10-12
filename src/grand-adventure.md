@@ -683,16 +683,27 @@ They're a mechanical reward for accepting a change of narrative direction.
 
 ### Creating Twists
 
-You can pre-write generic Twists, perhaps on index cards,
-and draw one randomly as needed.
+You can pre-write generic Twists.
+If you write them on index cards, you can draw cards at random.
+If you aren't sure how many dice to apply to a Twist, roll d6 - d6.
+The difference (minimum 1) between the greater and the smaller is the Twist Pool size.
+
 If the Twist you draw doesn't work for the current situation,
 discard and draw another.
+Absurdity is a source of both comedy and wonder.
+A weird result, presented with conviction and sincerity,
+can add to your game world.
+For example, you draw "Romantic Entanglement"
+while the PCs are fighting an Ogre.
+You might decide this means the Ogre has a wife who joins the action.
+She could become a combatant,
+or turn the Challenge from physical or social.
 
 Here's several generic Twists that you can use as starting points.
 
 * **You Fall!**
   There's a cliff, a ledge, or somewhere to lose your balance.
-  Do you go all the way in?
+  Do you go all the way in? Does somebody need to save you?
 * **Lose Your Weapon! / Spell Backfire!**
   Your special abilities blow up in your face.
   How bad is the result?
@@ -751,6 +762,16 @@ Here's several generic Twists that you can use as starting points.
   That kid from the first town is the daughter of this town's mayor.
   The pendant worn by the female healer is the key to saving the world.
   How big a deal is this?
+* **Fools Rush In...**
+  You do something impulsive and rash, driven by the heat of the moment.
+  How does it go badly?
+  What would have been lost if you hadn't rushed in?
+* **Romantic Entanglement!**
+  Love, romance, or attraction comes into play in the scene.
+  A PC or NPC might have a sweetheart who becomes part of the action,
+  or is put at risk by some action.
+  What is the nature of the entanglement?
+  How does it complicate things?
 
 ## Advancement
 
