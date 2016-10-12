@@ -227,38 +227,47 @@ Now you're ready to adventure!
 
 ## Pools
 
-A Pool is how you track something you lose or regain often,
-like willpower, stamina, stealth, wealth, or magical power.
+A Pool is how you track something you lose or regain often.
+You can use Pools to represent things like:
+
+* Willpower, stamina, or endurance.
+* Magical strength, "mana", reserves of psychic force, etc.
+* Wealth or valuables which you spend or earn back.
+* Your stealthiness or cover when sneaking around.
+* The King's favor, a good reputation, or credibility.
+
 Pools have a name, like "Resolve", "Mana", or "Rage".
+Pools with the same name are the same Pool.
+For example, you are both a Wizard and a Cleric.
+Both of those Archetypes have an "MP" Pool.
+You have one MP Pool, not two.
 
-**A Pool holds dice**.
-Each Pool has some number of six-sided dice (d6) in it.
+Pools hold six-sided dice (d6).
+Pools have a maximum size, up to 5 dice.
+Mark one heart (&#9825;) next to a Pool to show how many dice it can hold.
 
-**Pools have a current and maximum size**.
-The current size is how many dice are in the Pool at the moment.
-The maximum size is how many dice can ever be in the Pool at a time.
-The Pool's maximum size is measured in **hearts** (&#9825;).
+When you _spend_ dice from a Pool,
+take dice out of the Pool and roll them.
+Unless the Pool has a rule that says otherwise,
+you can spend as many or as few dice as you like.
+Don't put dice back into a Pool after you spend them.
+You can make a mark by the hearts, if you want to keep track of spent dice.
 
-**Pools can have dice Taken from them or Given to them**.
-Any dice Taken from a Pool are not automatically returned.
-Only Give dice to a pool when a rule tells you to do so.
+You can't spend dice from a Pool if you can't explain how the Pool would help your efforts.
+For example, the MC can ask you how your Stealth Pool
+helps you convince the king that you're friendly.
 
-**Pools can be Recharged**.
-If a rule tells you to recharge a Pool, Give it dice up to its maximum size.
+You can _recover_ dice back to a Pool.
+Other rules will tell you how many dice you can recover.
+No matter what, you can't put more dice into a Pool than its maximum size.
 
-**A Pool can be Lent to someone or something**.
-Your target receives a Pool temporarily.
-If the rule that lends the Pool doesn't specify how many dice it has,
-Give it one.
-If the rule doesn't specify a current size for the Pool, it starts at its maximum size.
-A lent Pool is removed from the target's character sheet when its current size reaches zero.
-If you lend someone a Pool they already have,
-you can give it dice instead, up to its maximum.
-If you lend someone a Pool you have as well, you don't lose it.
+Some rules let you _recharge_ a Pool.
+For example, Resolve recharges every time you make a Discovery.
+Recharging lets you recover your Pool up to its maximum size.
 
-**A Pool can be Leveled Up**.
-Add one die to the Pool's maximum size, permanently, and Recharge the Pool.
-You cannot Level Up a Pool that's been lent to you.
+If you _Level Up_ a Pool, add one heart to its size.
+You can't Level Up a Pool past five hearts.
+If you Level Up a Pool, recharge it immediately.
 
 Pools are intentionally limited to five dice.
 This supports a larger design goal, which is to get players
@@ -267,14 +276,9 @@ Pools can function a little like aspects with free invokes from Fate,
 in that you can use them to enhance your chances of success.
 {.directors-cut}
 
-**Pools can have optional rules**.
-For example, the Resolve Pool will Recharge whenever you reach a new Discovery,
-while the Stealth Pool might Recharge only when you are sneaking around.
-
-**Pools with the same name are the same Pool**.
-If your Wizard has an "MP" Pool for magical power,
-and you also become a Cleric that also has an "MP" Pool,
-you have one MP Pool, not two.
+Pools can have optional rules.
+For example, the "Mana" Pool might declare that you can recharge it
+when you encounter a wellspring of magical power.
 
 ## Words
 
@@ -556,9 +560,9 @@ When you roll dice, assign each one to a specific Word.
 If you assign several dice to the same Word, add their values together.
 For example, Tana's "Attack" Word has a cost of 4,
 and "Ogre" has a cost of 5.
-Tana has 4 Resolve dice and 2 Courage dice.
-She takes both Courage dice and rolls them, getting a 4 and a 6.
-She assigns the 4 to Attack and the 6 to Ogre.
+Tana has two Pools: Resolve (4 dice) and Courage (2 dice).
+She spends both Courage dice and rolls, getting a 4 and a 6.
+She assigns the 4 to "Attack" and the 6 to "Ogre".
 The Action is now paid for.
 
 You can choose to roll more dice at any time during the Action,
@@ -578,14 +582,14 @@ You can't repeat Actions even if they failed.
 
 **Once the action is resolved, you get dice back**.
 Count up the total number of stars on all Words in the Action.
-You can take back up to that many dice, but no more.
-You can place the dice you get back into any Pool you want.
-You cannot put more dice into a Pool than its maximum size.
+You can recover up to that many dice, but no more.
+You can recover dice into any Pool you want.
+You cannot recover more dice in a Pool than its maximum size.
 
 For example, Tana's "Attack" word has one star (&#9734;).
-When she rolls her two dice earlier, she can take one back.
+When she rolls her two dice earlier, she can recover one.
 She places it back into her Courage Pool.
-She could have placed it into her Resolve Pool, if it wasn't full.
+Since her Resolve Pool is at maximum, she can't recover to that Pool.
 
 **The MC can offer you one or more Twists**.
 If you are unable or unwilling to pay dice from your own Pools,
@@ -617,9 +621,9 @@ They assign the dice thus: Attack (4), Backstab (4), Dire Sloth (6+3+1).
 This is enough to overcome the Sloth.
 
 There are two stars in play, one on Attack and one on Backstab.
-The players each receive one die back.
-Tana assigns hers back to her Resolve Pool,
-while Basler takes one back for his Stealth Pool.
+The players recover one die each.
+Tana puts hers in her Resolve Pool,
+while Basler puts his into his Stealth Pool.
 
 Challenges lose endurance per Action, not per character.
 Thus, the Sloth would have lost one square, not two.
@@ -794,12 +798,12 @@ Players can propose new Archetypes.
 The MC has the final word on any new Archetypes.
 New Archetypes should support the tone of the game world.
 
-If you take a new Archetype that has Words or Pools you already have,
+If you choose a new Archetype that has Words or Pools you already have,
 Level Up those Words or Pools.
-Don't take them a second time.
+Don't gain them a second time.
 For example, a character already has an "MP" Pool because they are a Mage.
 They choose to gain Illusionist, which also has an "MP" Pool.
-They would Level Up their MP Pool, rather than take it twice.
+They would Level Up their MP Pool, rather than gain it twice.
 
 If your idea doesn't feel like an Archetype, create a new unique Word or Pool.
 For example, you want a Word like "Crystal Sword" to represent a unique magic weapon.
@@ -1062,8 +1066,8 @@ You can simulate such things with a new Pool.
 **Limit Break** (&#9825;):
 You surpass your mortal limits and shine with power.
 **Special**: This pool may be used for any action.
-You must take all dice from this Pool when using it.
-The MC may give dice to this pool at their discretion,
+You must spend all dice from this Pool when using it.
+The MC may add dice to this pool at their discretion,
 such as when the character takes damage, faces a stressful
 situation, and so on.
 
@@ -1177,7 +1181,7 @@ and whims rather than reasoned thought.
 This Pool begins at zero dice.
 The MC may give dice to this Pool when you face a personal crisis.
 You may use this Pool for any action.
-If you take any dice from this Pool, you must take them all.
+If you spend any dice from this Pool, you must spend them all.
 
 ### New Archetypes
 
