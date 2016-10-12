@@ -343,29 +343,31 @@ A powerful Word might cost 1 or 2 more points than normal.
 
 ## Archetypes
 
-An Archetype is a collection of traits that describe a sort of character,
-like Fighter, Magic User, Elf, or Werewolf.
-Characters can have multiple Archetypes.
-For example, a character can be an Elf/Magic User/Fighter.
+Archetypes are iconic character types.
+Fighter, Magic User, Elf, or Werewolf can all be Archetypes.
 
 A character doesn't have to have an Archetype to describe themselves as something.
 For example, a player can say "my character is an Elf"
 without starting with the Elf Archetype.
-It's only when they want to put a spotlight on their Elf-ness that
-the Archetype becomes important.
+They should take the Archetype
+when they want to highlight their Elf-ness in the game.
 
-**Archetypes come with a set of Pools and Words**.
-A typical Archetype should have one or two Words and one or two Pools
-that work together to support the Archetype's theme.
+Characters gain new Archetypes during play.
+There is no limit to how many Archetypes a character may have.
+For example, a character can start as a Magic User,
+then become an Elf, then a Werewolf, then a Fighter.
+
+Archetypes come with a set of Pools and Words.
+Most Archetypes will have one or two Words, and one or two Pools.
 For example, a Fighter might have "Attack" and "Bravely" Words,
 and a "Courage" Pool.
 When you gain that Archetype, you gain those Words and Pools.
 
-**Archetypes can share Words and Pools**.
-If you gain a new Archetype that has a Word or Pool you already have,
-you should Level Up the Word or Pool instead of taking it a second time.
+If you gain a new Archetype with a Word or Pool you have,
+Level Up the Word or Pool instead of taking it a second time.
 For example, a Fighter with the "Attack" Word who becomes a Knight
-will Level Up his Attack, rather than gaining it a second time.
+will Level Up his Attack.
+He won't have two Attack Words.
 
 Archetypes are the bridge between traditional race/class/job
 mechanics and the more freeform story-game style thing
