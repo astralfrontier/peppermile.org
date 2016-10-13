@@ -282,26 +282,22 @@ when you encounter a wellspring of magical power.
 
 ## Words
 
-A Word is a verb, noun, adjective, or phrase with special significance in the game.
-Words tell your group about the actions you are performing,
-and optionally give you special rules for performing those actions.
+Words are verbs, nouns, adjectives, or phrases.
+Words tell your group about the actions you are performing.
+For example, "Attack", "Giant Ogre", "Sneakily", and "Crystal Sword" are all Words.
 
-Words are intended to take the basic power of PbtA moves -
-characterizing a PC by describing what they can do -
-at a much finer resolution.
-Instead of a move that comes prebaked and complete, you can synthesize
-new moves by assembling Words.
+Words are intended to take the basic power of PbtA moves at a much finer resolution.
+Instead of a move that comes pre-baked and complete,
+you can synthesize new moves by assembling Words.
 {.directors-cut}
 
-A Word can contain multiple English words.
-"Giant Lizard" is a Word in the game-mechanical sense.
-
-**Words signal intention**.
+Words signal intention.
 "Confront" and "Avoid" mean different things in the fiction,
 even if they use the same rules.
 "Defeat" is not the same as "Kill", or "Assassinate".
 Listen to what the Word tells you, and honor what it means.
-Words can come with a description that explain their meaning more clearly.
+Words can come with a description to clarify what they mean.
+The MC should narrate outcomes consistent with the Words the players use.
 
 Words doing what they say should be the whole driving force
 behind taking new words during advancement.
@@ -310,27 +306,29 @@ But if you "Befriend" one, that's giving you a lot more authority over the world
 You earn that authority through advancement.
 {.directors-cut}
 
-**Words can have optional rules**.
-For example, a Word might say "The Stealth Pool may be used"
-or "Lend a friendly target a Magic Shield Pool".
+Many Words come with their own special rules.
+The most common rule lets the player use a different Pool when rolling dice.
+For example, the "Pickpocket" Word might allow a Thief to roll dice
+from their "Stealth" Pool.
 
-**Words have an activation cost**.
-To include the Word in an action,
-you must allocate dice to the Word that sum to the cost or higher.
-For example, a Word with cost 4 can be activated with a roll of 4 or higher,
-or two dice showing 1 and 3, and so on.
+Words have an action cost.
+When you include a Word in an action, you must pay its cost.
+You usually spend dice from a Pool to do so.
+You can assign one or more dice to a Word.
+If the sum of the dice equals or exceeds the action cost,
+then you've paid for the Word.
+For example, you can activate a Word with cost 4 on a roll of 4, 5, or 6.
+You could also pay for the Word with two dice showing a 1 and a 3.
 
-**Words can optionally have a Star rating**.
-Write a Word's activation cost as "cost stars", e.g. 2 &#9734;&#9734;.
-Words cannot have more than five stars.
-Stars allow the player to recover dice from their action - one die per star.
+Many Words have a star rating.
+Words can have up to five stars (&#9734;).
+Write stars next to the action cost, for example "2 &#9734;&#9734;".
+Stars allow you to recover dice during Actions, one star per die.
 
-**A Word can be Leveled Up**.
-Add one star (&#9734;) to the Word, permanently.
-No Word can be Leveled Up to more than five stars.
-Words without a star rating cannot be Leveled Up.
+Some rules let you _Level Up_ a Word with a star rating.
+Add one star, up to a maximum of five stars.
 
-**The same name with the same rules always refers to the same Word**.
+The same name with the same rules always refers to the same Word.
 For example, the Fighter and Knight might both have an "Attack" Word.
 If a Fighter also became a Knight, she only has one "Attack" Word, not two.
 You should try never to use the same Word but different rules.
