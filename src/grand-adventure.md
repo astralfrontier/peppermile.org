@@ -507,35 +507,11 @@ but hard otherwise, it should have a low difficulty and a lot of features.
 
 ## Actions
 
-Actions are how you resolve Challenges.
-You take an action by declaring you're going to do something.
-Then you choose a set of Words to model that description.
-Finally, you roll dice to determine how successful you were.
+Actions are how you deal with Challenges.
+You start an Action by narrating what your character does about a Challenge.
+Then you choose the right Words that match what you said.
+Finally, you roll to activate those Words and finish the Action.
 
-For example, Tana encounters an Ogre who is attacking a helpless village.
-Tana's player might say "I draw my sword and charge right for the Ogre,
-yelling at it to get its attention!"
-
-**You build Actions out of Words**.
-Based on your narration, you decide which Words you have that meet that description.
-The Words you pick should tell you _what you're doing_, _to whom or to what_,
-and optionally _how_.
-
-For example, Tana is a magic knight.
-She has an "Attack" Word, which represents physical attacks against opponents.
-She has a "With Magic" Word, which represents her ability to cast spells.
-While fighting the Ogre, it becomes a Word too.
-She puts the Words together: "Attack", "Ogre", "With Magic".
-The result is her Action: "I'm Attacking this Ogre With Magic".
-
-**The MC can require or forbid Words**.
-The MC can decide that a Challenge's features are active for you.
-For example, a dragon might have a "Flying" feature that adds a cost to melee combat.
-In that case, you would have to make an Action like "Attack Flying Dragon".
-The MC might also declare that you can't use certain Words.
-You can't "Befriend" an avalanche or "Attack" a spell of mind control.
-
-**Actions are summaries**.
 An Action isn't a single sword swing or a single attempt to pick a lock.
 An Action can be several seconds or even minutes long.
 It's a series of sword thrusts, parries, and ripostes.
@@ -543,16 +519,48 @@ It's tense seconds running from a cave-in.
 It's the conversation you have with the sympathetic judge.
 Most of the Action will be you narrating what you do, and the MC responding.
 
-**You cannot repeat the same Action in a Challenge.**
+The Words you pick should represent
+what you're doing,
+to whom or to what,
+and how you do it.
+For example, Tana is a Magic Knight - a swordfighter who also uses spells.
+She encounters an Ogre attacking a helpless village.
+Tana's player might say "I draw my sword, power it up with Flame magic,
+and charge right at the Ogre!"
+She has an "Attack" Word, which represents physical attacks against opponents.
+She has a "With Magic" Word, which represents her ability to cast spells.
+The Challenge - "Ogre" - is also a Word.
+She puts the Words together: "Attack", "Ogre", "With Magic".
+The result is her Action: "I'm Attacking this Ogre With Magic".
+
+The MC may tell you that you must include certain Words.
+For example, Basler is fighting a Golem with thick rocky armor.
+The Golem has a Feature, "Armored", to represent its stony hide.
+The rogue is fighting with two daggers, which won't do much against the rock.
+The MC says that Basler's attack Action must include the Word "Armored".
+Basler will have a harder time than his friend
+Sir Emory, who can wield a heavy mace that will crunch through rock.
+
+The MC might also declare that you can't use certain Words.
+You can't "Befriend" an avalanche or "Attack" a spell of mind control.
+You might not be able to immediately "Befriend" a hostile Nobleman.
+The MC should inform the player of why they can't use a given Word.
+For example, he may have secrets or concerns that you must deal with first
+as part of the Challenge.
+
+You can't use the same Action twice in the same Challenge.
 Once you have used a specific combination of Words, you can't re-use that combination.
 You must change at least one Word.
-This includes any Words the MC requires, such as features.
-
-While facing an Ogre, Tana uses the "Attack Ogre" Action.
-After that, she can't "Attack Ogre" again.
-She could "Attack Ogre With Magic".
-She could also "Attack Angry Ogre", if "Angry" was a feature that the MC added.
-She could "Avoid" or "Outwit" the Ogre, by changing battle tactics.
+This includes any Words the MC requires, such as Features.
+You can't repeat Actions even if they failed.
+If you teamed up with someone else on the same Action, it counts as your Action too for this rule.
+For example, Tana is facing an Ogre.
+She uses the "Attack Ogre" Action.
+Once that's resolved, she cannot use "Attack Ogre" again.
+She can "Attack Ogre With Magic".
+If the MC ruled that a Feature like "Angry" was in play,
+she could "Attack Angry Ogre".
+Her friend Basler can "Attack Ogre", because he hasn't used that Action yet.
 
 This will probably be the most contentious rule in actions.
 People like to do their best move over and over.
@@ -564,58 +572,59 @@ teamwork moves, new archetypes rather than endlessly leveling
 existing Words, and trying out different tactics.
 {.directors-cut}
 
-**You activate Words by rolling dice.**
-You can roll dice from one or more Pools.
-You can use a Pool if the Pool, or the Words you use, allow it.
-For example, you can use the "Resolve" Pool for all actions.
-Tana's "Attack" Word allows her to use her "Bravery" Pool.
+### Activating Words
 
-When you roll dice, assign each one to a specific Word.
+Every Word in the Action has an action cost.
+You must pay this cost by spending dice from your Pools.
+You can only use a Pool if either the Pool or the Words say you can.
+For example, the Resolve Pool has a special rule saying you can always use it.
+Tana's "Attack" Word allows her to use her "Courage" Pool.
+
+You can accept dice from a Twist Pool created by the MC.
+Any player may suggest a Twist, including you and the MC.
+However, only the MC can approve a Twist,
+and you can refuse the Twist as well.
+
+When you roll dice, assign each die to a specific Word.
 If you assign several dice to the same Word, add their values together.
 For example, Tana's "Attack" Word has a cost of 4,
 and "Ogre" has a cost of 5.
-Tana has two Pools: Resolve (4 dice) and Courage (2 dice).
-She spends both Courage dice and rolls, getting a 4 and a 6.
-She assigns the 4 to "Attack" and the 6 to "Ogre".
+She spends two Courage dice and one Resolve die and rolls, getting 2, 3, and 4.
+She assigns the 4 to "Attack" and the 2 and 3 to "Ogre".
 The Action is now paid for.
 
 You can choose to roll more dice at any time during the Action,
 if the dice you already rolled aren't enough.
 Once you roll dice, you cannot unroll them.
 
-**You must activate every Word for your Action to succeed.**
+You must activate every Word for your Action to succeed.
 Whether you succeed or fail, the MC determines what happens next.
 The MC should respect your choice of Words.
 For example, if you declare that you want to "Befriend" the Ogre,
 the outcome should be peaceful.
-This doesn't stop other players from taking Actions
-that negate yours.
+But, other Actions can change this outcome.
+For example, Attacking an Ogre after Befriending it
+means the Ogre is hostile again.
 
-If your Action fails, you get all your rolled dice back.
-You can't repeat Actions even if they failed.
-
-**Once the action is resolved, you get dice back**.
+After rolling, you can recover some of your dice.
 Count up the total number of stars on all Words in the Action.
 You can recover up to that many dice, but no more.
 You can recover dice into any Pool you want.
 You cannot recover more dice in a Pool than its maximum size.
-
 For example, Tana's "Attack" word has one star (&#9734;).
-When she rolls her two dice earlier, she can recover one.
-She places it back into her Courage Pool.
-Since her Resolve Pool is at maximum, she can't recover to that Pool.
+She can only recover one of her dice, no matter how many she rolled.
+She can choose to place it into her Courage or Resolve Pools.
 
-**The MC can offer you one or more Twists**.
-If you are unable or unwilling to pay dice from your own Pools,
-you can accept dice from a Twist Pool created by the MC.
+If your Action fails, you recover all the dice you rolled.
 
-**Characters can cooperate as part of a single Action.**
-If several characters cooperate, they can all add Words to the Action,
-and they can all contribute dice to activating those Words.
-If you get dice back because some of the Words have star ratings,
-the total dice returned are divided up by the players as they see fit.
-No Word can be part of the same Action more than once -
+You can team up with another player on an Action.
+You can add your Words to the Action, if you want.
+You can also roll dice from your Pools to activate Words (yours or theirs).
+When you recover dice, the total you can recover is for the Action, not per player.
+No Word can be part of the same Action more than once.
 for example, two characters cannot both add "Confront" to the table at the same time.
+
+Challenges lose endurance per Action, not per character.
 
 ### Action Example
 
@@ -638,9 +647,6 @@ There are two stars in play, one on Attack and one on Backstab.
 The players recover one die each.
 Tana puts hers in her Resolve Pool,
 while Basler puts his into his Stealth Pool.
-
-Challenges lose endurance per Action, not per character.
-Thus, the Sloth would have lost one square, not two.
 
 ## Twists
 
