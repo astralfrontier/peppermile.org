@@ -1148,6 +1148,12 @@ ice, soil, even volcanic magma.
 The Holy Church of Talispire recognizes hundreds of saints,
 and catalogs and studies the dragon spirits.
 
+The Church teaches that everyone has a Dragon and a Saint in their soul.
+The Dragon is savage and mindless, all instinct.
+The Saint is idealistic but controlling.
+Neither is "good" or "bad".
+It is the struggle between Dragon and Saint within us that defines us.
+
 ### Races
 
 Two other races share Talispire with humanity.
@@ -1184,24 +1190,6 @@ but they're also good with people because I hate dour dwarves.
 I wanted the Dwarves of "the Hobbit", who pile into a dude's house
 and start messing with his whole program, then sing a song about it.
 {.directors-cut}
-
-### New Rules
-
-The following rules apply to games set in Talispire.
-
-#### Dragon Blood
-
-All characters begin the game with the following Pool.
-
-**Dragon Blood** (&#9825;&#9825;&#9825;&#9825;&#9825;):
-The primal power of the Dragon Gods stirs within you and wakens,
-unleashing tremendous magical might but acting on your instincts
-and whims rather than reasoned thought.
-**Special**:
-This Pool begins at zero dice.
-The MC may give dice to this Pool when you face a personal crisis.
-You may use this Pool for any action.
-If you spend any dice from this Pool, you must spend them all.
 
 ### New Archetypes
 
