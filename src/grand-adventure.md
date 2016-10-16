@@ -756,16 +756,17 @@ Here's several generic Twists that you can use as starting points.
   What's the fallout from your action?
 * **Made It Worse!**
   Your efforts only complicated the situation.
-  Now your lockpick is broken off in the lock.
+  Your lock pick broke off in the lock.
   You cut off the Hydra's head, but two more grew back.
   Does this go badly for you?
 * **Caught! / Noticed!**
   You failed to escape detection by the sentries or gendarmerie.
   Now they're after you, or raising the alarm.
   How important was it to stay unseen?
+  What happens to you if you're caught?
 * **Forgot Something!**
   A critical detail eluded you at the wrong moment.
-  Your alchemy lab just blew up.
+  Your alchemy lab just blew up thanks to a missing ingredient.
   You brought all the paperwork to sign but left the bribe at home.
   How badly does this complicate your plans?
   Can you improvise a replacement?
@@ -800,6 +801,16 @@ Here's several generic Twists that you can use as starting points.
   or is put at risk by some action.
   What is the nature of the entanglement?
   How does it complicate things?
+* **Animal Shenanigans!**
+  An animal - wild or tame, yours or theirs or nobody's - intervenes.
+  Sudden tiger attacks, heroic actions from your noble steed, whatever.
+  What animal is involved?
+  What goes out of control thanks to bestial instinct?
+* **Fire!**
+  Things catch on fire, or an existing fire spreads.
+  Dungeon delvers' torches, spare lanterns, errant fireballs - anything could be a source.
+  How does the spreading fire complicate the scene?
+  Does it head toward anything or anyone?
 
 ## Advancement
 
