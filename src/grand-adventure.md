@@ -34,7 +34,6 @@ Important note! This version of the PDF is _unfinished_.
 The following issues remain:
 
 * Formatting and flow is still incomplete.
-  * Actions needs to be reformatted.
-  * Talispire Archetypes need better formatting.
+* Talispire Archetypes need better formatting.
 * There is unfilled white space. More clip art will be added soon.
-* The sample world, Talispire, is incompletely described.
+* Printing the PDF is extremely slow, and the top half-inch or so is cut off.
