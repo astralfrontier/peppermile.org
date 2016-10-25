@@ -30,6 +30,9 @@ discover amazing new things, solve challenges, and explore a fantastic world**.
 
 You can download the early-access PDF here: [GrandAdventure.pdf](/assets/GrandAdventure.pdf).
 
+The PDF was created with Adobe InDesign CC.
+You can download the original file here: [GrandAdventure.indd](/assets/GrandAdventure.indd).
+
 Important note! This version of the PDF is _unfinished_.
 The following issues remain:
 
