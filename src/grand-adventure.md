@@ -36,7 +36,7 @@ You can download the original file here: [GrandAdventure.indd](/assets/GrandAdve
 Important note! This version of the PDF is _unfinished_.
 The following issues remain:
 
-* Formatting and flow is still incomplete.
+* Formatting and flow is still incomplete. I'm working on it.
 * Talispire Archetypes need better formatting.
 * There is unfilled white space. More clip art will be added soon.
 * Printing the PDF is extremely slow, and the top half-inch or so is cut off.
