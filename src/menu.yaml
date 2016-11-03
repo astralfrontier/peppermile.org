@@ -1,13 +1,11 @@
 - name: Home
   url: /
-- name: Grand Adventure
-  url: /grand-adventure.html
 - name: Inept Sorcerers
   url: /inept-sorcerers.html
-- name: Super-Sheriffs of Sagan City
-  url: /super-sheriffs-of-sagan-city.html
-- name: Wake Up, Sheeple!
-  url: /wake-up-sheeple.html
+- name: Grand Adventure
+  url: /grand-adventure.html
+- name: The Compleat Villain
+  url: /compleat-villain.html
 - name: Google+ Community
   url: https://plus.google.com/communities/115323070463632893441
 - name: Tools
