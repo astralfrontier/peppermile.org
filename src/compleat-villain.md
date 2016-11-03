@@ -192,6 +192,10 @@ The city can float and move itself. The ship's anti-gravity systems are function
 
 The city can actually take off and fly. The ship's anti-gravity and thrust systems are functional enough to put the ship into Earth orbit. From there, it might be possible to reach the moon or other near-Earth objects. An invasion force would need to be equally mobile to catch up.
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 [Champions]: http://www.herogames.com/index.html
 [Icons]: http://greenroninstore.com/products/icons-superpowered-roleplaying-the-assembled-edition
 [Mutants and Masterminds]: http://mutantsandmasterminds.com/
