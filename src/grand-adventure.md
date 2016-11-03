@@ -28,10 +28,14 @@ discover amazing new things, solve challenges, and explore a fantastic world**.
 
 ### Download the game
 
-You can download the early-access PDF here: [GrandAdventure.pdf](/assets/GrandAdventure.pdf).
+You can download the early-access PDF here:
+[GrandAdventure.pdf](/assets/GrandAdventure.pdf)
+<i class="fa fa-file-pdf-o"></i>
 
 The PDF was created with Adobe InDesign CC.
-You can download the original file here: [GrandAdventure.indd](/assets/GrandAdventure.indd).
+You can download the original file here:
+[GrandAdventure.indd](/assets/GrandAdventure.indd)
+<i class="fa fa-file-o"></i>
 
 Important note! This version of the PDF is _unfinished_.
 The following issues remain:

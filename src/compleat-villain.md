@@ -191,3 +191,7 @@ The city has a defensive shield. Military planners were able to re-activate the 
 The city can float and move itself. The ship's anti-gravity systems are functional, but risky. The city can be lifted from its impact crater and moved from place to place, gliding slowly and majestically hundreds of feet off the ground. It's not maneuverable in any sense, but it could be relocated if need be. Nearly everything and everyone in the city would be disrupted, of course. Citizens would need to take shelter, dangerous laboratory experiments would need to be shut down, and anything not tied down (vehicles, furniture, silverware, etc.) will be shaken up or knocked over by the process.
 
 The city can actually take off and fly. The ship's anti-gravity and thrust systems are functional enough to put the ship into Earth orbit. From there, it might be possible to reach the moon or other near-Earth objects. An invasion force would need to be equally mobile to catch up.
+
+[Champions]: http://www.herogames.com/index.html
+[Icons]: http://greenroninstore.com/products/icons-superpowered-roleplaying-the-assembled-edition
+[Mutants and Masterminds]: http://mutantsandmasterminds.com/
