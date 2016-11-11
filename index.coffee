@@ -21,29 +21,6 @@ serve           = require 'metalsmith-serve'
 typography      = require 'metalsmith-typography'
 yaml            = require 'metalsmith-yaml'
 
-fs = require 'fs'
-main_bower_files = require 'main-bower-files'
-node_path = require 'path'
-
-bower_plugin = (options) ->
-  (files, metalsmith, done) ->
-    for file in main_bower_files(options)
-      type = switch node_path.extname(file)
-        when '.css' then 'css'
-        when '.js' then 'js'
-        when '.otf' then 'fonts'
-        when '.eot' then 'fonts'
-        when '.svg' then 'fonts'
-        when '.ttf' then 'fonts'
-        when '.woff' then 'fonts'
-        when '.woff2' then 'fonts'
-        else 'skip'
-      if type != 'skip'
-        dest = "#{type}/#{node_path.basename(file)}"
-        contents = String(fs.readFileSync(file))
-        files[dest] = { contents: contents }
-    done()
-
 collection_data = {
   blog:
     sortBy: 'date'
@@ -54,7 +31,7 @@ pagination_data = {
   'collections.blog':
     perPage: 10
     layout: 'bloglist.jade'
-    first: 'index.html'
+    first: 'blog.html'
     path: 'blog/:num.html'
 }
 
@@ -82,7 +59,6 @@ metalsmith(__dirname)
   .use(typography({
     lang: 'en'
   }))
-# .use(bower_plugin({}))
   .use(path())
   .use(more({
     alwaysAddKey: true
