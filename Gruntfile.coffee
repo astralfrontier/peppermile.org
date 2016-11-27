@@ -1,6 +1,3 @@
-webpack = require 'webpack'
-webpackConfig = require './webpack.config'
-
 module.exports = (grunt) ->
   grunt.initConfig(
     pkg: grunt.file.readJSON("package.json")
@@ -20,12 +17,7 @@ module.exports = (grunt) ->
     exec:
       build: "node -r coffee-script/register index.coffee"
     webpack:
-      options: webpackConfig
-      production: 
-        plugins: webpackConfig.plugins.concat(
-          new webpack.optimize.UglifyJsPlugin(),
-          new webpack.DefinePlugin({'process.env': {NODE_ENV: JSON.stringify("production")}})
-        )
+      production: require './webpack.config'
   )
 
   grunt.loadNpmTasks 'grunt-aws-s3'

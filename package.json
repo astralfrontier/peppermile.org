@@ -21,7 +21,6 @@
     "cheerio": "^0.22.0",
     "coffee-loader": "^0.7.2",
     "coffee-script": "^1.11.1",
-    "compression-webpack-plugin": "^0.3.2",
     "css-loader": "^0.26.0",
     "dotenv": "^2.0.0",
     "exports-loader": "^0.6.3",

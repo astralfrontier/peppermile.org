@@ -1,6 +1,5 @@
 const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
-const CompressionPlugin = require("compression-webpack-plugin");
 
 const babelLoader = {
   test: /^((?!.config.).).js$/,
@@ -52,13 +51,6 @@ module.exports = {
       $: "jquery",
       jQuery: "jquery",
       "window.jQuery": "jquery"
-    }),
-    new CompressionPlugin({
-      asset: "[path].gz[query]",
-      algorithm: "gzip",
-      test: /\.css$|\.js$/,
-      threshold: 10240,
-      minRatio: 0.8
     })
   ]
 };
