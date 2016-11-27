@@ -6,38 +6,20 @@
   "scripts": {
     "start": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\"",
     "test": "node -r dotenv/config -e \"require('grunt').tasks(['default']);\"",
-    "deploy": "node -r dotenv/config -e \"require('grunt').tasks(['deploy']);\"",
-    "webpack": "webpack --progress -d -p"
+    "deploy": "node -r dotenv/config -e \"require('grunt').tasks(['deploy']);\""
   },
-  "devDependencies": {
-    "babel-core": "^6.18.2",
-    "babel-loader": "^6.2.8",
-    "babel-polyfill": "^6.16.0",
-    "babel-preset-latest": "^6.16.0",
-    "bootstrap": "^3.3.7",
-    "bootstrap-webpack": "0.0.5",
+  "dependencies": {
     "bower": "^1.7.9",
     "bower-files": "^3.14.1",
     "cheerio": "^0.22.0",
-    "coffee-loader": "^0.7.2",
     "coffee-script": "^1.11.1",
-    "css-loader": "^0.26.0",
     "dotenv": "^2.0.0",
-    "exports-loader": "^0.6.3",
-    "extract-text-webpack-plugin": "^1.0.1",
-    "file-loader": "^0.9.0",
-    "font-awesome": "^4.7.0",
-    "font-awesome-webpack": "0.0.4",
     "grunt": "^1.0.1",
     "grunt-aws-s3": "^0.14.5",
     "grunt-exec": "^1.0.1",
-    "grunt-webpack": "^1.0.18",
     "handlebars": "^4.0.5",
-    "imports-loader": "^0.6.5",
     "jade": "^1.11.0",
-    "jquery": "^3.1.1",
     "jstransformer-coffee-script": "^1.1.0",
-    "less-loader": "^2.2.3",
     "main-bower-files": "^2.13.1",
     "markdown-it-attrs": "^0.7.1",
     "markdown-it-toc": "^1.1.0",
@@ -52,6 +34,7 @@
     "metalsmith-in-place": "^1.4.4",
     "metalsmith-jquery": "0.2.2",
     "metalsmith-layouts": "^1.6.5",
+    "metalsmith-less": "^2.0.0",
     "metalsmith-markdownit": "^0.4.0",
     "metalsmith-metadata": "0.0.4",
     "metalsmith-more": "^0.2.0",
@@ -63,10 +46,6 @@
     "metalsmith-pug": "^1.1.0",
     "metalsmith-serve": "0.0.7",
     "metalsmith-typography": "^0.1.1",
-    "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master",
-    "style-loader": "^0.13.1",
-    "url-loader": "^0.5.7",
-    "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.16.2"
+    "metalsmith-yaml": "git+https://github.com/astralfrontier/metalsmith-yaml.git#master"
   }
 }

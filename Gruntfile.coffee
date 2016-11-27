@@ -14,15 +14,13 @@ module.exports = (grunt) ->
         files: [
           {expand: true, cwd: 'build/', src: ['**'], dest: '/', stream: true},
         ]
+
     exec:
       build: "node -r coffee-script/register index.coffee"
-    webpack:
-      production: require './webpack.config'
   )
 
-  grunt.loadNpmTasks 'grunt-aws-s3'
   grunt.loadNpmTasks 'grunt-exec'
-  grunt.loadNpmTasks 'grunt-webpack'
+  grunt.loadNpmTasks 'grunt-aws-s3'
 
-  grunt.registerTask 'default', ['exec:build', 'webpack:production']
-  grunt.registerTask 'deploy', ['exec:build', 'webpack:production', 'aws_s3:production']
+  grunt.registerTask 'default', ['exec:build']
+  grunt.registerTask 'deploy', ['exec:build', 'aws_s3:production']

@@ -8,6 +8,7 @@ feed            = require 'metalsmith-feed'
 inPlace         = require 'metalsmith-in-place'
 jquery          = require 'metalsmith-jquery'
 layouts         = require 'metalsmith-layouts'
+less            = require 'metalsmith-less'
 link_checker    = require 'metalsmith-broken-link-checker'
 markdownit      = require 'metalsmith-markdownit'
 metadata        = require 'metalsmith-metadata'
@@ -87,6 +88,7 @@ metalsmith(__dirname)
     source: './assets'
     destination: './assets'
   }))
+  .use(less({}))
   .use(link_checker({warn: true}))
   .destination('./build')
 # .use(serve({

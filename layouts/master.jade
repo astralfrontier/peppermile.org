@@ -7,10 +7,14 @@ html(lang="en")
     title
       block title
         = title || "Peppermile"
-    link(href="/assets/peppermile.css" rel="stylesheet")
+    link(href="/assets/css/bootstrap.min.css" rel="stylesheet")
+    link(href="/assets/css/font-awesome.min.css" rel="stylesheet")
+    link(href="/assets/css/peppermile.css" rel="stylesheet")
     link(rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml")
     link(rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico")
   body
     block contents
       != contents
-    script(src="/assets/peppermile.js")
+    script(src="/assets/js/jquery.min.js")
+    script(src="/assets/js/bootstrap.min.js")
+    script(src="/assets/js/peppermile.js")
