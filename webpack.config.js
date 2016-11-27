@@ -47,7 +47,7 @@ module.exports = {
     filename: 'peppermile.js'
   },
   plugins: [
-    new ExtractTextPlugin('peppermile.css'),
+    new ExtractTextPlugin('peppermile.css', {allChunks: true}),
     new webpack.ProvidePlugin({
       $: "jquery",
       jQuery: "jquery",
