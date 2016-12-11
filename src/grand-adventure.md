@@ -40,6 +40,9 @@ You can download the original file here:
 * [The Magician's Tower](/grand-adventure/magicians-tower.html)<br />
   On a quest to find or learn something, the PCs reach a strange stone tower
   and must interact with its magical inhabitants.
+* [The Rasende Hammer](/grand-adventure/rasende-hammer.html)<br />
+  A powerful bloodline relic has been sealed away in a frozen valley.
+  The PCs must deal with it somehow.
 
 ### License
 
