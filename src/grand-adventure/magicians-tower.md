@@ -78,7 +78,7 @@ It will steal this thing, then make its escape, hoping to show off to the Magici
 
 **Stages**:
 
-* 9 &#9633;&#9633;&#9633 (a merry chase)
+* 9 &#9633;&#9633;&#9633; (a merry chase)
 * 11 &#9633;&#9633; (hiding out)
 * 13 &#9633; (the final showdown)
 
