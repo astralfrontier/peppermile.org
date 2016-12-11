@@ -3,6 +3,7 @@ title: The Magician's Tower
 images:
   - name: Face-urn
     url: /assets/grand-adventure/218px-Face_urn-Roman_1st_century.jpg
+    link: https://commons.wikimedia.org/wiki/File:Face_urn-Roman_1st_century.jpg
 ---
 
 This is a Discovery, and a set of associated Challenges,
@@ -75,7 +76,11 @@ It wants to increase its standing by holding something more valuable -
 like something shiny the adventurers are carrying, or a relic they seek within the tower!
 It will steal this thing, then make its escape, hoping to show off to the Magician.
 
-**Stages**: 9 &#9633;&#9633;&#9633; (a merry chase); 11 &#9633;&#9633; (hiding out); 13 &#9633; (the final showdown)
+**Stages**:
+
+* 9 &#9633;&#9633;&#9633 (a merry chase)
+* 11 &#9633;&#9633; (hiding out)
+* 13 &#9633; (the final showdown)
 
 **Features**:
 
@@ -92,7 +97,7 @@ It will steal this thing, then make its escape, hoping to show off to the Magici
 
 #### The Magician
 
-The Magician is a slightly cracked piece of work, kept animated by sorcery.
+The Magician is a slightly cracked piece of work, and an expert in sorcery.
 The Magician might be a he or a she or something the PCs aren't quite sure about, but they're powerful.
 They have full knowledge of everything that transpires in the tower.
 
@@ -109,7 +114,11 @@ Maybe they have a quest that the PCs must undertake to earn aid.
 Maybe what the PCs want isn't accessible to the Magician, but they can point the way.
 The Magician might even be willing to train junior spell-casters, if they show promise and humility.
 
-**Stages**: 12 &#9633; ("get off my lawn!"); 15 &#9633; ("young whippersnappers!"); 18 &#9633; ("well, I'll think about it")
+**Stages**:
+
+* 12 &#9633; ("get off my lawn!")
+* 15 &#9633; ("young whippersnappers!")
+* 18 &#9633; ("well, I'll think about it")
 
 **Features**:
 
@@ -119,8 +128,9 @@ The Magician might even be willing to train junior spell-casters, if they show p
 **Twists**:
 
 * Toad! (&#9825;): Impertinent or impatient PCs might get polymorphed into frogs! Does the Magician go this far, or do you back down first?
-* Urned a Friendship! (&#9825;&#9825;): If the PCs made a point of showing kindness to the Urn earlier, the Magician will show more kindness.
-* Worthy Apprentice! (&#9825;&#9825;&#9825;): If any PC has a flair for magic, and presents themselves as a student, the Magician will warm to them (and only them).
+* Urned a Friendship! (&#9825;&#9825;): The Magician loves their creations, including the Magic Urn. Did you show kindness to it earlier?
+* Good Omen! (&#9825;&#9825;&#9825;): The Omen was a test of character for the group. Did you pass, in the Magician's eyes?
+* Worthy Apprentice! (&#9825;&#9825;&#9825;&#9825;): If any PC has a flair for magic, and presents themselves as a student, the Magician will warm to them (and only them).
 
 ### License
 
