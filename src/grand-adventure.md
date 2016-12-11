@@ -35,13 +35,11 @@ You can download the original file here:
 [GrandAdventure.indd](/assets/GrandAdventure.indd)
 <i class="fa fa-file-o"></i>
 
-Important note! This version of the PDF is _unfinished_.
-The following issues remain:
+### New Discoveries
 
-* Formatting and flow is still incomplete. I'm working on it.
-* Talispire Archetypes need better formatting.
-* There is unfilled white space. More clip art will be added soon.
-* Printing the PDF is extremely slow, and the top half-inch or so is cut off.
+* [The Magician's Tower](/grand-adventure/magicians-tower.html)<br />
+  On a quest to find or learn something, the PCs reach a strange stone tower
+  and must interact with its magical inhabitants.
 
 ### License
 
