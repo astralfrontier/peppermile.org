@@ -4,19 +4,28 @@ images:
   - name: Atlantis The Palm Aquarium.JPG
     url: /assets/grand-adventure/320px-Atlantis_The_Palm_Aquarium.JPG
     link: https://commons.wikimedia.org/wiki/File:Atlantis_The_Palm_Aquarium.JPG
-imageSources:
-  - https://pixabay.com/en/bora-bora-french-polynesia-sunset-685303/
-  - https://pixabay.com/en/apocalypse-water-sea-setting-761821/
-  - https://pixabay.com/en/mermaid-green-fighter-fighting-fish-1488446/
-  - http://www.publicdomainpictures.net/view-image.php?image=150664&picture=under-water-fantasy-2
-  - https://pixabay.com/en/island-sea-underwater-mood-1557480/
-  - https://commons.wikimedia.org/wiki/File:Martin,_John_-_The_Deluge_-_1834.jpg
+  - name: bora-bora french polynesia sunset ocean pacific
+    url: /assets/grand-adventure/bora-bora-685303_640.jpg
+    link: https://pixabay.com/en/bora-bora-french-polynesia-sunset-685303/
+  - name: mermaid green fighter fighting fish fantasy
+    url: /assets/grand-adventure/mermaid-1488446_640.png
+    link: https://pixabay.com/en/mermaid-green-fighter-fighting-fish-1488446/
+  - name: island sea underwater mood waterfall
+    url: /assets/grand-adventure/island-1557480_640.jpg
+    link: https://pixabay.com/en/island-sea-underwater-mood-1557480/
+  - name: Under Water Fantasy 2
+    url: /assets/grand-adventure/under-water-fantasy2.jpg
+    link: http://www.publicdomainpictures.net/view-image.php?image=150664&picture=under-water-fantasy-2
+  - name: Martin, John - The Deluge - 1834.jpg
+    url: /assets/grand-adventure/Martin,_John_-_The_Deluge_-_1834.jpg
+    link: https://commons.wikimedia.org/wiki/File:Martin,_John_-_The_Deluge_-_1834.jpg
+  - name: apocalypse water sea setting mystical atmospheric 
+    url: /assets/grand-adventure/apocalypse-761821_640.jpg
+    link: https://pixabay.com/en/apocalypse-water-sea-setting-761821/
 ---
 
 This is a setting, including history, Archetypes, and sample Challenges,
 for [Grand Adventure](/grand-adventure.html).
-
-![Ocean Surface](/assets/grand-adventure/bora-bora-685303_640.jpg)
 
 ## The World
 
@@ -69,8 +78,6 @@ For example, walls and city structures are built out of long-lasting, durable co
 
 ### The Allsong
 
-![The Allsong](/assets/grand-adventure/under-water-fantasy2.jpg)
-
 Ocean water carries sounds better than air.
 The Allsong is more than just this:
 it is the pervading rhythm of the sea itself,
@@ -102,8 +109,6 @@ The rock of the core is sturdier by far than coral,
 and mined minerals can be refined into powerful weapons and armor.
 
 ### The Skywall
-
-![The Skywall](/assets/grand-adventure/island-1557480_640.jpg)
 
 At the top of the Inner Sea,
 floating "islands" bob on the surface of the water.
@@ -159,8 +164,6 @@ If they can find the source of the Leviathans, perhaps they can stop the influx.
 If the Leviathans have a master, perhaps it can be reasoned with.
 
 ### Characters
-
-![Fighting Mermaid](/assets/grand-adventure/mermaid-1488446_640.png)
 
 Player characters would be Folk from the Inner Sea.
 They would effectively be merfolk or other aquatic life,
