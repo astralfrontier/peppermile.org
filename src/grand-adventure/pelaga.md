@@ -19,7 +19,7 @@ images:
   - name: Martin, John - The Deluge - 1834.jpg
     url: /assets/grand-adventure/Martin,_John_-_The_Deluge_-_1834.jpg
     link: https://commons.wikimedia.org/wiki/File:Martin,_John_-_The_Deluge_-_1834.jpg
-  - name: apocalypse water sea setting mystical atmospheric 
+  - name: apocalypse water sea setting mystical atmospheric
     url: /assets/grand-adventure/apocalypse-761821_640.jpg
     link: https://pixabay.com/en/apocalypse-water-sea-setting-761821/
 ---
@@ -177,8 +177,50 @@ or beyond the Skywall in the forbidding and unknown Outer Sea.
 
 ## New Archetypes
 
-TODO
+### Aeronaut
+
+You are an explorer in the ultimate frontier: open air.
+Your association hopes to build flying balloons - sort of like artificial
+whales that can swim in air rather than water - to traverse the Skywall
+and visit the Outer Sea.
+Along the way, you've made many interesting discoveries in the fields
+of chemistry, navigation, and metalworking.
+Even if your balloons aren't quite ready, you're still proving your worth.
+
+### Core Delver
+
+With your trusty everlit torch and metal tools,
+you go spelunking into the caves of the Core.
+Somewhere in there are valuables: metals, gems, bones, and secrets.
+Somebody will pay you well if you come out alive with any or all of these things.
+
+### Leviathan Hunter
+
+You hunt Leviathans: the massive, alien beasts that fall from the Outer Sea
+into your native waters.
+You train with spear, net, and hook-rope.
+It can be difficult to actually kill one, and sometimes doing so requires great sacrifice.
+But if you wound them, and guide them into the depths,
+perhaps a deep-sea kraken or another Leviathan will do the job for you.
+
+### Singer
+
+Rather than just listening to the melody of the Allsong and heeding its wishes,
+you raise your voice (physical and spiritual) and work to sing a new reality
+into being.
 
 ## Discoveries and Challenges
 
-TODO
+### The Trade-City
+
+### The Current Outpost
+
+### The Coral Forest
+
+### The Sunken Island
+
+### The Core Caves
+
+### The Leviathan Tomb
+
+### The Aeronautical Outpost
