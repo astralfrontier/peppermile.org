@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.2">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="#800000" RGB="#966432"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="FromSVG#000000" RGB="#000000"/>
+        <COLOR NAME="FromSVG#030102" RGB="#030102"/>
+        <COLOR NAME="FromSVG#140a07" RGB="#140a07"/>
+        <COLOR NAME="FromSVG#241c1c" RGB="#241c1c"/>
+        <COLOR NAME="FromSVG#280b0b" RGB="#280b0b"/>
+        <COLOR NAME="FromSVG#28170b" RGB="#28170b"/>
+        <COLOR NAME="FromSVG#380f0f" RGB="#380f0f"/>
+        <COLOR NAME="FromSVG#483737" RGB="#483737"/>
+        <COLOR NAME="FromSVG#483e37" RGB="#483e37"/>
+        <COLOR NAME="FromSVG#501616" RGB="#501616"/>
+        <COLOR NAME="FromSVG#502d16" RGB="#502d16"/>
+        <COLOR NAME="FromSVG#666666" RGB="#666666"/>
+        <COLOR NAME="FromSVG#6c5353" RGB="#6c5353"/>
+        <COLOR NAME="FromSVG#6c5d53" RGB="#6c5d53"/>
+        <COLOR NAME="FromSVG#782121" RGB="#782121"/>
+        <COLOR NAME="FromSVG#784421" RGB="#784421"/>
+        <COLOR NAME="FromSVG#786721" RGB="#786721"/>
+        <COLOR NAME="FromSVG#916f6f" RGB="#916f6f"/>
+        <COLOR NAME="FromSVG#917c6f" RGB="#917c6f"/>
+        <COLOR NAME="FromSVG#9e9057" RGB="#9e9057"/>
+        <COLOR NAME="FromSVG#a05a2c" RGB="#a05a2c"/>
+        <COLOR NAME="FromSVG#aa602f" RGB="#aa602f"/>
+        <COLOR NAME="FromSVG#ac9d93" RGB="#ac9d93"/>
+        <COLOR NAME="FromSVG#ae7651" RGB="#ae7651"/>
+        <COLOR NAME="FromSVG#b7ae9a" RGB="#b7ae9a"/>
+        <COLOR NAME="FromSVG#b7bec8" RGB="#b7bec8"/>
+        <COLOR NAME="FromSVG#bbad70" RGB="#bbad70"/>
+        <COLOR NAME="FromSVG#d38d5f" RGB="#d38d5f"/>
+        <COLOR NAME="FromSVG#d4824b" RGB="#d4824b"/>
+        <COLOR NAME="FromSVG#deaa87" RGB="#deaa87"/>
+        <COLOR NAME="FromSVG#debda8" RGB="#debda8"/>
+        <COLOR NAME="FromSVG#e3dbdb" RGB="#e3dbdb"/>
+        <COLOR NAME="FromSVG#e9ddaf" RGB="#e9ddaf"/>
+        <COLOR NAME="FromSVG#f2f2f2" RGB="#f2f2f2"/>
+        <COLOR NAME="FromSVG#f4eed7" RGB="#f4eed7"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" BCOLOR="None" BSHADE="100" CPARENT="Game Text"/>
+        <STYLE NAME="Header" PARENT="Default Paragraph Style" ALIGN="1" VOR="8" NACH="8" DROP="0" Bullet="0" Numeration="0" CPARENT="Game Header Text"/>
+        <STYLE NAME="Bullets" PARENT="Default Paragraph Style" ParagraphEffectOffset="3.6" ParagraphEffectIndent="1" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+        <STYLE NAME="Game Text" PARENT="Default Paragraph Style" NACH="6" DROP="0" DROPLIN="3" Bullet="0" Numeration="0" KeepTogether="1"/>
+        <STYLE NAME="Game Text Fiction" PARENT="Game Text" CPARENT="Game Text" FONT="Alegreya Italic"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="Game Text" CPARENT="Default Character Style" FONT="Alegreya Regular"/>
+        <CHARSTYLE CNAME="Game Header Text" CPARENT="Default Character Style" FONT="League Gothic Regular" FONTSIZE="24"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="1" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="1" PageLayout="0" openAction="">
+            <Subset Name="Alegreya Italic"/>
+            <Subset Name="Alegreya Regular"/>
+            <Subset Name="League Gothic Italic"/>
+            <Subset Name="League Gothic Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Two Column Page" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="7.2" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Two Column Page" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="7.2" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Two Column Page" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="7.2" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="140" YPOS="754.5" OwnPage="1" ItemID="48750496" PTYPE="4" WIDTH="532" HEIGHT="17.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 17.5 L0 17.5 L0 0 Z" copath="M0 0 L532 0 L532 17.5 L0 17.5 L0 0 Z" OnMasterPage="Two Column Page" gXpos="140" gYpos="685422322.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="60" OwnPage="0" ItemID="143313136" PTYPE="4" WIDTH="532" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 55 L0 55 L0 0 Z" copath="M0 0 L532 0 L532 55 L0 55 L0 0 Z" gXpos="140" gYpos="60" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="A Long Time Ago..."/>
+                <para PARENT="Header"/>
+                <ITEXT CH="A tiny little Star Wars-ish game by Bill Garrett &lt;garrett@peppermile.com&gt;"/>
+                <trail PARENT="Game Text Fiction" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="115" OwnPage="0" ItemID="143307472" PTYPE="4" WIDTH="262.4" HEIGHT="639" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" copath="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" gXpos="140" gYpos="115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="143301808" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Create a Character"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Pick a name (e.g. &quot;Han&quot;), an occupation (e.g. &quot;Smuggler&quot;), and some notes on appearance, habits, and backstory (e.g. &quot;scruffy-looking, pilots the Millennium Falcon, on the run from a crime boss&quot;)."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Pick six or so beats: skills, careers, signature equipment, etc. The Force, lightsabers, escapes, the Millennium Falcon, etc. are beats. Assign numbers between +2 and -2 to each beat. No specific beat can be at zero. The total of your beats must sum to zero."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="If you have a beat that talks about the Force, you are Force-sensitive, aligned either to the Light or Dark depending on whether it's positive or negative."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Balance"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="The Force is a continual struggle between Light and Dark. Each of your actions has a starting and ending Balance from this list:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - redemption, justice, goodness, and mercy."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - reinforcements, positive feelings, hope."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - neutral, uncertain, chaotic."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - danger, loss, menace, pain, harm."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - tragedy, great loss, death."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="How to Play"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Narrate your action to the GM. The GM determines starting Balance. You roll 2d6. Add or subtract any beats that apply."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="9 or higher: one Balance stage lighter than you started (e.g. Gray to Light)"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="6-8: Balance is unchanged"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="5 or less: one Balance stage darker than you started (e.g. Gray to Dark)"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Narrate an outcome consistent with the Balance that you ended up with. Note that none of these outcomes are necessarily better for you personally: they only favor a &quot;lighter&quot; or &quot;darker&quot; outcome for somebody. If you don't have a solid idea, or the GM overrules you, GM's narration takes precedence."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="The GM can arbitrarily pick who ends up better off as a result of the action, or use this guideline: if the Balance changed thanks to the roll, ask if the PC follows along with the adjustment. If they do, the advantage is theirs. If not, the advantage goes to the enemy."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="End of Session"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="At the end of every session, players can review and (if desired) rewrite or re-value their beats. Beats should continue to sum to zero. Individual beats should not exceed +2 or -2."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Characters who make a dedicated effort of aligning themselves to the Light Side can have beats that sum to +1 or +2, at the GM's option. Characters pursuing the Dark Side can sum to -1 or -2."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Actions"/>
+                <para PARENT="Header"/>
+                <ITEXT FONT="League Gothic Italic" CH="Conflicts"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Small unit tactics, large open warfare, and anything in between. It's you vs. an opposing force."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Fighting another force in a stand-up conflict"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Outflanking or outmaneuvering a stronger force"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dogfighting an enemy in space"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Placing somebody else in peril, or escaping from imminent peril"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Making an orderly retreat or clean getaway"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance is typically Dark. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - an enemy changes sides, a lost friend is found, peace (but not necessarily victory)"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - moment of hope, escape routes are taken, lives are saved or spared."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - the situation changes but the battle rages on, or a costly victory."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - the other side (or yours) loses people or suffers injury."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - a lasting injury, treachery, great loss, named people die."/>
+                <para PARENT="Bullets"/>
+                <ITEXT FONT="League Gothic Italic" CH="Lightsaber Duels"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="A contest between Force users, with the weapons of the Jedi and the use of the Force. Often mixed with a set of Moral and Emotional Moments."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Crossing sabers with your opponent"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Using telekinetic tricks or attacks to distract, disorient, or harm"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Changing the location or circumstances of the duel - the fight moves to a new area, for example."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Escaping to fight another day"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dealing a lasting injury"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance is your Force alignment plus your intent for your enemy. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - redemptive victory or bloodless capture."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - a successful defense, an appeal to your opponent's better nature."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - Duel of the Fates."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - opponent (or you) at a disadvantage, emotionally compromised, or hurt."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - opponent (or you) seriously injured or killed, a moral or physical tragedy."/>
+                <para PARENT="Bullets"/>
+                <ITEXT FONT="League Gothic Italic" CH="Races and Pursuits"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Any chase scene, whether a rooftop chase, pod racing, or TIE Fighter escape. You want to get to somewhere or away from somewhere, and somebody is interfering."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Disabling or destroying another chaser."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Making a risky move to advance your position in the chase."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Eluding pursuit or avoiding detection."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance depends on your intentions. Avoiding capture is Light, blowing up the other guy is Dark, just racing is Gray. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - chase ends without drama for somebody, or some chaser gets a big advantage."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - somebody escaped, avoided detection, or learned something interesting."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - mixed success, the chase goes on."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - off course, lost, damaged vehicles, lost something valuable in the chase."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - serious crash, wrecked vehicles, physical injury."/>
+                <para PARENT="Bullets"/>
+                <ITEXT FONT="League Gothic Italic" CH="Infiltration and Search"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="You want to get somewhere that's guarded, find something that's lost, or learn something that's kept secret."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Locating a lost or stolen macguffin"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Finding a prisoner or person in hiding"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Sneaking through a secure area via the sewers, access vents, or whatever"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Bluffing or hacking the guards or other defenses"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Seeking answers by trusting the Force"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance is usually Gray, but can go Light or Dark depending on how risky or precarious the situation is. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - truth comes readily, you achieve your goal with no fuss or muss."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - you avoided detection or got away, you found your target and all's well."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - you made it in or through but lost something in the process (your concealment, an important item, whatever)."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - some guards had to die, you're compromised, your target is hurt or otherwise can't be moved without effort, awful truth or harmful lie."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - a trap is sprung, entire party captured, somebody dies, objective permanently lost or false, stormtrooper HQ blown up with all inside, deceit or terrible truth."/>
+                <para PARENT="Bullets"/>
+                <ITEXT FONT="League Gothic Italic" CH="Moral and Emotional Moments"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Making a connection to somebody else, facing a difficult moral choice, confronting fears or doubts, all those great interior experiences."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Hazarding an emotional stake"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Revealing a secret"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Confronting a hard truth"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Making a cynical or amusing quip"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Trying to emotionally sway your friends or enemies"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Making a heroic sacrifice (of yourself or something important)"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Rather than rolling Balance, these actions shift the Balance of your (or somebody's) next action in the appropriate direction."/>
+                <trail PARENT="Game Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="409.6" YPOS="115" OwnPage="0" ItemID="143301808" PTYPE="4" WIDTH="262.4" HEIGHT="639" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" copath="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" gXpos="409.6" gYpos="115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="143318800" BACKITEM="143307472"/>
+        <PAGEOBJECT XPOS="140" YPOS="892" OwnPage="1" ItemID="143318800" PTYPE="4" WIDTH="262.4" HEIGHT="694" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" copath="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" gXpos="140" gYpos="892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="143321632" BACKITEM="143301808"/>
+        <PAGEOBJECT XPOS="409.6" YPOS="892" OwnPage="1" ItemID="143321632" PTYPE="4" WIDTH="262.4" HEIGHT="694" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" copath="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" gXpos="409.6" gYpos="892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="143318800"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
