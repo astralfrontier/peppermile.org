@@ -124,18 +124,116 @@
         <Sections>
             <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
-        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Two Column Page" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="7.2" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Two Column Page" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="7.2" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100" PAGEYPOS="852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Two Column Page" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="7.2" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="140" YPOS="754.5" OwnPage="1" ItemID="48750496" PTYPE="4" WIDTH="532" HEIGHT="17.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 17.5 L0 17.5 L0 0 Z" copath="M0 0 L532 0 L532 17.5 L0 17.5 L0 0 Z" OnMasterPage="Two Column Page" gXpos="140" gYpos="685422322.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="3.6" AGhorizontalAutoCount="0" AGverticalAutoCount="3" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Four Column Page" MNAM="" Size="Letter" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="3.6" AGhorizontalAutoCount="0" AGverticalAutoCount="3" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Four Column Page" Size="Letter" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="3.6" AGhorizontalAutoCount="0" AGverticalAutoCount="3" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="672" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Four Column Page" Size="Letter" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="3.6" AGhorizontalAutoCount="0" AGverticalAutoCount="3" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="140" YPOS="712" OwnPage="1" ItemID="100065312" PTYPE="4" WIDTH="175.3" HEIGHT="437.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 437.75 L0 437.75 L0 0 Z" copath="M0 0 L175.3 0 L175.3 437.75 L0 437.75 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="93872192" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <var name="pgno"/>
-                <trail ALIGN="1"/>
+                <ITEXT CH="Conflicts"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Small unit tactics, large open warfare, and anything in between. It's you vs. an opposing force."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Fight another force in a stand-up conflict"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Outflank or outmaneuver a stronger force"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dogfight an enemy in space"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Place somebody else in peril or escape from it yourself"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Retreat while under fire"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance is typically Dark. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - an enemy changes sides, a lost friend is found, peace (but not necessarily victory)"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - moment of hope, escape routes are taken, lives are saved or spared."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - the situation changes but the battle rages on, or a costly victory."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - the other side (or yours) loses people or suffers injury."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - a lasting injury, treachery, great loss, named people die."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Lightsaber Duels"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="A contest between Force users, with the weapons of the Jedi and the use of the Force. Often mixed with a set of Moral and Emotional Moments."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Cross sabers with your opponent"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Use telekinetic tricks or attacks to distract, disorient, or harm"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Move to a new area or change the environment"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Inflict or avoid a lasting injury"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Escape to fight another day"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance is your Force alignment modified by your intent. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - redemptive victory or bloodless capture."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - a successful defense, an appeal to your opponent's better nature."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - Duel of the Fates."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - opponent (or you) at a disadvantage, emotionally compromised, or hurt."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - opponent (or you) seriously injured or killed, a moral or physical tragedy."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Races and Pursuits"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="Any chase scene, whether a rooftop chase, pod racing, or TIE Fighter escape. You want to get to somewhere or away from somewhere, and somebody is interfering."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Disable or destroy another chaser"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Make a risky move to advance your position"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Elude pursuit or avoid detection"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance depends on your intentions. Avoiding capture is Light, blowing up the other guy is Dark, just racing is Gray. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - chase ends without drama for somebody, or some chaser gets a big advantage."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - somebody escaped, avoided detection, or learned something interesting."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - mixed success, the chase goes on."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - off course, lost, damaged vehicles, lost something valuable in the chase."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - serious crash, wrecked vehicles, physical injury."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Infiltration and Search"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="You want to get a thing, enter a place, or know a thing. Others would prefer that you don't."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="Locate a lost or stolen MacGuffin"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Find a prisoner or someone in hiding"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Get into a secure area through an unguarded route"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Bluff the guards or hack the system"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Search your feelings with the Force"/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Starting Balance is Gray or Dark depending on risk or time pressure. Outcomes:"/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="White - truth comes readily, you achieve your goal easily."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Light - you avoided detection or got away, you found your target and all's well."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Gray - you made it in or through but lost something in the process (your concealment, an important item, whatever)."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Dark - guards died, you're compromised, your target is hurt or can't move, awful truth or harmful lie."/>
+                <para PARENT="Bullets"/>
+                <ITEXT CH="Black - a trap is sprung, entire party captured, somebody dies, objective permanently lost or false, deceit or terrible truth."/>
+                <trail PARENT="Bullets"/>
             </StoryText>
-        </MASTEROBJECT>
-        <PAGEOBJECT XPOS="140" YPOS="60" OwnPage="0" ItemID="143313136" PTYPE="4" WIDTH="532" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532 0 L532 55 L0 55 L0 0 Z" copath="M0 0 L532 0 L532 55 L0 55 L0 0 Z" gXpos="140" gYpos="60" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="60" OwnPage="0" ItemID="106339648" PTYPE="4" WIDTH="712" HEIGHT="47.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L712 0 L712 47.25 L0 47.25 L0 0 Z" copath="M0 0 L712 0 L712 47.25 L0 47.25 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="A Long Time Ago..."/>
@@ -144,7 +242,7 @@
                 <trail PARENT="Game Text Fiction" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="140" YPOS="115" OwnPage="0" ItemID="143307472" PTYPE="4" WIDTH="262.4" HEIGHT="639" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" copath="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" gXpos="140" gYpos="115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="143301808" BACKITEM="-1">
+        <PAGEOBJECT XPOS="140" YPOS="107.25" OwnPage="0" ItemID="90379472" PTYPE="4" WIDTH="175.3" HEIGHT="461.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 461.25 L0 461.25 L0 0 Z" copath="M0 0 L175.3 0 L175.3 461.25 L0 461.25 L0 0 Z" gXpos="140" gYpos="107.25" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="108616368" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Create a Character"/>
@@ -155,7 +253,9 @@
                 <para PARENT="Game Text"/>
                 <ITEXT CH="If you have a beat that talks about the Force, you are Force-sensitive, aligned either to the Light or Dark depending on whether it's positive or negative."/>
                 <para PARENT="Game Text"/>
-                <ITEXT CH="Balance"/>
+                <ITEXT CH="You get to start with whatever equipment your character would logically have (blaster, spaceship, lightsaber, Wookie companion). If you need gear later, tell the GM and decide together if it requires an action to get."/>
+                <para PARENT="Game Text"/>
+                <ITEXT FONTSIZE="24" CH="Balance"/>
                 <para PARENT="Header"/>
                 <ITEXT CH="The Force is a continual struggle between Light and Dark. Each of your actions has a starting and ending Balance from this list:"/>
                 <para PARENT="Game Text"/>
@@ -169,6 +269,10 @@
                 <para PARENT="Bullets"/>
                 <ITEXT CH="Black - tragedy, great loss, death."/>
                 <para PARENT="Bullets"/>
+                <ITEXT CH="Emotional Moments"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="When you hazard an emotional stake, reveal a secret, confront a hard truth, make a cynical quip, engage in comic relief shenanigans, or even perform a heroic sacrifice, don't roll the action. These are the true moments of Star Wars. Instead, you get to shift the Balance of the next action (yours or someone else's) up or down one shade."/>
+                <para PARENT="Game Text"/>
                 <ITEXT CH="How to Play"/>
                 <para PARENT="Header"/>
                 <ITEXT CH="Narrate your action to the GM. The GM determines starting Balance. You roll 2d6. Add or subtract any beats that apply."/>
@@ -183,136 +287,25 @@
                 <para PARENT="Game Text"/>
                 <ITEXT CH="The GM can arbitrarily pick who ends up better off as a result of the action, or use this guideline: if the Balance changed thanks to the roll, ask if the PC follows along with the adjustment. If they do, the advantage is theirs. If not, the advantage goes to the enemy."/>
                 <para PARENT="Game Text"/>
+                <ITEXT CH="Villains"/>
+                <para PARENT="Header"/>
+                <ITEXT CH="If a villain would logically do something, the GM just says what they do. If this would impact a PC, the player gets to roll an action to see how it goes down for them."/>
+                <para PARENT="Game Text"/>
+                <ITEXT CH="If a bad guy is personally scary enough just by being in the scene, lower action Balances by one shade when interacting with them. Comic relief villains lighten the shade by one."/>
+                <para PARENT="Game Text"/>
                 <ITEXT CH="End of Session"/>
                 <para PARENT="Header"/>
                 <ITEXT CH="At the end of every session, players can review and (if desired) rewrite or re-value their beats. Beats should continue to sum to zero. Individual beats should not exceed +2 or -2."/>
                 <para PARENT="Game Text"/>
                 <ITEXT CH="Characters who make a dedicated effort of aligning themselves to the Light Side can have beats that sum to +1 or +2, at the GM's option. Characters pursuing the Dark Side can sum to -1 or -2."/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="Actions"/>
-                <para PARENT="Header"/>
-                <ITEXT FONT="League Gothic Italic" CH="Conflicts"/>
-                <para PARENT="Header"/>
-                <ITEXT CH="Small unit tactics, large open warfare, and anything in between. It's you vs. an opposing force."/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="Fighting another force in a stand-up conflict"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Outflanking or outmaneuvering a stronger force"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Dogfighting an enemy in space"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Placing somebody else in peril, or escaping from imminent peril"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Making an orderly retreat or clean getaway"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Starting Balance is typically Dark. Outcomes:"/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="White - an enemy changes sides, a lost friend is found, peace (but not necessarily victory)"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Light - moment of hope, escape routes are taken, lives are saved or spared."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Gray - the situation changes but the battle rages on, or a costly victory."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Dark - the other side (or yours) loses people or suffers injury."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Black - a lasting injury, treachery, great loss, named people die."/>
-                <para PARENT="Bullets"/>
-                <ITEXT FONT="League Gothic Italic" CH="Lightsaber Duels"/>
-                <para PARENT="Header"/>
-                <ITEXT CH="A contest between Force users, with the weapons of the Jedi and the use of the Force. Often mixed with a set of Moral and Emotional Moments."/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="Crossing sabers with your opponent"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Using telekinetic tricks or attacks to distract, disorient, or harm"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Changing the location or circumstances of the duel - the fight moves to a new area, for example."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Escaping to fight another day"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Dealing a lasting injury"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Starting Balance is your Force alignment plus your intent for your enemy. Outcomes:"/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="White - redemptive victory or bloodless capture."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Light - a successful defense, an appeal to your opponent's better nature."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Gray - Duel of the Fates."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Dark - opponent (or you) at a disadvantage, emotionally compromised, or hurt."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Black - opponent (or you) seriously injured or killed, a moral or physical tragedy."/>
-                <para PARENT="Bullets"/>
-                <ITEXT FONT="League Gothic Italic" CH="Races and Pursuits"/>
-                <para PARENT="Header"/>
-                <ITEXT CH="Any chase scene, whether a rooftop chase, pod racing, or TIE Fighter escape. You want to get to somewhere or away from somewhere, and somebody is interfering."/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="Disabling or destroying another chaser."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Making a risky move to advance your position in the chase."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Eluding pursuit or avoiding detection."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Starting Balance depends on your intentions. Avoiding capture is Light, blowing up the other guy is Dark, just racing is Gray. Outcomes:"/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="White - chase ends without drama for somebody, or some chaser gets a big advantage."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Light - somebody escaped, avoided detection, or learned something interesting."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Gray - mixed success, the chase goes on."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Dark - off course, lost, damaged vehicles, lost something valuable in the chase."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Black - serious crash, wrecked vehicles, physical injury."/>
-                <para PARENT="Bullets"/>
-                <ITEXT FONT="League Gothic Italic" CH="Infiltration and Search"/>
-                <para PARENT="Header"/>
-                <ITEXT CH="You want to get somewhere that's guarded, find something that's lost, or learn something that's kept secret."/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="Locating a lost or stolen macguffin"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Finding a prisoner or person in hiding"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Sneaking through a secure area via the sewers, access vents, or whatever"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Bluffing or hacking the guards or other defenses"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Seeking answers by trusting the Force"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Starting Balance is usually Gray, but can go Light or Dark depending on how risky or precarious the situation is. Outcomes:"/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="White - truth comes readily, you achieve your goal with no fuss or muss."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Light - you avoided detection or got away, you found your target and all's well."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Gray - you made it in or through but lost something in the process (your concealment, an important item, whatever)."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Dark - some guards had to die, you're compromised, your target is hurt or otherwise can't be moved without effort, awful truth or harmful lie."/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Black - a trap is sprung, entire party captured, somebody dies, objective permanently lost or false, stormtrooper HQ blown up with all inside, deceit or terrible truth."/>
-                <para PARENT="Bullets"/>
-                <ITEXT FONT="League Gothic Italic" CH="Moral and Emotional Moments"/>
-                <para PARENT="Header"/>
-                <ITEXT CH="Making a connection to somebody else, facing a difficult moral choice, confronting fears or doubts, all those great interior experiences."/>
-                <para PARENT="Game Text"/>
-                <ITEXT CH="Hazarding an emotional stake"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Revealing a secret"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Confronting a hard truth"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Making a cynical or amusing quip"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Trying to emotionally sway your friends or enemies"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Making a heroic sacrifice (of yourself or something important)"/>
-                <para PARENT="Bullets"/>
-                <ITEXT CH="Rather than rolling Balance, these actions shift the Balance of your (or somebody's) next action in the appropriate direction."/>
                 <trail PARENT="Game Text"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="409.6" YPOS="115" OwnPage="0" ItemID="143301808" PTYPE="4" WIDTH="262.4" HEIGHT="639" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" copath="M0 0 L262.4 0 L262.4 639 L0 639 L0 0 Z" gXpos="409.6" gYpos="115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="143318800" BACKITEM="143307472"/>
-        <PAGEOBJECT XPOS="140" YPOS="892" OwnPage="1" ItemID="143318800" PTYPE="4" WIDTH="262.4" HEIGHT="694" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" copath="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" gXpos="140" gYpos="892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="143321632" BACKITEM="143301808"/>
-        <PAGEOBJECT XPOS="409.6" YPOS="892" OwnPage="1" ItemID="143321632" PTYPE="4" WIDTH="262.4" HEIGHT="694" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" copath="M0 0 L262.4 0 L262.4 694 L0 694 L0 0 Z" gXpos="409.6" gYpos="892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="143318800"/>
+        <PAGEOBJECT XPOS="318.9" YPOS="107.25" OwnPage="0" ItemID="108616368" PTYPE="4" WIDTH="175.3" HEIGHT="428.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 428.25 L0 428.25 L0 0 Z" copath="M0 0 L175.3 0 L175.3 428.25 L0 428.25 L0 0 Z" gXpos="318.9" gYpos="107.25" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="99724992" BACKITEM="90379472"/>
+        <PAGEOBJECT XPOS="497.8" YPOS="107.25" OwnPage="0" ItemID="99724992" PTYPE="4" WIDTH="175.3" HEIGHT="484.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 484.75 L0 484.75 L0 0 Z" copath="M0 0 L175.3 0 L175.3 484.75 L0 484.75 L0 0 Z" gXpos="497.8" gYpos="107.25" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="6729504" BACKITEM="108616368"/>
+        <PAGEOBJECT XPOS="676.7" YPOS="107.25" OwnPage="0" ItemID="6729504" PTYPE="4" WIDTH="175.3" HEIGHT="484.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 484.75 L0 484.75 L0 0 Z" copath="M0 0 L175.3 0 L175.3 484.75 L0 484.75 L0 0 Z" gXpos="676.7" gYpos="107.25" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="99724992"/>
+        <PAGEOBJECT XPOS="318.9" YPOS="712" OwnPage="1" ItemID="93872192" PTYPE="4" WIDTH="175.3" HEIGHT="454.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 454.25 L0 454.25 L0 0 Z" copath="M0 0 L175.3 0 L175.3 454.25 L0 454.25 L0 0 Z" gXpos="318.9" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="121990672" BACKITEM="100065312"/>
+        <PAGEOBJECT XPOS="497.8" YPOS="712" OwnPage="1" ItemID="121990672" PTYPE="4" WIDTH="175.3" HEIGHT="467.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 467.75 L0 467.75 L0 0 Z" copath="M0 0 L175.3 0 L175.3 467.75 L0 467.75 L0 0 Z" gXpos="497.8" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="122385344" BACKITEM="93872192"/>
+        <PAGEOBJECT XPOS="676.7" YPOS="712" OwnPage="1" ItemID="122385344" PTYPE="4" WIDTH="175.3" HEIGHT="532" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.3 0 L175.3 532 L0 532 L0 0 Z" copath="M0 0 L175.3 0 L175.3 532 L0 532 L0 0 Z" gXpos="676.7" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="121990672"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
